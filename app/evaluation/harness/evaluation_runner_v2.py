@@ -121,7 +121,7 @@ class RealRetrievalEvaluator:
                 "timestamp": "2025-06-08",
                 "retriever": "hybrid"
             }, f, indent=2)
-        print(f"\n✅ Results saved to {output_file}")
+        print(f"\n Results saved to {output_file}")
 
 if __name__ == "__main__":
     evaluator = RealRetrievalEvaluator()
