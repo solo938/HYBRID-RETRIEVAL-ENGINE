@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "squad_56ddde6b9a695914005b9628",
+    "text": "France",
+    "is_impossible": false,
+    "answer_start": 159
+  },
+  {
+    "id": "squad_56ddde6b9a695914005b9629",
+    "text": "10th and 11th centuries",
+    "is_impossible": false,
+    "answer_start": 94
+  },
+  {
+    "id": "squad_56ddde6b9a695914005b962a",
+    "text": "Denmark, Iceland and Norway",
+    "is_impossible": false,
+    "answer_start": 256
+  },
+  {
+    "id": "squad_56ddde6b9a695914005b962b",
+    "text": "Rollo",
+    "is_impossible": false,
+    "answer_start": 308
+  },
+  {
+    "id": "squad_56ddde6b9a695914005b962c",
+    "text": "10th century",
+    "is_impossible": false,
+    "answer_start": 671
+  },
+  {
+    "id": "squad_5ad39d53604f3c001a3fe8d1",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad39d53604f3c001a3fe8d2",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad39d53604f3c001a3fe8d3",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad39d53604f3c001a3fe8d4",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56dddf4066d3e219004dad5f",
+    "text": "William the Conqueror",
+    "is_impossible": false,
+    "answer_start": 1022
+  },
+  {
+    "id": "squad_56dddf4066d3e219004dad60",
+    "text": "Richard I",
+    "is_impossible": false,
+    "answer_start": 573
+  },
+  {
+    "id": "squad_56dddf4066d3e219004dad61",
+    "text": "Catholic",
+    "is_impossible": false,
+    "answer_start": 230
+  },
+  {
+    "id": "squad_5ad3a266604f3c001a3fea27",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3a266604f3c001a3fea28",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3a266604f3c001a3fea29",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3a266604f3c001a3fea2a",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3a266604f3c001a3fea2b",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56dde0379a695914005b9636",
+    "text": "Viking",
+    "is_impossible": false,
+    "answer_start": 341
+  },
+  {
+    "id": "squad_56dde0379a695914005b9637",
+    "text": "9th century",
+    "is_impossible": false,
+    "answer_start": 309
+  },
+  {
+    "id": "squad_5ad3ab70604f3c001a3feb89",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3ab70604f3c001a3feb8a",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56dde0ba66d3e219004dad75",
+    "text": "911",
+    "is_impossible": false,
+    "answer_start": 244
+  },
+  {
+    "id": "squad_56dde0ba66d3e219004dad76",
+    "text": "King Charles III",
+    "is_impossible": false,
+    "answer_start": 324
+  },
+  {
+    "id": "squad_56dde0ba66d3e219004dad77",
+    "text": "Seine",
+    "is_impossible": false,
+    "answer_start": 711
+  },
+  {
+    "id": "squad_5ad3ad61604f3c001a3fec0d",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3ad61604f3c001a3fec0e",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3ad61604f3c001a3fec0f",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3ad61604f3c001a3fec10",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56dde1d966d3e219004dad8d",
+    "text": "Rollo",
+    "is_impossible": false,
+    "answer_start": 7
+  },
+  {
+    "id": "squad_5ad3ae14604f3c001a3fec39",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3ae14604f3c001a3fec3a",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56dde27d9a695914005b9651",
+    "text": "Catholicism",
+    "is_impossible": false,
+    "answer_start": 121
+  },
+  {
+    "id": "squad_56dde27d9a695914005b9652",
+    "text": "north",
+    "is_impossible": false,
+    "answer_start": 327
+  },
+  {
+    "id": "squad_5ad3af11604f3c001a3fec63",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3af11604f3c001a3fec64",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3af11604f3c001a3fec65",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56dde2fa66d3e219004dad9b",
+    "text": "fighting horsemen",
+    "is_impossible": false,
+    "answer_start": 428
+  },
+  {
+    "id": "squad_5ad3c626604f3c001a3ff011",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3c626604f3c001a3ff012",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3c626604f3c001a3ff013",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56de0f6a4396321400ee257f",
+    "text": "Seljuk Turks",
+    "is_impossible": false,
+    "answer_start": 161
+  },
+  {
+    "id": "squad_5ad3dbc6604f3c001a3ff3e9",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3dbc6604f3c001a3ff3ea",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3dbc6604f3c001a3ff3eb",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3dbc6604f3c001a3ff3ec",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56de0ffd4396321400ee258d",
+    "text": "1050s",
+    "is_impossible": false,
+    "answer_start": 85
+  },
+  {
+    "id": "squad_56de0ffd4396321400ee258e",
+    "text": "1060s",
+    "is_impossible": false,
+    "answer_start": 292
+  },
+  {
+    "id": "squad_56de0ffd4396321400ee258f",
+    "text": "Alexius Komnenos",
+    "is_impossible": false,
+    "answer_start": 522
+  },
+  {
+    "id": "squad_5ad3de8b604f3c001a3ff467",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3de8b604f3c001a3ff468",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3de8b604f3c001a3ff469",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3de8b604f3c001a3ff46a",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56de10b44396321400ee2593",
+    "text": "Afranji",
+    "is_impossible": false,
+    "answer_start": 539
+  },
+  {
+    "id": "squad_56de10b44396321400ee2594",
+    "text": "Oursel",
+    "is_impossible": false,
+    "answer_start": 256
+  },
+  {
+    "id": "squad_56de10b44396321400ee2595",
+    "text": "Turkish forces",
+    "is_impossible": false,
+    "answer_start": 20
+  },
+  {
+    "id": "squad_5ad3e96b604f3c001a3ff689",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3e96b604f3c001a3ff68a",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3e96b604f3c001a3ff68b",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3e96b604f3c001a3ff68c",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56de11154396321400ee25aa",
+    "text": "Norman mercenary",
+    "is_impossible": false,
+    "answer_start": 45
+  },
+  {
+    "id": "squad_5ad3ea79604f3c001a3ff6e9",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3ea79604f3c001a3ff6ea",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3ea79604f3c001a3ff6eb",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56de148dcffd8e1900b4b5bc",
+    "text": "Robert Guiscard",
+    "is_impossible": false,
+    "answer_start": 0
+  },
+  {
+    "id": "squad_56de148dcffd8e1900b4b5bd",
+    "text": "1082",
+    "is_impossible": false,
+    "answer_start": 1315
+  },
+  {
+    "id": "squad_56de148dcffd8e1900b4b5be",
+    "text": "30,000",
+    "is_impossible": false,
+    "answer_start": 492
+  },
+  {
+    "id": "squad_5ad3ed26604f3c001a3ff799",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3ed26604f3c001a3ff79a",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3ed26604f3c001a3ff79b",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3ed26604f3c001a3ff79c",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56de15104396321400ee25b7",
+    "text": "Deabolis",
+    "is_impossible": false,
+    "answer_start": 302
+  },
+  {
+    "id": "squad_56de15104396321400ee25b8",
+    "text": "Bohemond",
+    "is_impossible": false,
+    "answer_start": 79
+  },
+  {
+    "id": "squad_56de15104396321400ee25b9",
+    "text": "Deabolis",
+    "is_impossible": false,
+    "answer_start": 302
+  },
+  {
+    "id": "squad_5ad3ee2d604f3c001a3ff7e1",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3ee2d604f3c001a3ff7e2",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3ee2d604f3c001a3ff7e3",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56de1563cffd8e1900b4b5c2",
+    "text": "1185",
+    "is_impossible": false,
+    "answer_start": 86
+  },
+  {
+    "id": "squad_56de1563cffd8e1900b4b5c3",
+    "text": "Dyrrachium",
+    "is_impossible": false,
+    "answer_start": 125
+  },
+  {
+    "id": "squad_56de1563cffd8e1900b4b5c4",
+    "text": "the Adriatic",
+    "is_impossible": false,
+    "answer_start": 257
+  },
+  {
+    "id": "squad_5ad3f028604f3c001a3ff823",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3f028604f3c001a3ff824",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3f028604f3c001a3ff825",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56de15dbcffd8e1900b4b5c8",
+    "text": "King Ethelred II",
+    "is_impossible": false,
+    "answer_start": 360
+  },
+  {
+    "id": "squad_56de15dbcffd8e1900b4b5c9",
+    "text": "Duke Richard II",
+    "is_impossible": false,
+    "answer_start": 327
+  },
+  {
+    "id": "squad_56de15dbcffd8e1900b4b5ca",
+    "text": "Normandy",
+    "is_impossible": false,
+    "answer_start": 423
+  },
+  {
+    "id": "squad_56de15dbcffd8e1900b4b5cb",
+    "text": "Sweyn Forkbeard",
+    "is_impossible": false,
+    "answer_start": 480
+  },
+  {
+    "id": "squad_5ad3f187604f3c001a3ff86f",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3f187604f3c001a3ff870",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3f187604f3c001a3ff871",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56de1645cffd8e1900b4b5d0",
+    "text": "Harthacnut",
+    "is_impossible": false,
+    "answer_start": 115
+  },
+  {
+    "id": "squad_56de1645cffd8e1900b4b5d1",
+    "text": "1041",
+    "is_impossible": false,
+    "answer_start": 71
+  },
+  {
+    "id": "squad_56de1645cffd8e1900b4b5d2",
+    "text": "Robert of Jumi\u00e8ges",
+    "is_impossible": false,
+    "answer_start": 382
+  },
+  {
+    "id": "squad_5ad3f350604f3c001a3ff8ef",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3f350604f3c001a3ff8f0",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3f350604f3c001a3ff8f1",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56de16ca4396321400ee25c5",
+    "text": "Battle of Hastings",
+    "is_impossible": false,
+    "answer_start": 85
+  },
+  {
+    "id": "squad_56de16ca4396321400ee25c6",
+    "text": "William II",
+    "is_impossible": false,
+    "answer_start": 14
+  },
+  {
+    "id": "squad_56de16ca4396321400ee25c7",
+    "text": "1066",
+    "is_impossible": false,
+    "answer_start": 3
+  },
+  {
+    "id": "squad_56de16ca4396321400ee25c8",
+    "text": "Anglo-Saxons",
+    "is_impossible": false,
+    "answer_start": 161
+  },
+  {
+    "id": "squad_5ad3f4b1604f3c001a3ff951",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3f4b1604f3c001a3ff952",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3f4b1604f3c001a3ff953",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3f4b1604f3c001a3ff954",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56de1728cffd8e1900b4b5d7",
+    "text": "Modern English",
+    "is_impossible": false,
+    "answer_start": 629
+  },
+  {
+    "id": "squad_5ad3f5b0604f3c001a3ff9ab",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3f5b0604f3c001a3ff9ac",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3f5b0604f3c001a3ff9ad",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56de179dcffd8e1900b4b5da",
+    "text": "1169",
+    "is_impossible": false,
+    "answer_start": 101
+  },
+  {
+    "id": "squad_56de179dcffd8e1900b4b5db",
+    "text": "Ireland",
+    "is_impossible": false,
+    "answer_start": 379
+  },
+  {
+    "id": "squad_56de179dcffd8e1900b4b5dc",
+    "text": "Irish",
+    "is_impossible": false,
+    "answer_start": 37
+  },
+  {
+    "id": "squad_5ad3f6f5604f3c001a3ffa09",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3f6f5604f3c001a3ffa0a",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3f6f5604f3c001a3ffa0b",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56de17f9cffd8e1900b4b5e0",
+    "text": "Edgar",
+    "is_impossible": false,
+    "answer_start": 75
+  },
+  {
+    "id": "squad_56de17f9cffd8e1900b4b5e1",
+    "text": "King Malcolm III of Scotland",
+    "is_impossible": false,
+    "answer_start": 120
+  },
+  {
+    "id": "squad_56de17f9cffd8e1900b4b5e2",
+    "text": "1072",
+    "is_impossible": false,
+    "answer_start": 300
+  },
+  {
+    "id": "squad_56de17f9cffd8e1900b4b5e3",
+    "text": "Duncan",
+    "is_impossible": false,
+    "answer_start": 440
+  },
+  {
+    "id": "squad_5ad3f7ac604f3c001a3ffa3b",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3f7ac604f3c001a3ffa3c",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3f7ac604f3c001a3ffa3d",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56de3cd0cffd8e1900b4b6be",
+    "text": "Sybilla of Normandy",
+    "is_impossible": false,
+    "answer_start": 271
+  },
+  {
+    "id": "squad_56de3cd0cffd8e1900b4b6bf",
+    "text": "Norman",
+    "is_impossible": false,
+    "answer_start": 336
+  },
+  {
+    "id": "squad_5ad3f8d2604f3c001a3ffa8d",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3f8d2604f3c001a3ffa8e",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56de3d594396321400ee26ca",
+    "text": "Hereford",
+    "is_impossible": false,
+    "answer_start": 158
+  },
+  {
+    "id": "squad_56de3d594396321400ee26cb",
+    "text": "the Welsh",
+    "is_impossible": false,
+    "answer_start": 227
+  },
+  {
+    "id": "squad_56de3d594396321400ee26cc",
+    "text": "Edward the Confessor",
+    "is_impossible": false,
+    "answer_start": 90
+  },
+  {
+    "id": "squad_5ad3fb01604f3c001a3ffb35",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3fb01604f3c001a3ffb36",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56de3dbacffd8e1900b4b6d2",
+    "text": "Wales",
+    "is_impossible": false,
+    "answer_start": 299
+  },
+  {
+    "id": "squad_5ad3fb6e604f3c001a3ffb5f",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3fb6e604f3c001a3ffb60",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56de3e414396321400ee26d8",
+    "text": "1018",
+    "is_impossible": false,
+    "answer_start": 221
+  },
+  {
+    "id": "squad_56de3e414396321400ee26d9",
+    "text": "William of Montreuil",
+    "is_impossible": false,
+    "answer_start": 380
+  },
+  {
+    "id": "squad_5ad3fc41604f3c001a3ffb8f",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3fc41604f3c001a3ffb90",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3fc41604f3c001a3ffb91",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3fc41604f3c001a3ffb92",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56de3ebc4396321400ee26e6",
+    "text": "1097",
+    "is_impossible": false,
+    "answer_start": 267
+  },
+  {
+    "id": "squad_56de3ebc4396321400ee26e7",
+    "text": "Tancred",
+    "is_impossible": false,
+    "answer_start": 100
+  },
+  {
+    "id": "squad_56de3ebc4396321400ee26e8",
+    "text": "Jerusalem",
+    "is_impossible": false,
+    "answer_start": 390
+  },
+  {
+    "id": "squad_5ad4017a604f3c001a3ffd1f",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad4017a604f3c001a3ffd20",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56de3efccffd8e1900b4b6fe",
+    "text": "380 years",
+    "is_impossible": false,
+    "answer_start": 189
+  },
+  {
+    "id": "squad_5ad401f2604f3c001a3ffd41",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad401f2604f3c001a3ffd42",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56de3f784396321400ee26fa",
+    "text": "a storm",
+    "is_impossible": false,
+    "answer_start": 99
+  },
+  {
+    "id": "squad_56de3f784396321400ee26fb",
+    "text": "Berengaria",
+    "is_impossible": false,
+    "answer_start": 218
+  },
+  {
+    "id": "squad_56de3f784396321400ee26fc",
+    "text": "1191",
+    "is_impossible": false,
+    "answer_start": 9
+  },
+  {
+    "id": "squad_56de3f784396321400ee26fd",
+    "text": "Isaac Komnenos",
+    "is_impossible": false,
+    "answer_start": 421
+  },
+  {
+    "id": "squad_5ad40280604f3c001a3ffd57",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad40280604f3c001a3ffd58",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad40280604f3c001a3ffd59",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56de40da4396321400ee2708",
+    "text": "Conrad of Montferrat",
+    "is_impossible": false,
+    "answer_start": 188
+  },
+  {
+    "id": "squad_56de40da4396321400ee2709",
+    "text": "silver",
+    "is_impossible": false,
+    "answer_start": 565
+  },
+  {
+    "id": "squad_56de40da4396321400ee270a",
+    "text": "Guy de Lusignan",
+    "is_impossible": false,
+    "answer_start": 85
+  },
+  {
+    "id": "squad_5ad404a6604f3c001a3ffde1",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad404a6604f3c001a3ffde2",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad404a6604f3c001a3ffde3",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56de49564396321400ee277a",
+    "text": "Africa",
+    "is_impossible": false,
+    "answer_start": 219
+  },
+  {
+    "id": "squad_5ad40419604f3c001a3ffdb7",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad40419604f3c001a3ffdb8",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56de49a8cffd8e1900b4b7a7",
+    "text": "Bethencourt",
+    "is_impossible": false,
+    "answer_start": 0
+  },
+  {
+    "id": "squad_56de49a8cffd8e1900b4b7a8",
+    "text": "Enrique P\u00e9rez de Guzm\u00e1n",
+    "is_impossible": false,
+    "answer_start": 172
+  },
+  {
+    "id": "squad_56de49a8cffd8e1900b4b7a9",
+    "text": "Maciot de Bethencourt",
+    "is_impossible": false,
+    "answer_start": 116
+  },
+  {
+    "id": "squad_5ad403c1604f3c001a3ffd97",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad403c1604f3c001a3ffd98",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56de4a474396321400ee2786",
+    "text": "Channel Islands",
+    "is_impossible": false,
+    "answer_start": 155
+  },
+  {
+    "id": "squad_56de4a474396321400ee2787",
+    "text": "two",
+    "is_impossible": false,
+    "answer_start": 212
+  },
+  {
+    "id": "squad_5ad40358604f3c001a3ffd7d",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad40358604f3c001a3ffd7e",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad40358604f3c001a3ffd7f",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56de4a89cffd8e1900b4b7bd",
+    "text": "Romanesque",
+    "is_impossible": false,
+    "answer_start": 135
+  },
+  {
+    "id": "squad_56de4a89cffd8e1900b4b7be",
+    "text": "rounded",
+    "is_impossible": false,
+    "answer_start": 332
+  },
+  {
+    "id": "squad_5ad402ce604f3c001a3ffd67",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56de4b074396321400ee2793",
+    "text": "Early Gothic",
+    "is_impossible": false,
+    "answer_start": 108
+  },
+  {
+    "id": "squad_56de4b074396321400ee2794",
+    "text": "Anglo-Saxon",
+    "is_impossible": false,
+    "answer_start": 79
+  },
+  {
+    "id": "squad_56de4b074396321400ee2795",
+    "text": "Sicily",
+    "is_impossible": false,
+    "answer_start": 328
+  },
+  {
+    "id": "squad_5ad400b0604f3c001a3ffcdf",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad400b0604f3c001a3ffce0",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad400b0604f3c001a3ffce1",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56de4b5c4396321400ee2799",
+    "text": "early 11th century",
+    "is_impossible": false,
+    "answer_start": 129
+  },
+  {
+    "id": "squad_56de4b5c4396321400ee279a",
+    "text": "dukes",
+    "is_impossible": false,
+    "answer_start": 152
+  },
+  {
+    "id": "squad_5ad3ffd7604f3c001a3ffca7",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3ffd7604f3c001a3ffca8",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3ffd7604f3c001a3ffca9",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3ffd7604f3c001a3ffcaa",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56de4bb84396321400ee27a2",
+    "text": "16th century",
+    "is_impossible": false,
+    "answer_start": 35
+  },
+  {
+    "id": "squad_5ad3ff1b604f3c001a3ffc73",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3ff1b604f3c001a3ffc74",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56de4c324396321400ee27ab",
+    "text": "embroidery",
+    "is_impossible": false,
+    "answer_start": 104
+  },
+  {
+    "id": "squad_56de4c324396321400ee27ac",
+    "text": "Bayeux Tapestry",
+    "is_impossible": false,
+    "answer_start": 49
+  },
+  {
+    "id": "squad_56de4c324396321400ee27ad",
+    "text": "Odo",
+    "is_impossible": false,
+    "answer_start": 139
+  },
+  {
+    "id": "squad_5ad3fe91604f3c001a3ffc47",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3fe91604f3c001a3ffc48",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56de51244396321400ee27ef",
+    "text": "mosaics",
+    "is_impossible": false,
+    "answer_start": 466
+  },
+  {
+    "id": "squad_5ad3fe0d604f3c001a3ffc1b",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3fe0d604f3c001a3ffc1c",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3fe0d604f3c001a3ffc1d",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56de51c64396321400ee27f7",
+    "text": "11th",
+    "is_impossible": false,
+    "answer_start": 97
+  },
+  {
+    "id": "squad_56de51c64396321400ee27f8",
+    "text": "William of Volpiano and John of Ravenna",
+    "is_impossible": false,
+    "answer_start": 234
+  },
+  {
+    "id": "squad_5ad3fd68604f3c001a3ffbe7",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad3fd68604f3c001a3ffbe8",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56de52614396321400ee27fb",
+    "text": "southern Italy",
+    "is_impossible": false,
+    "answer_start": 179
+  },
+  {
+    "id": "squad_56de52614396321400ee27fc",
+    "text": "Latin monastery at Sant'Eufemia.",
+    "is_impossible": false,
+    "answer_start": 259
+  },
+  {
+    "id": "squad_56de52614396321400ee27fd",
+    "text": "Robert Guiscard",
+    "is_impossible": false,
+    "answer_start": 225
+  },
+  {
+    "id": "squad_56de52614396321400ee27fe",
+    "text": "singing",
+    "is_impossible": false,
+    "answer_start": 32
+  },
+  {
+    "id": "squad_5ad3fccf604f3c001a3ffbb5",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56e16182e3433e1400422e28",
+    "text": "Computational complexity theory",
+    "is_impossible": false,
+    "answer_start": 0
+  },
+  {
+    "id": "squad_56e16182e3433e1400422e29",
+    "text": "inherent difficulty",
+    "is_impossible": false,
+    "answer_start": 175
+  },
+  {
+    "id": "squad_56e16182e3433e1400422e2a",
+    "text": "computational problems",
+    "is_impossible": false,
+    "answer_start": 133
+  },
+  {
+    "id": "squad_5ad5316b5b96ef001a10ab72",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad5316b5b96ef001a10ab73",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad5316b5b96ef001a10ab74",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad5316b5b96ef001a10ab75",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad5316b5b96ef001a10ab76",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56e16839cd28a01900c67887",
+    "text": "if its solution requires significant resources",
+    "is_impossible": false,
+    "answer_start": 46
+  },
+  {
+    "id": "squad_56e16839cd28a01900c67888",
+    "text": "mathematical models of computation",
+    "is_impossible": false,
+    "answer_start": 176
+  },
+  {
+    "id": "squad_56e16839cd28a01900c67889",
+    "text": "time and storage",
+    "is_impossible": false,
+    "answer_start": 305
+  },
+  {
+    "id": "squad_56e16839cd28a01900c6788a",
+    "text": "number of gates in a circuit",
+    "is_impossible": false,
+    "answer_start": 440
+  },
+  {
+    "id": "squad_56e16839cd28a01900c6788b",
+    "text": "determine the practical limits on what computers can and cannot do",
+    "is_impossible": false,
+    "answer_start": 615
+  },
+  {
+    "id": "squad_5ad532575b96ef001a10ab7c",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad532575b96ef001a10ab7d",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad532575b96ef001a10ab7e",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad532575b96ef001a10ab7f",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad532575b96ef001a10ab80",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56e17644e3433e1400422f40",
+    "text": "analysis of algorithms and computability theory",
+    "is_impossible": false,
+    "answer_start": 59
+  },
+  {
+    "id": "squad_56e17644e3433e1400422f41",
+    "text": "analysis of algorithms",
+    "is_impossible": false,
+    "answer_start": 59
+  },
+  {
+    "id": "squad_56e17644e3433e1400422f42",
+    "text": "computational complexity theory",
+    "is_impossible": false,
+    "answer_start": 161
+  },
+  {
+    "id": "squad_56e17644e3433e1400422f43",
+    "text": "computability theory",
+    "is_impossible": false,
+    "answer_start": 86
+  },
+  {
+    "id": "squad_5ad5344b5b96ef001a10ab86",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad5344b5b96ef001a10ab87",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad5344b5b96ef001a10ab88",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad5344b5b96ef001a10ab89",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad5344b5b96ef001a10ab8a",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56e17a7ccd28a01900c679a1",
+    "text": "problem instance",
+    "is_impossible": false,
+    "answer_start": 187
+  },
+  {
+    "id": "squad_56e17a7ccd28a01900c679a2",
+    "text": "the problem",
+    "is_impossible": false,
+    "answer_start": 237
+  },
+  {
+    "id": "squad_56e17a7ccd28a01900c679a3",
+    "text": "concrete",
+    "is_impossible": false,
+    "answer_start": 402
+  },
+  {
+    "id": "squad_56e17a7ccd28a01900c679a4",
+    "text": "instances",
+    "is_impossible": false,
+    "answer_start": 67
+  },
+  {
+    "id": "squad_56e17a7ccd28a01900c679a5",
+    "text": "solution",
+    "is_impossible": false,
+    "answer_start": 93
+  },
+  {
+    "id": "squad_5ad5364c5b96ef001a10ab90",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad5364c5b96ef001a10ab91",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad5364c5b96ef001a10ab92",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad5364c5b96ef001a10ab93",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad5364c5b96ef001a10ab94",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56e17e6ee3433e1400422f7f",
+    "text": "2000",
+    "is_impossible": false,
+    "answer_start": 190
+  },
+  {
+    "id": "squad_56e17e6ee3433e1400422f80",
+    "text": "round trip through all sites in Milan",
+    "is_impossible": false,
+    "answer_start": 400
+  },
+  {
+    "id": "squad_56e17e6ee3433e1400422f81",
+    "text": "computational problems",
+    "is_impossible": false,
+    "answer_start": 520
+  },
+  {
+    "id": "squad_5ad537a15b96ef001a10ab9a",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad537a15b96ef001a10ab9b",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad537a15b96ef001a10ab9c",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad537a15b96ef001a10ab9d",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56e181d9e3433e1400422fa0",
+    "text": "problem instance",
+    "is_impossible": false,
+    "answer_start": 43
+  },
+  {
+    "id": "squad_56e181d9e3433e1400422fa1",
+    "text": "binary alphabet",
+    "is_impossible": false,
+    "answer_start": 131
+  },
+  {
+    "id": "squad_56e181d9e3433e1400422fa2",
+    "text": "bitstrings",
+    "is_impossible": false,
+    "answer_start": 195
+  },
+  {
+    "id": "squad_56e181d9e3433e1400422fa3",
+    "text": "binary notation",
+    "is_impossible": false,
+    "answer_start": 349
+  },
+  {
+    "id": "squad_56e181d9e3433e1400422fa4",
+    "text": "adjacency matrices",
+    "is_impossible": false,
+    "answer_start": 411
+  },
+  {
+    "id": "squad_5ad5391e5b96ef001a10aba2",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad5391e5b96ef001a10aba3",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad5391e5b96ef001a10aba4",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad5391e5b96ef001a10aba5",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad5391e5b96ef001a10aba6",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56e190bce3433e1400422fc8",
+    "text": "Decision problems",
+    "is_impossible": false,
+    "answer_start": 0
+  },
+  {
+    "id": "squad_56e190bce3433e1400422fc9",
+    "text": "yes or no",
+    "is_impossible": false,
+    "answer_start": 179
+  },
+  {
+    "id": "squad_56e190bce3433e1400422fca",
+    "text": "1 or 0",
+    "is_impossible": false,
+    "answer_start": 212
+  },
+  {
+    "id": "squad_56e190bce3433e1400422fcb",
+    "text": "yes",
+    "is_impossible": false,
+    "answer_start": 179
+  },
+  {
+    "id": "squad_56e190bce3433e1400422fcc",
+    "text": "yes",
+    "is_impossible": false,
+    "answer_start": 179
+  },
+  {
+    "id": "squad_5ad53b9d5b96ef001a10abc8",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad53b9d5b96ef001a10abc9",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad53b9d5b96ef001a10abca",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad53b9d5b96ef001a10abcb",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad53b9d5b96ef001a10abcc",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56e19557e3433e1400422fee",
+    "text": "arbitrary graph",
+    "is_impossible": false,
+    "answer_start": 67
+  },
+  {
+    "id": "squad_56e19557e3433e1400422ff0",
+    "text": "formal language",
+    "is_impossible": false,
+    "answer_start": 167
+  },
+  {
+    "id": "squad_56e19557e3433e1400422ff1",
+    "text": "how graphs are encoded as binary strings",
+    "is_impossible": false,
+    "answer_start": 339
+  },
+  {
+    "id": "squad_5ad53d705b96ef001a10abd2",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad53d705b96ef001a10abd3",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad53d705b96ef001a10abd4",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad53d705b96ef001a10abd5",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56e19724cd28a01900c679f6",
+    "text": "a computational problem",
+    "is_impossible": false,
+    "answer_start": 22
+  },
+  {
+    "id": "squad_56e19724cd28a01900c679f7",
+    "text": "a single output",
+    "is_impossible": false,
+    "answer_start": 52
+  },
+  {
+    "id": "squad_56e19724cd28a01900c679f8",
+    "text": "A function problem",
+    "is_impossible": false,
+    "answer_start": 0
+  },
+  {
+    "id": "squad_56e19724cd28a01900c679f9",
+    "text": "the integer factorization problem",
+    "is_impossible": false,
+    "answer_start": 277
+  },
+  {
+    "id": "squad_56e19724cd28a01900c679fa",
+    "text": "complex",
+    "is_impossible": false,
+    "answer_start": 142
+  },
+  {
+    "id": "squad_5ad53e615b96ef001a10abda",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad53e615b96ef001a10abdb",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad53e615b96ef001a10abdc",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad53e615b96ef001a10abdd",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad53e615b96ef001a10abde",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56e1a0dccd28a01900c67a2e",
+    "text": "decision problems",
+    "is_impossible": false,
+    "answer_start": 95
+  },
+  {
+    "id": "squad_56e1a0dccd28a01900c67a2f",
+    "text": "set of triples",
+    "is_impossible": false,
+    "answer_start": 284
+  },
+  {
+    "id": "squad_5ad53f815b96ef001a10abe4",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad53f815b96ef001a10abe5",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad53f815b96ef001a10abe6",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56e1a38de3433e140042305c",
+    "text": "how much time the best algorithm requires to solve the problem",
+    "is_impossible": false,
+    "answer_start": 82
+  },
+  {
+    "id": "squad_56e1a38de3433e140042305d",
+    "text": "the instance",
+    "is_impossible": false,
+    "answer_start": 199
+  },
+  {
+    "id": "squad_56e1a38de3433e140042305e",
+    "text": "as a function of the size of the instance",
+    "is_impossible": false,
+    "answer_start": 388
+  },
+  {
+    "id": "squad_56e1a38de3433e140042305f",
+    "text": "bits",
+    "is_impossible": false,
+    "answer_start": 484
+  },
+  {
+    "id": "squad_56e1a38de3433e1400423060",
+    "text": "an increase in the input size",
+    "is_impossible": false,
+    "answer_start": 551
+  },
+  {
+    "id": "squad_5ad541ad5b96ef001a10abea",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad541ad5b96ef001a10abeb",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad541ad5b96ef001a10abec",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad541ad5b96ef001a10abed",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad541ad5b96ef001a10abee",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56e1a564cd28a01900c67a48",
+    "text": "Cobham's thesis",
+    "is_impossible": false,
+    "answer_start": 347
+  },
+  {
+    "id": "squad_56e1a564cd28a01900c67a49",
+    "text": "the time taken",
+    "is_impossible": false,
+    "answer_start": 24
+  },
+  {
+    "id": "squad_56e1a564cd28a01900c67a4a",
+    "text": "worst-case time complexity",
+    "is_impossible": false,
+    "answer_start": 156
+  },
+  {
+    "id": "squad_56e1a564cd28a01900c67a4b",
+    "text": "T(n)",
+    "is_impossible": false,
+    "answer_start": 183
+  },
+  {
+    "id": "squad_56e1a564cd28a01900c67a4c",
+    "text": "polynomial time algorithm",
+    "is_impossible": false,
+    "answer_start": 320
+  },
+  {
+    "id": "squad_5ad542db5b96ef001a10abf4",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad542db5b96ef001a10abf5",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad542db5b96ef001a10abf6",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad542db5b96ef001a10abf7",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad542db5b96ef001a10abf8",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56e1aba0e3433e1400423094",
+    "text": "A Turing machine",
+    "is_impossible": false,
+    "answer_start": 0
+  },
+  {
+    "id": "squad_56e1aba0e3433e1400423095",
+    "text": "an algorithm",
+    "is_impossible": false,
+    "answer_start": 427
+  },
+  {
+    "id": "squad_56e1aba0e3433e1400423097",
+    "text": "the Turing machine",
+    "is_impossible": false,
+    "answer_start": 924
+  },
+  {
+    "id": "squad_56e1aba0e3433e1400423098",
+    "text": "symbols",
+    "is_impossible": false,
+    "answer_start": 117
+  },
+  {
+    "id": "squad_5ad543c05b96ef001a10abfe",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad543c05b96ef001a10abff",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad543c05b96ef001a10ac00",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad543c05b96ef001a10ac01",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56e1aff7cd28a01900c67a68",
+    "text": "A deterministic Turing machine",
+    "is_impossible": false,
+    "answer_start": 0
+  },
+  {
+    "id": "squad_56e1aff7cd28a01900c67a69",
+    "text": "rules",
+    "is_impossible": false,
+    "answer_start": 91
+  },
+  {
+    "id": "squad_56e1aff7cd28a01900c67a6a",
+    "text": "A probabilistic Turing machine",
+    "is_impossible": false,
+    "answer_start": 130
+  },
+  {
+    "id": "squad_56e1aff7cd28a01900c67a6b",
+    "text": "A non-deterministic Turing machine",
+    "is_impossible": false,
+    "answer_start": 398
+  },
+  {
+    "id": "squad_56e1aff7cd28a01900c67a6c",
+    "text": "randomized algorithms",
+    "is_impossible": false,
+    "answer_start": 375
+  },
+  {
+    "id": "squad_5ad546c75b96ef001a10ac0e",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad546c75b96ef001a10ac0f",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad546c75b96ef001a10ac10",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad546c75b96ef001a10ac11",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad546c75b96ef001a10ac12",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56e1b00ce3433e140042309e",
+    "text": "complexity classes",
+    "is_impossible": false,
+    "answer_start": 49
+  },
+  {
+    "id": "squad_56e1b00ce3433e140042309f",
+    "text": "time or space",
+    "is_impossible": false,
+    "answer_start": 330
+  },
+  {
+    "id": "squad_56e1b00ce3433e14004230a1",
+    "text": "probabilistic Turing machines, non-deterministic Turing machines",
+    "is_impossible": false,
+    "answer_start": 108
+  },
+  {
+    "id": "squad_5ad545545b96ef001a10ac06",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad545545b96ef001a10ac07",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad545545b96ef001a10ac08",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad545545b96ef001a10ac09",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56e1b169cd28a01900c67a72",
+    "text": "random access machines",
+    "is_impossible": false,
+    "answer_start": 125
+  },
+  {
+    "id": "squad_56e1b169cd28a01900c67a73",
+    "text": "computational power",
+    "is_impossible": false,
+    "answer_start": 248
+  },
+  {
+    "id": "squad_56e1b169cd28a01900c67a74",
+    "text": "time and memory",
+    "is_impossible": false,
+    "answer_start": 273
+  },
+  {
+    "id": "squad_56e1b169cd28a01900c67a75",
+    "text": "the machines operate deterministically",
+    "is_impossible": false,
+    "answer_start": 382
+  },
+  {
+    "id": "squad_5ad547945b96ef001a10ac18",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad547945b96ef001a10ac19",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad547945b96ef001a10ac1a",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad547945b96ef001a10ac1b",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56e1b355e3433e14004230b0",
+    "text": "non-deterministic",
+    "is_impossible": false,
+    "answer_start": 110
+  },
+  {
+    "id": "squad_56e1b355e3433e14004230b1",
+    "text": "unusual resources",
+    "is_impossible": false,
+    "answer_start": 76
+  },
+  {
+    "id": "squad_56e1b355e3433e14004230b2",
+    "text": "mathematical models",
+    "is_impossible": false,
+    "answer_start": 402
+  },
+  {
+    "id": "squad_56e1b355e3433e14004230b3",
+    "text": "time",
+    "is_impossible": false,
+    "answer_start": 468
+  },
+  {
+    "id": "squad_5ad5489b5b96ef001a10ac2a",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad5489b5b96ef001a10ac2b",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad5489b5b96ef001a10ac2c",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad5489b5b96ef001a10ac2d",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad5489b5b96ef001a10ac2e",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56e1b62ecd28a01900c67aa3",
+    "text": "state transitions",
+    "is_impossible": false,
+    "answer_start": 261
+  },
+  {
+    "id": "squad_56e1b62ecd28a01900c67aa4",
+    "text": "difficulty",
+    "is_impossible": false,
+    "answer_start": 695
+  },
+  {
+    "id": "squad_56e1b62ecd28a01900c67aa5",
+    "text": "DTIME(f(n))",
+    "is_impossible": false,
+    "answer_start": 873
+  },
+  {
+    "id": "squad_56e1b62ecd28a01900c67aa6",
+    "text": "time",
+    "is_impossible": false,
+    "answer_start": 85
+  },
+  {
+    "id": "squad_5ad54a375b96ef001a10ac48",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad54a375b96ef001a10ac49",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad54a375b96ef001a10ac4a",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad54a375b96ef001a10ac4b",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad54a375b96ef001a10ac4c",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56e1b754cd28a01900c67abc",
+    "text": "complexity resources",
+    "is_impossible": false,
+    "answer_start": 106
+  },
+  {
+    "id": "squad_56e1b754cd28a01900c67abd",
+    "text": "computational resource",
+    "is_impossible": false,
+    "answer_start": 170
+  },
+  {
+    "id": "squad_56e1b754cd28a01900c67abe",
+    "text": "Blum complexity axioms",
+    "is_impossible": false,
+    "answer_start": 248
+  },
+  {
+    "id": "squad_56e1b754cd28a01900c67abf",
+    "text": "Complexity measures",
+    "is_impossible": false,
+    "answer_start": 194
+  },
+  {
+    "id": "squad_56e1b754cd28a01900c67ac0",
+    "text": "Complexity measures",
+    "is_impossible": false,
+    "answer_start": 194
+  },
+  {
+    "id": "squad_5ad54b035b96ef001a10ac52",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad54b035b96ef001a10ac53",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad54b035b96ef001a10ac54",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad54b035b96ef001a10ac55",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad54b035b96ef001a10ac56",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56e1b8f3e3433e14004230e6",
+    "text": "best, worst and average",
+    "is_impossible": false,
+    "answer_start": 4
+  },
+  {
+    "id": "squad_56e1b8f3e3433e14004230e7",
+    "text": "complexity measure",
+    "is_impossible": false,
+    "answer_start": 121
+  },
+  {
+    "id": "squad_56e1b8f3e3433e14004230e8",
+    "text": "time",
+    "is_impossible": false,
+    "answer_start": 91
+  },
+  {
+    "id": "squad_56e1b8f3e3433e14004230e9",
+    "text": "inputs",
+    "is_impossible": false,
+    "answer_start": 154
+  },
+  {
+    "id": "squad_5ad54c2f5b96ef001a10ac5c",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad54c2f5b96ef001a10ac5d",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad54c2f5b96ef001a10ac5e",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad54c2f5b96ef001a10ac5f",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56e1ba41cd28a01900c67ae0",
+    "text": "deterministic sorting algorithm quicksort",
+    "is_impossible": false,
+    "answer_start": 26
+  },
+  {
+    "id": "squad_56e1ba41cd28a01900c67ae1",
+    "text": "worst-case",
+    "is_impossible": false,
+    "answer_start": 155
+  },
+  {
+    "id": "squad_56e1ba41cd28a01900c67ae2",
+    "text": "O(n2)",
+    "is_impossible": false,
+    "answer_start": 251
+  },
+  {
+    "id": "squad_5ad54d625b96ef001a10ac64",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad54d625b96ef001a10ac65",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad54d625b96ef001a10ac66",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad54d625b96ef001a10ac67",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad54d625b96ef001a10ac68",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56e1bc3ae3433e1400423104",
+    "text": "the most efficient algorithm",
+    "is_impossible": false,
+    "answer_start": 178
+  },
+  {
+    "id": "squad_56e1bc3ae3433e1400423105",
+    "text": "analysis of algorithms",
+    "is_impossible": false,
+    "answer_start": 399
+  },
+  {
+    "id": "squad_56e1bc3ae3433e1400423106",
+    "text": "lower bounds",
+    "is_impossible": false,
+    "answer_start": 123
+  },
+  {
+    "id": "squad_56e1bc3ae3433e1400423107",
+    "text": "upper bound",
+    "is_impossible": false,
+    "answer_start": 434
+  },
+  {
+    "id": "squad_56e1bc3ae3433e1400423108",
+    "text": "all possible algorithms",
+    "is_impossible": false,
+    "answer_start": 676
+  },
+  {
+    "id": "squad_5ad54e7c5b96ef001a10ac76",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad54e7c5b96ef001a10ac77",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad54e7c5b96ef001a10ac78",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad54e7c5b96ef001a10ac79",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad54e7c5b96ef001a10ac7a",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56e1bd4acd28a01900c67afc",
+    "text": "big O notation",
+    "is_impossible": false,
+    "answer_start": 52
+  },
+  {
+    "id": "squad_56e1bd4acd28a01900c67afd",
+    "text": "constant factors and smaller terms",
+    "is_impossible": false,
+    "answer_start": 80
+  },
+  {
+    "id": "squad_56e1bd4acd28a01900c67afe",
+    "text": "T(n) = O(n2)",
+    "is_impossible": false,
+    "answer_start": 281
+  },
+  {
+    "id": "squad_56e1bd4acd28a01900c67aff",
+    "text": "the computational model",
+    "is_impossible": false,
+    "answer_start": 177
+  },
+  {
+    "id": "squad_5ad54f775b96ef001a10ac88",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad54f775b96ef001a10ac89",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad54f775b96ef001a10ac8a",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad54f775b96ef001a10ac8b",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56e1c0f6cd28a01900c67b2c",
+    "text": "complexity classes",
+    "is_impossible": false,
+    "answer_start": 16
+  },
+  {
+    "id": "squad_56e1c0f6cd28a01900c67b2d",
+    "text": "framework",
+    "is_impossible": false,
+    "answer_start": 90
+  },
+  {
+    "id": "squad_56e1c0f6cd28a01900c67b2e",
+    "text": "complicated definitions",
+    "is_impossible": false,
+    "answer_start": 40
+  },
+  {
+    "id": "squad_5ad5501f5b96ef001a10ac90",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad5501f5b96ef001a10ac91",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad5501f5b96ef001a10ac92",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad5501f5b96ef001a10ac93",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56e1c2eee3433e1400423134",
+    "text": "chosen machine model",
+    "is_impossible": false,
+    "answer_start": 122
+  },
+  {
+    "id": "squad_56e1c2eee3433e1400423135",
+    "text": "linear time",
+    "is_impossible": false,
+    "answer_start": 218
+  },
+  {
+    "id": "squad_56e1c2eee3433e1400423136",
+    "text": "single-tape Turing machines",
+    "is_impossible": false,
+    "answer_start": 318
+  },
+  {
+    "id": "squad_56e1c2eee3433e1400423137",
+    "text": "Cobham-Edmonds thesis",
+    "is_impossible": false,
+    "answer_start": 398
+  },
+  {
+    "id": "squad_56e1c2eee3433e1400423138",
+    "text": "complexity class P",
+    "is_impossible": false,
+    "answer_start": 597
+  },
+  {
+    "id": "squad_5ad55ee35b96ef001a10ace4",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad55ee35b96ef001a10ace5",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad55ee35b96ef001a10ace6",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad55ee35b96ef001a10ace7",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad55ee35b96ef001a10ace8",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56e1c3e1e3433e1400423148",
+    "text": "time or space",
+    "is_impossible": false,
+    "answer_start": 65
+  },
+  {
+    "id": "squad_56e1c3e1e3433e1400423149",
+    "text": "bounding",
+    "is_impossible": false,
+    "answer_start": 52
+  },
+  {
+    "id": "squad_56e1c3e1e3433e140042314a",
+    "text": "complexity classes",
+    "is_impossible": false,
+    "answer_start": 15
+  },
+  {
+    "id": "squad_5ad55fe75b96ef001a10ad0c",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad55fe75b96ef001a10ad0d",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad55fe75b96ef001a10ad0e",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad55fe75b96ef001a10ad0f",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56e1c4fce3433e140042314e",
+    "text": "BPP, ZPP and RP",
+    "is_impossible": false,
+    "answer_start": 43
+  },
+  {
+    "id": "squad_56e1c4fce3433e140042314f",
+    "text": "Boolean",
+    "is_impossible": false,
+    "answer_start": 150
+  },
+  {
+    "id": "squad_56e1c4fce3433e1400423150",
+    "text": "quantum",
+    "is_impossible": false,
+    "answer_start": 209
+  },
+  {
+    "id": "squad_56e1c4fce3433e1400423151",
+    "text": "#P",
+    "is_impossible": false,
+    "answer_start": 234
+  },
+  {
+    "id": "squad_56e1c4fce3433e1400423152",
+    "text": "Interactive",
+    "is_impossible": false,
+    "answer_start": 357
+  },
+  {
+    "id": "squad_5ad560b85b96ef001a10ad1e",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad560b85b96ef001a10ad1f",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad560b85b96ef001a10ad20",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad560b85b96ef001a10ad21",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad560b85b96ef001a10ad22",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56e1c720e3433e140042316a",
+    "text": "computation time",
+    "is_impossible": false,
+    "answer_start": 113
+  },
+  {
+    "id": "squad_56e1c720e3433e140042316b",
+    "text": "DTIME(n2)",
+    "is_impossible": false,
+    "answer_start": 220
+  },
+  {
+    "id": "squad_56e1c720e3433e140042316c",
+    "text": "time and space hierarchy theorems",
+    "is_impossible": false,
+    "answer_start": 369
+  },
+  {
+    "id": "squad_56e1c720e3433e140042316d",
+    "text": "a proper hierarchy on the classes defined",
+    "is_impossible": false,
+    "answer_start": 472
+  },
+  {
+    "id": "squad_56e1c720e3433e140042316e",
+    "text": "quantitative statements",
+    "is_impossible": false,
+    "answer_start": 714
+  },
+  {
+    "id": "squad_5ad561c85b96ef001a10ad3c",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad561c85b96ef001a10ad3d",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad561c85b96ef001a10ad3e",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad561c85b96ef001a10ad3f",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad561c85b96ef001a10ad40",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56e1c7e2cd28a01900c67b74",
+    "text": "time and space hierarchy theorems",
+    "is_impossible": false,
+    "answer_start": 4
+  },
+  {
+    "id": "squad_56e1c7e2cd28a01900c67b75",
+    "text": "EXPTIME",
+    "is_impossible": false,
+    "answer_start": 186
+  },
+  {
+    "id": "squad_56e1c7e2cd28a01900c67b76",
+    "text": "PSPACE",
+    "is_impossible": false,
+    "answer_start": 268
+  },
+  {
+    "id": "squad_5ad562525b96ef001a10ad50",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad562525b96ef001a10ad51",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad562525b96ef001a10ad52",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad562525b96ef001a10ad53",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56e1c9bfe3433e1400423192",
+    "text": "reduction",
+    "is_impossible": false,
+    "answer_start": 59
+  },
+  {
+    "id": "squad_56e1c9bfe3433e1400423193",
+    "text": "another problem",
+    "is_impossible": false,
+    "answer_start": 122
+  },
+  {
+    "id": "squad_56e1c9bfe3433e1400423194",
+    "text": "reduces",
+    "is_impossible": false,
+    "answer_start": 350
+  },
+  {
+    "id": "squad_56e1c9bfe3433e1400423195",
+    "text": "Karp reductions and Levin reductions",
+    "is_impossible": false,
+    "answer_start": 469
+  },
+  {
+    "id": "squad_56e1c9bfe3433e1400423196",
+    "text": "the bound on the complexity of reductions",
+    "is_impossible": false,
+    "answer_start": 511
+  },
+  {
+    "id": "squad_5ad5632f5b96ef001a10ad6c",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad5632f5b96ef001a10ad6d",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad5632f5b96ef001a10ad6e",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad5632f5b96ef001a10ad6f",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad5632f5b96ef001a10ad70",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56e1cbe2cd28a01900c67bac",
+    "text": "polynomial-time reduction",
+    "is_impossible": false,
+    "answer_start": 38
+  },
+  {
+    "id": "squad_56e1cbe2cd28a01900c67bad",
+    "text": "multiplying two integers",
+    "is_impossible": false,
+    "answer_start": 207
+  },
+  {
+    "id": "squad_56e1cbe2cd28a01900c67bae",
+    "text": "polynomial time",
+    "is_impossible": false,
+    "answer_start": 109
+  },
+  {
+    "id": "squad_56e1cbe2cd28a01900c67baf",
+    "text": "input",
+    "is_impossible": false,
+    "answer_start": 364
+  },
+  {
+    "id": "squad_56e1cbe2cd28a01900c67bb0",
+    "text": "multiplication",
+    "is_impossible": false,
+    "answer_start": 392
+  },
+  {
+    "id": "squad_5ad5648b5b96ef001a10ad94",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad5648b5b96ef001a10ad95",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad5648b5b96ef001a10ad96",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad5648b5b96ef001a10ad97",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad5648b5b96ef001a10ad98",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56e1ce08e3433e14004231a4",
+    "text": "the type of reduction being used",
+    "is_impossible": false,
+    "answer_start": 315
+  },
+  {
+    "id": "squad_56e1ce08e3433e14004231a5",
+    "text": "if every problem in C can be reduced to X",
+    "is_impossible": false,
+    "answer_start": 121
+  },
+  {
+    "id": "squad_56e1ce08e3433e14004231a6",
+    "text": "solve any problem in C",
+    "is_impossible": false,
+    "answer_start": 241
+  },
+  {
+    "id": "squad_56e1ce08e3433e14004231a8",
+    "text": "NP-hard",
+    "is_impossible": false,
+    "answer_start": 503
+  },
+  {
+    "id": "squad_5ad565575b96ef001a10adb2",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad565575b96ef001a10adb3",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad565575b96ef001a10adb4",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad565575b96ef001a10adb5",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56e1d9fee3433e14004231cb",
+    "text": "NP-complete",
+    "is_impossible": false,
+    "answer_start": 244
+  },
+  {
+    "id": "squad_56e1d9fee3433e14004231cc",
+    "text": "NP",
+    "is_impossible": false,
+    "answer_start": 244
+  },
+  {
+    "id": "squad_56e1d9fee3433e14004231cd",
+    "text": "there is no known polynomial-time solution",
+    "is_impossible": false,
+    "answer_start": 513
+  },
+  {
+    "id": "squad_56e1d9fee3433e14004231ce",
+    "text": "NP",
+    "is_impossible": false,
+    "answer_start": 244
+  },
+  {
+    "id": "squad_5ad566375b96ef001a10adce",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad566375b96ef001a10adcf",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad566375b96ef001a10add0",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_5ad566375b96ef001a10add1",
+    "text": "",
+    "is_impossible": true,
+    "answer_start": -1
+  },
+  {
+    "id": "squad_56e1dc62cd28a01900c67bca",
+    "text": "P",
+    "is_impossible": false,
+    "answer_start": 21
+  },
+  {
+    "id": "squad_56e1dc62cd28a01900c67bcb",
+    "text": "Cobham\u2013Edmonds thesis",
+    "is_impossible": false,
+    "answer_start": 167
+  },
+  {
+    "id": "squad_56e1dc62cd28a01900c67bcc",
+    "text": "NP",
+    "is_impossible": false,
+    "answer_start": 211
+  },
+  {
+    "id": "squad_56e1dc62cd28a01900c67bcd",
+    "text": "Boolean satisfiability problem",
+    "is_impossible": false,
+    "answer_start": 361
+  }
+]

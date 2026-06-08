@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Develop &amp; Implement on Qdrant - Vector Search Engine</title><link>https://qdrant.tech/documentation/tutorials-develop/</link><description>Recent content in Develop &amp; Implement on Qdrant - Vector Search Engine</description><generator>Hugo</generator><language>en-us</language><managingEditor>info@qdrant.tech (Andrey Vasnetsov)</managingEditor><webMaster>info@qdrant.tech (Andrey Vasnetsov)</webMaster><atom:link href="https://qdrant.tech/documentation/tutorials-develop/index.xml" rel="self" type="application/rss+xml"/><item><title>Bulk Operations</title><link>https://qdrant.tech/documentation/tutorials-develop/bulk-upload/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@qdrant.tech (Andrey Vasnetsov)</author><guid>https://qdrant.tech/documentation/tutorials-develop/bulk-upload/</guid><description>&lt;h1 id="bulk-upload-vectors-to-a-qdrant-collection"&gt;Bulk Upload Vectors to a Qdrant Collection&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Time: 20 min&lt;/th&gt;
+ &lt;th&gt;Level: Intermediate&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Uploading a large-scale dataset fast might be a challenge, but Qdrant has a few tricks to help you with that.&lt;/p&gt;
+&lt;p&gt;The first important detail about data uploading is that the bottleneck is usually located on the client side, not on the server side.
+This means that if you are uploading a large dataset, you should prefer a high-performance client library.&lt;/p&gt;</description></item><item><title>Async API</title><link>https://qdrant.tech/documentation/tutorials-develop/async-api/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@qdrant.tech (Andrey Vasnetsov)</author><guid>https://qdrant.tech/documentation/tutorials-develop/async-api/</guid><description>&lt;h1 id="build-high-throughput-applications-with-qdrants-async-api"&gt;Build High-Throughput Applications with Qdrant&amp;rsquo;s Async API&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Time: 25 min&lt;/th&gt;
+ &lt;th&gt;Level: Intermediate&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Asynchronous programming is being broadly adopted in the Python ecosystem. Tools such as FastAPI &lt;a href="https://fastapi.tiangolo.com/async/" target="_blank" rel="noopener nofollow"&gt;have embraced this new
+paradigm&lt;/a&gt;, but it is also becoming a standard for ML models served as SaaS. For example, the Cohere SDK
+&lt;a href="https://github.com/cohere-ai/cohere-python/blob/856a4c3bd29e7a75fa66154b8ac9fcdf1e0745e0/src/cohere/client.py#L189" target="_blank" rel="noopener nofollow"&gt;provides an async client&lt;/a&gt; next to its synchronous counterpart.&lt;/p&gt;
+&lt;p&gt;Databases are often launched as separate services and are accessed via a network. All the interactions with them are IO-bound and can
+be performed asynchronously so as not to waste time actively waiting for a server response. In Python, this is achieved by
+using &lt;a href="https://docs.python.org/3/library/asyncio-task.html" target="_blank" rel="noopener nofollow"&gt;&lt;code&gt;async/await&lt;/code&gt;&lt;/a&gt; syntax. That lets the interpreter switch to another task
+while waiting for a response from the server.&lt;/p&gt;</description></item><item><title>Semantic Search for Code</title><link>https://qdrant.tech/documentation/tutorials-develop/code-search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@qdrant.tech (Andrey Vasnetsov)</author><guid>https://qdrant.tech/documentation/tutorials-develop/code-search/</guid><description>&lt;h1 id="semantic-search-for-code-with-qdrant"&gt;Semantic Search for Code with Qdrant&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Time: 45 min&lt;/th&gt;
+ &lt;th&gt;Level: Intermediate&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://colab.research.google.com/github/qdrant/examples/blob/master/code-search/code-search.ipynb" target="_blank" rel="noopener nofollow"&gt;&lt;img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"&gt;&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;You too can enrich your applications with Qdrant semantic search. In this
+tutorial, we describe how you can use Qdrant to navigate a codebase, to help
+you find relevant code snippets. As an example, we will use the &lt;a href="https://github.com/qdrant/qdrant" target="_blank" rel="noopener nofollow"&gt;Qdrant&lt;/a&gt;
+source code itself, which is mostly written in Rust.&lt;/p&gt;
+&lt;aside role="status"&gt;This tutorial might not work on code bases that are not disciplined or structured. For good code search, you may need to refactor the project first.&lt;/aside&gt;
+&lt;h2 id="the-approach"&gt;The approach&lt;/h2&gt;
+&lt;p&gt;We want to search codebases using natural semantic queries, and searching for code based on similar logic. You can set up these tasks with embeddings:&lt;/p&gt;</description></item><item><title>Build a Semantic Search API</title><link>https://qdrant.tech/documentation/tutorials-develop/neural-search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@qdrant.tech (Andrey Vasnetsov)</author><guid>https://qdrant.tech/documentation/tutorials-develop/neural-search/</guid><description>&lt;h1 id="build-a-semantic-search-api-with-qdrant"&gt;Build a Semantic Search API with Qdrant&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Time: 30 min&lt;/th&gt;
+ &lt;th&gt;Level: Beginner&lt;/th&gt;
+ &lt;th&gt;Output: &lt;a href="https://github.com/qdrant/qdrant_demo/tree/sentense-transformers" target="_blank" rel="noopener nofollow"&gt;GitHub&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://colab.research.google.com/drive/1kPktoudAP8Tu8n8l-iVMOQhVmHkWV_L9?usp=sharing" target="_blank" rel="noopener nofollow"&gt;&lt;img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"&gt;&lt;/a&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;This tutorial shows you how to build and deploy your own neural search service to look through descriptions of companies from &lt;a href="https://www.startups-list.com/" target="_blank" rel="noopener nofollow"&gt;startups-list.com&lt;/a&gt; and pick the most similar ones to your query. The website contains the company names, descriptions, locations, and a picture for each entry.&lt;/p&gt;
+&lt;p&gt;A neural search service uses artificial neural networks to improve the accuracy and relevance of search results. Besides offering simple keyword results, this system can retrieve results by meaning. It can understand and interpret complex search queries and provide more contextually relevant output, effectively enhancing the user&amp;rsquo;s search experience.&lt;/p&gt;</description></item><item><title>Build a Hybrid Search API</title><link>https://qdrant.tech/documentation/tutorials-develop/hybrid-search-fastembed/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@qdrant.tech (Andrey Vasnetsov)</author><guid>https://qdrant.tech/documentation/tutorials-develop/hybrid-search-fastembed/</guid><description>&lt;h1 id="build-a-search-api-with-qdrants-fastembed"&gt;Build a Search API with Qdrant&amp;rsquo;s FastEmbed&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Time: 20 min&lt;/th&gt;
+ &lt;th&gt;Level: Beginner&lt;/th&gt;
+ &lt;th&gt;Output: &lt;a href="https://github.com/qdrant/qdrant_demo/" target="_blank" rel="noopener nofollow"&gt;GitHub&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;This tutorial shows you how to build and deploy your own hybrid search service to look through descriptions of companies from &lt;a href="https://www.startups-list.com/" target="_blank" rel="noopener nofollow"&gt;startups-list.com&lt;/a&gt; and pick the most similar ones to your query.
+The website contains the company names, descriptions, locations, and a picture for each entry.&lt;/p&gt;
+&lt;p&gt;As we have already written on our &lt;a href="https://qdrant.tech/articles/hybrid-search/"&gt;blog&lt;/a&gt;, there is no single definition of hybrid search.
+In this tutorial we are covering the case with a combination of dense and &lt;a href="https://qdrant.tech/articles/sparse-vectors/"&gt;sparse embeddings&lt;/a&gt;.
+The former ones refer to the embeddings generated by such well-known neural networks as BERT, while the latter ones are more related to a traditional full-text search approach.&lt;/p&gt;</description></item></channel></rss>

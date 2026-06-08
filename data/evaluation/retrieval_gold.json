@@ -1,0 +1,7 @@
+[
+  {"query": "What is retrieval augmented generation?", "relevant_chunk_ids": ["chunk_rag_def_001", "chunk_rag_arch_002"]},
+  {"query": "How does BM25 work?", "relevant_chunk_ids": ["chunk_bm25_formula_001"]},
+  {"query": "Explain vector databases", "relevant_chunk_ids": ["chunk_vectordb_intro_001"]},
+  {"query": "VPN authentication failure after Okta migration", "relevant_chunk_ids": ["chunk_vpn_okta_001"]},
+  {"query": "Parent-child chunking strategy", "relevant_chunk_ids": ["chunk_chunking_parent_001"]}
+]

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Qdrant Edge on Qdrant - Vector Search Engine</title><link>https://qdrant.tech/documentation/edge/</link><description>Recent content in Qdrant Edge on Qdrant - Vector Search Engine</description><generator>Hugo</generator><language>en-us</language><managingEditor>info@qdrant.tech (Andrey Vasnetsov)</managingEditor><webMaster>info@qdrant.tech (Andrey Vasnetsov)</webMaster><atom:link href="https://qdrant.tech/documentation/edge/index.xml" rel="self" type="application/rss+xml"/><item><title>Quickstart</title><link>https://qdrant.tech/documentation/edge/edge-quickstart/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@qdrant.tech (Andrey Vasnetsov)</author><guid>https://qdrant.tech/documentation/edge/edge-quickstart/</guid><description>&lt;h1 id="qdrant-edge-quickstart"&gt;Qdrant Edge Quickstart&lt;/h1&gt;
+&lt;h2 id="install-qdrant-edge"&gt;Install Qdrant Edge&lt;/h2&gt;
+&lt;p&gt;First, install the &lt;a href="https://pypi.org/project/qdrant-edge-py/" target="_blank" rel="noopener nofollow"&gt;Python Bindings for Qdrant Edge&lt;/a&gt; or the &lt;a href="https://crates.io/crates/qdrant-edge" target="_blank" rel="noopener nofollow"&gt;Rust crate&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="create-a-storage-directory"&gt;Create a Storage Directory&lt;/h2&gt;
+&lt;p&gt;A Qdrant Edge Shard stores its data in a local directory on disk. Create the directory if it doesn&amp;rsquo;t exist yet:&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ &lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;pathlib&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;Path&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;SHARD_DIRECTORY&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="s2"&gt;&amp;#34;./qdrant-edge-directory&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Path&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;SHARD_DIRECTORY&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;mkdir&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;parents&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="kc"&gt;True&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;exist_ok&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="kc"&gt;True&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+ 
+
+ 
+ 
+
+ 
+ 
+ &lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-rust" data-lang="rust"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="k"&gt;const&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="no"&gt;SHARD_DIRECTORY&lt;/span&gt;: &lt;span class="kp"&gt;&amp;amp;&lt;/span&gt;&lt;span class="kt"&gt;str&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s"&gt;&amp;#34;./qdrant-edge-directory&amp;#34;&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;fs_err&lt;/span&gt;::&lt;span class="n"&gt;create_dir_all&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="no"&gt;SHARD_DIRECTORY&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;?&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+
+
+
+
+ 
+
+ 
+
+
+&lt;h2 id="configure-the-edge-shard"&gt;Configure the Edge Shard&lt;/h2&gt;
+&lt;p&gt;An Edge Shard is configured with a definition of the dense and sparse vectors that can be stored in the Edge Shard, similar to how you would configure a Qdrant collection.&lt;/p&gt;</description></item><item><title>On-Device Embeddings</title><link>https://qdrant.tech/documentation/edge/edge-fastembed-embeddings/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@qdrant.tech (Andrey Vasnetsov)</author><guid>https://qdrant.tech/documentation/edge/edge-fastembed-embeddings/</guid><description>&lt;h1 id="on-device-embeddings-with-qdrant-edge-and-fastembed"&gt;On-Device Embeddings with Qdrant Edge and FastEmbed&lt;/h1&gt;
+&lt;p&gt;When using Python, you can use the &lt;a href="https://qdrant.tech/documentation/fastembed/"&gt;FastEmbed&lt;/a&gt; library to generate embeddings for use with Qdrant Edge. FastEmbed provides multimodal models that run efficiently on edge devices to generate vector embeddings from text and images.&lt;/p&gt;
+&lt;aside role="status"&gt;To generate sparse BM25 embeddings for keyword search, see &lt;a href="https://qdrant.tech/documentation/edge/edge-bm25/"&gt;BM25 Embeddings on Qdrant Edge&lt;/a&gt;.&lt;/aside&gt;
+&lt;h1 id="provision-the-device"&gt;Provision the Device&lt;/h1&gt;
+&lt;p&gt;Assuming the devices on which you will run Qdrant Edge have intermittent or no internet connectivity, you need to provision them with the necessary dependencies and model files ahead of time. First, install FastEmbed and the Qdrant Edge Python bindings:&lt;/p&gt;</description></item><item><title>BM25</title><link>https://qdrant.tech/documentation/edge/edge-bm25/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@qdrant.tech (Andrey Vasnetsov)</author><guid>https://qdrant.tech/documentation/edge/edge-bm25/</guid><description>&lt;h1 id="bm25-with-qdrant-edge"&gt;BM25 with Qdrant Edge&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://qdrant.tech/documentation/search/text-search/#bm25"&gt;BM25&lt;/a&gt; (Best Matching 25) is a popular sparse-vector ranking algorithm for full-text search. Qdrant Edge includes a built-in BM25 embedder, so you can run keyword search without an internet connection or external embedding service.&lt;/p&gt;
+&lt;p&gt;The BM25 embedder is compatible with server-side BM25: vectors produced by the Qdrant Edge embedder use the same token IDs and scoring formula as Qdrant Server&amp;rsquo;s &lt;a href="https://qdrant.tech/documentation/search/text-search/#bm25"&gt;text search&lt;/a&gt; pipeline. You can initialize an Edge Shard from a server snapshot and query it with locally produced BM25 vectors without re-indexing.&lt;/p&gt;</description></item><item><title>Data Synchronization Patterns</title><link>https://qdrant.tech/documentation/edge/edge-data-synchronization-patterns/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@qdrant.tech (Andrey Vasnetsov)</author><guid>https://qdrant.tech/documentation/edge/edge-data-synchronization-patterns/</guid><description>&lt;h1 id="data-synchronization-patterns"&gt;Data Synchronization Patterns&lt;/h1&gt;
+&lt;p&gt;This page describes patterns for synchronizing data between Qdrant Edge Shards and Qdrant server collections. For a practical end-to-end guide on implementing these patterns, refer to the &lt;a href="https://qdrant.tech/documentation/edge/edge-synchronization-guide/"&gt;Qdrant Edge Synchronization Guide&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="initialize-edge-shard-from-existing-qdrant-collection"&gt;Initialize Edge Shard from Existing Qdrant Collection&lt;/h2&gt;
+&lt;p&gt;Instead of starting with an empty Edge Shard, you may want to initialize it with pre-existing data from a collection on a Qdrant server. You can achieve this by restoring a snapshot of a shard in the server-side collection.&lt;/p&gt;</description></item><item><title>Synchronize with a Server</title><link>https://qdrant.tech/documentation/edge/edge-synchronization-guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@qdrant.tech (Andrey Vasnetsov)</author><guid>https://qdrant.tech/documentation/edge/edge-synchronization-guide/</guid><description>&lt;h1 id="synchronize-qdrant-edge-with-a-server"&gt;Synchronize Qdrant Edge with a Server&lt;/h1&gt;
+&lt;p&gt;Qdrant Edge can be synchronized with a collection from an external Qdrant server to support use cases like:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Offload indexing&lt;/strong&gt;: Indexing is a computationally expensive operation. By synchronizing an Edge Shard with a server collection, you can offload the indexing process to a more powerful server instance. The indexed data can then be synchronized back to the Edge Shard.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Back up and Restore&lt;/strong&gt;: Regularly back up your Edge Shard data to a central Qdrant instance to prevent data loss. In case of hardware failure or data corruption, you can restore the data from the central instance.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Data Aggregation&lt;/strong&gt;: Collect data from multiple Edge Shards deployed in different locations and aggregate it into a central Qdrant instance for comprehensive analysis and reporting.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Synchronization between devices&lt;/strong&gt;: Keep data consistent across multiple edge devices by synchronizing their Edge Shards with a central Qdrant instance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="synchronizing-qdrant-edge-with-a-server"&gt;Synchronizing Qdrant Edge with a Server&lt;/h2&gt;
+&lt;p&gt;To support having local updates as well as updates from a centralized server, implement a setup with two Edge Shards:&lt;/p&gt;</description></item></channel></rss>

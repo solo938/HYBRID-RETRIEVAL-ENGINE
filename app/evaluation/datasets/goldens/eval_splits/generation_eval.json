@@ -1,0 +1,302 @@
+[
+  {
+    "query_id": "squad_56ddde6b9a695914005b9628",
+    "query": "In what country is Normandy located?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_56ddde6b9a695914005b9629",
+    "query": "When were the Normans in Normandy?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_56ddde6b9a695914005b962a",
+    "query": "From which countries did the Norse originate?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_56ddde6b9a695914005b962b",
+    "query": "Who was the Norse leader?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_56ddde6b9a695914005b962c",
+    "query": "What century did the Normans first gain their separate identity?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_5ad39d53604f3c001a3fe8d1",
+    "query": "Who gave their name to Normandy in the 1000's and 1100's",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_5ad39d53604f3c001a3fe8d2",
+    "query": "What is France a region of?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_5ad39d53604f3c001a3fe8d3",
+    "query": "Who did King Charles III swear fealty to?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_5ad39d53604f3c001a3fe8d4",
+    "query": "When did the Frankish identity emerge?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_56dddf4066d3e219004dad5f",
+    "query": "Who was the duke in the battle of Hastings?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_56dddf4066d3e219004dad60",
+    "query": "Who ruled the duchy of Normandy",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_56dddf4066d3e219004dad61",
+    "query": "What religion were the Normans",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_5ad3a266604f3c001a3fea27",
+    "query": "What type of major impact did the Norman dynasty have on modern Europe?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_5ad3a266604f3c001a3fea28",
+    "query": "Who was famed for their Christian spirit?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_5ad3a266604f3c001a3fea29",
+    "query": "Who assimilted the Roman language?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_5ad3a266604f3c001a3fea2a",
+    "query": "Who ruled the country of Normandy?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_5ad3a266604f3c001a3fea2b",
+    "query": "What principality did William the conquerer found?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_56dde0379a695914005b9636",
+    "query": "What is the original meaning of the word Norman?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_56dde0379a695914005b9637",
+    "query": "When was the Latin version of the word Norman first recorded?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_5ad3ab70604f3c001a3feb89",
+    "query": "What name comes from the English words Normans/Normanz?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_5ad3ab70604f3c001a3feb8a",
+    "query": "When was the French version of the word Norman first recorded?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_56dde0ba66d3e219004dad75",
+    "query": "When was the Duchy of Normandy founded?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_56dde0ba66d3e219004dad76",
+    "query": "Who did Rollo sign the treaty of Saint-Clair-sur-Epte with?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_56dde0ba66d3e219004dad77",
+    "query": "What river originally bounded the Duchy",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_5ad3ad61604f3c001a3fec0d",
+    "query": "when did Nors encampments ivolve into destructive incursions?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_5ad3ad61604f3c001a3fec0e",
+    "query": "What treaty was established in the 9th century?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_5ad3ad61604f3c001a3fec0f",
+    "query": "Who established a treaty with King Charles the third of France?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_5ad3ad61604f3c001a3fec10",
+    "query": "What did the French promises to protect Rollo and his men from?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_56dde1d966d3e219004dad8d",
+    "query": "Who upon arriving gave the original viking settlers a common identity?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_5ad3ae14604f3c001a3fec39",
+    "query": "When did Rollo begin to arrive in Normandy?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_5ad3ae14604f3c001a3fec3a",
+    "query": "What Viking groups were conquered by Rollo?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_56dde27d9a695914005b9651",
+    "query": "What was the Norman religion?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_56dde27d9a695914005b9652",
+    "query": "What part of France were the Normans located?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_5ad3af11604f3c001a3fec63",
+    "query": "What was replace with the Norse religion?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_5ad3af11604f3c001a3fec64",
+    "query": "What did maternal Old Norse traditions merge with?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_5ad3af11604f3c001a3fec65",
+    "query": "What language replaced the Gallo-Romance language?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_56dde2fa66d3e219004dad9b",
+    "query": "What was one of the Norman's major exports?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_5ad3c626604f3c001a3ff011",
+    "query": "Who adopted the fuedel doctrines of the Normans?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_5ad3c626604f3c001a3ff012",
+    "query": "What was one of the Norman's major imports?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_5ad3c626604f3c001a3ff013",
+    "query": "Who's arristocracy eventually served as avid Crusaders?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_56de0f6a4396321400ee257f",
+    "query": "Who was the Normans' main enemy in Italy, the Byzantine Empire and Armenia?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_5ad3dbc6604f3c001a3ff3e9",
+    "query": "Who entered Italy soon after the Byzantine Empire?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_5ad3dbc6604f3c001a3ff3ea",
+    "query": "Who did the Normans fight in Italy?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_5ad3dbc6604f3c001a3ff3eb",
+    "query": "Who did the Normans encourage to come to the south?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_5ad3dbc6604f3c001a3ff3ec",
+    "query": "During what campaign did the Vargian and Lombard fight?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_56de0ffd4396321400ee258d",
+    "query": "When did Herve serve as a Byzantine general?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_56de0ffd4396321400ee258e",
+    "query": "When did Robert Crispin go up against the Turks?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_56de0ffd4396321400ee258f",
+    "query": "Who ruined Roussel de Bailleul's plans for an independent state?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_5ad3de8b604f3c001a3ff467",
+    "query": "Who was the first Byzantine mercenary to serve with the Normans?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  },
+  {
+    "query_id": "squad_5ad3de8b604f3c001a3ff468",
+    "query": "When did Herve serve as a Norman general?",
+    "domain": "general_knowledge",
+    "expected_answer": "Sample answer - will be populated from answers.json"
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "id": "56ddde6b9a695914005b9628",
+    "question": "In what country is Normandy located?",
+    "chunk_id": "chunk_0000",
+    "topic": "Normans"
+  },
+  {
+    "id": "56ddde6b9a695914005b9629",
+    "question": "When were the Normans in Normandy?",
+    "chunk_id": "chunk_0000",
+    "topic": "Normans"
+  },
+  {
+    "id": "56ddde6b9a695914005b962a",
+    "question": "From which countries did the Norse originate?",
+    "chunk_id": "chunk_0000",
+    "topic": "Normans"
+  },
+  {
+    "id": "56ddde6b9a695914005b962b",
+    "question": "Who was the Norse leader?",
+    "chunk_id": "chunk_0000",
+    "topic": "Normans"
+  },
+  {
+    "id": "56ddde6b9a695914005b962c",
+    "question": "What century did the Normans first gain their separate identity?",
+    "chunk_id": "chunk_0000",
+    "topic": "Normans"
+  },
+  {
+    "id": "56dddf4066d3e219004dad5f",
+    "question": "Who was the duke in the battle of Hastings?",
+    "chunk_id": "chunk_0001",
+    "topic": "Normans"
+  },
+  {
+    "id": "56dddf4066d3e219004dad60",
+    "question": "Who ruled the duchy of Normandy",
+    "chunk_id": "chunk_0001",
+    "topic": "Normans"
+  },
+  {
+    "id": "56dddf4066d3e219004dad61",
+    "question": "What religion were the Normans",
+    "chunk_id": "chunk_0001",
+    "topic": "Normans"
+  },
+  {
+    "id": "56dde0379a695914005b9636",
+    "question": "What is the original meaning of the word Norman?",
+    "chunk_id": "chunk_0002",
+    "topic": "Normans"
+  },
+  {
+    "id": "56dde0379a695914005b9637",
+    "question": "When was the Latin version of the word Norman first recorded?",
+    "chunk_id": "chunk_0002",
+    "topic": "Normans"
+  },
+  {
+    "id": "56dde0ba66d3e219004dad75",
+    "question": "When was the Duchy of Normandy founded?",
+    "chunk_id": "chunk_0003",
+    "topic": "Normans"
+  },
+  {
+    "id": "56dde0ba66d3e219004dad76",
+    "question": "Who did Rollo sign the treaty of Saint-Clair-sur-Epte with?",
+    "chunk_id": "chunk_0003",
+    "topic": "Normans"
+  },
+  {
+    "id": "56dde0ba66d3e219004dad77",
+    "question": "What river originally bounded the Duchy",
+    "chunk_id": "chunk_0003",
+    "topic": "Normans"
+  },
+  {
+    "id": "56dde1d966d3e219004dad8d",
+    "question": "Who upon arriving gave the original viking settlers a common identity?",
+    "chunk_id": "chunk_0004",
+    "topic": "Normans"
+  },
+  {
+    "id": "56dde27d9a695914005b9651",
+    "question": "What was the Norman religion?",
+    "chunk_id": "chunk_0005",
+    "topic": "Normans"
+  },
+  {
+    "id": "56dde27d9a695914005b9652",
+    "question": "What part of France were the Normans located?",
+    "chunk_id": "chunk_0005",
+    "topic": "Normans"
+  },
+  {
+    "id": "56dde2fa66d3e219004dad9b",
+    "question": "What was one of the Norman's major exports?",
+    "chunk_id": "chunk_0006",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de0f6a4396321400ee257f",
+    "question": "Who was the Normans' main enemy in Italy, the Byzantine Empire and Armenia?",
+    "chunk_id": "chunk_0007",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de0ffd4396321400ee258d",
+    "question": "When did Herve serve as a Byzantine general?",
+    "chunk_id": "chunk_0008",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de0ffd4396321400ee258e",
+    "question": "When did Robert Crispin go up against the Turks?",
+    "chunk_id": "chunk_0008",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de0ffd4396321400ee258f",
+    "question": "Who ruined Roussel de Bailleul's plans for an independent state?",
+    "chunk_id": "chunk_0008",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de10b44396321400ee2593",
+    "question": "What was the name of the Norman castle?",
+    "chunk_id": "chunk_0009",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de10b44396321400ee2594",
+    "question": "Who was the leader when the Franks entered the Euphrates valley?",
+    "chunk_id": "chunk_0009",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de10b44396321400ee2595",
+    "question": "Who did the Normans team up with in Anatolia?",
+    "chunk_id": "chunk_0009",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de11154396321400ee25aa",
+    "question": "What were the origins of the Raouliii family?",
+    "chunk_id": "chunk_0010",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de148dcffd8e1900b4b5bc",
+    "question": "What was the name of the count of Apulia ",
+    "chunk_id": "chunk_0011",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de148dcffd8e1900b4b5bd",
+    "question": "When did Dyrrachium  fall to the Normans?",
+    "chunk_id": "chunk_0011",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de148dcffd8e1900b4b5be",
+    "question": "How many men were in Robert's army?",
+    "chunk_id": "chunk_0011",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de15104396321400ee25b7",
+    "question": "Where did the Normans and Byzantines sign the peace treaty?",
+    "chunk_id": "chunk_0012",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de15104396321400ee25b8",
+    "question": "Who was Robert's son?",
+    "chunk_id": "chunk_0012",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de15104396321400ee25b9",
+    "question": "What river was Petrela located by?",
+    "chunk_id": "chunk_0012",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de1563cffd8e1900b4b5c2",
+    "question": "When did the Normans attack Dyrrachium?",
+    "chunk_id": "chunk_0013",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de1563cffd8e1900b4b5c3",
+    "question": "What was the naval base called?",
+    "chunk_id": "chunk_0013",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de1563cffd8e1900b4b5c4",
+    "question": "Where was Dyrrachium located?",
+    "chunk_id": "chunk_0013",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de15dbcffd8e1900b4b5c8",
+    "question": "Who did Emma Marry?",
+    "chunk_id": "chunk_0014",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de15dbcffd8e1900b4b5c9",
+    "question": "Who was Emma's brother?",
+    "chunk_id": "chunk_0014",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de15dbcffd8e1900b4b5ca",
+    "question": "To where did Ethelred flee?",
+    "chunk_id": "chunk_0014",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de15dbcffd8e1900b4b5cb",
+    "question": "Who kicked Ethelred out?",
+    "chunk_id": "chunk_0014",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de1645cffd8e1900b4b5d0",
+    "question": "Who was Edward the Confessor's half-brother?",
+    "chunk_id": "chunk_0015",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de1645cffd8e1900b4b5d1",
+    "question": "When did Edward return?",
+    "chunk_id": "chunk_0015",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de1645cffd8e1900b4b5d2",
+    "question": "Who did Edward make archbishop of Canterbury?",
+    "chunk_id": "chunk_0015",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de16ca4396321400ee25c5",
+    "question": "Where did Harold II die?",
+    "chunk_id": "chunk_0016",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de16ca4396321400ee25c6",
+    "question": "Who killed Harold II? ",
+    "chunk_id": "chunk_0016",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de16ca4396321400ee25c7",
+    "question": "When was the Battle of Hastings?",
+    "chunk_id": "chunk_0016",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de16ca4396321400ee25c8",
+    "question": "Who was the ruling class ahead of the Normans?",
+    "chunk_id": "chunk_0016",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de1728cffd8e1900b4b5d7",
+    "question": "What was the Anglo-Norman language's final form?",
+    "chunk_id": "chunk_0017",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de179dcffd8e1900b4b5da",
+    "question": "In what year did the Norman's invade at Bannow Bay?",
+    "chunk_id": "chunk_0018",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de179dcffd8e1900b4b5db",
+    "question": "What country did the Normans invade in 1169?",
+    "chunk_id": "chunk_0018",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de179dcffd8e1900b4b5dc",
+    "question": "What culture did the Normans combine with in Ireland?",
+    "chunk_id": "chunk_0018",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de17f9cffd8e1900b4b5e0",
+    "question": "Who was Margaret's brother?",
+    "chunk_id": "chunk_0019",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de17f9cffd8e1900b4b5e1",
+    "question": "Who was Margaret's husband?",
+    "chunk_id": "chunk_0019",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de17f9cffd8e1900b4b5e2",
+    "question": "When was Scotland invaded by William?",
+    "chunk_id": "chunk_0019",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de17f9cffd8e1900b4b5e3",
+    "question": "Who was the hostage?",
+    "chunk_id": "chunk_0019",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de3cd0cffd8e1900b4b6be",
+    "question": "Who did Alexander I marry?",
+    "chunk_id": "chunk_0020",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de3cd0cffd8e1900b4b6bf",
+    "question": "What culture's arrival in Scotland is know as the \"Davidian Revolution\"?",
+    "chunk_id": "chunk_0020",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de3d594396321400ee26ca",
+    "question": "Where was Ralph earl of?",
+    "chunk_id": "chunk_0021",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de3d594396321400ee26cb",
+    "question": "Who was Ralph in charge of being at war with?",
+    "chunk_id": "chunk_0021",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de3d594396321400ee26cc",
+    "question": "Who made Ralph earl?",
+    "chunk_id": "chunk_0021",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de3dbacffd8e1900b4b6d2",
+    "question": "What country was under the control of Norman barons?",
+    "chunk_id": "chunk_0022",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de3e414396321400ee26d8",
+    "question": "What year did Roger de Tosny fail to accomplish what he set out to do?",
+    "chunk_id": "chunk_0023",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de3e414396321400ee26d9",
+    "question": "Who was in charge of the papal army in the War of Barbastro?",
+    "chunk_id": "chunk_0023",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de3ebc4396321400ee26e6",
+    "question": "When did the Siege of Antioch take place?",
+    "chunk_id": "chunk_0024",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de3ebc4396321400ee26e7",
+    "question": "What was the name of Bohemond's nephew?",
+    "chunk_id": "chunk_0024",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de3ebc4396321400ee26e8",
+    "question": "What major conquest did Tancred play a roll in?",
+    "chunk_id": "chunk_0024",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de3efccffd8e1900b4b6fe",
+    "question": "How long did Western Europe control Cyprus?",
+    "chunk_id": "chunk_0025",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de3f784396321400ee26fa",
+    "question": "What ruined Richard's plans to reach Acre?",
+    "chunk_id": "chunk_0026",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de3f784396321400ee26fb",
+    "question": "Who was Richard's fiancee?",
+    "chunk_id": "chunk_0026",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de3f784396321400ee26fc",
+    "question": "What year did the storm hit Richard's fleet?",
+    "chunk_id": "chunk_0026",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de3f784396321400ee26fd",
+    "question": "Who ruled Cyprus in 1191?",
+    "chunk_id": "chunk_0026",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de40da4396321400ee2708",
+    "question": "Who was Guy's Rival?",
+    "chunk_id": "chunk_0027",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de40da4396321400ee2709",
+    "question": "What were Isaac's chains made out of?",
+    "chunk_id": "chunk_0027",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de40da4396321400ee270a",
+    "question": "Who led Richard's troops when Cyprus was conquered?",
+    "chunk_id": "chunk_0027",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de49564396321400ee277a",
+    "question": "What continent are the Canarian Islands off the coast of?",
+    "chunk_id": "chunk_0028",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de49a8cffd8e1900b4b7a7",
+    "question": "Who became the King of the Canary Islands?",
+    "chunk_id": "chunk_0029",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de49a8cffd8e1900b4b7a8",
+    "question": "Who bought the rights?",
+    "chunk_id": "chunk_0029",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de49a8cffd8e1900b4b7a9",
+    "question": "Who sold the rights?",
+    "chunk_id": "chunk_0029",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de4a474396321400ee2786",
+    "question": "Where are Jersey and Guernsey",
+    "chunk_id": "chunk_0030",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de4a474396321400ee2787",
+    "question": "How many customaries does Norman customary law have?",
+    "chunk_id": "chunk_0030",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de4a89cffd8e1900b4b7bd",
+    "question": "What is the Norman architecture idiom?",
+    "chunk_id": "chunk_0031",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de4a89cffd8e1900b4b7be",
+    "question": "What kind of arches does Norman architecture have?",
+    "chunk_id": "chunk_0031",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de4b074396321400ee2793",
+    "question": "What architecture type came after Norman in England?",
+    "chunk_id": "chunk_0032",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de4b074396321400ee2794",
+    "question": "What architecture type came before Norman in England?",
+    "chunk_id": "chunk_0032",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de4b074396321400ee2795",
+    "question": "What place had the Norman Arab architectural style?",
+    "chunk_id": "chunk_0032",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de4b5c4396321400ee2799",
+    "question": "When did the church reform begin?",
+    "chunk_id": "chunk_0033",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de4b5c4396321400ee279a",
+    "question": "Who used the church to unify themselves?",
+    "chunk_id": "chunk_0033",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de4bb84396321400ee27a2",
+    "question": "When were the French wars of religion?",
+    "chunk_id": "chunk_0034",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de4c324396321400ee27ab",
+    "question": "What kind of needlework was used in the creation of the Bayeux Tapestry?",
+    "chunk_id": "chunk_0035",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de4c324396321400ee27ac",
+    "question": "What is Norman art's most well known piece?",
+    "chunk_id": "chunk_0035",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de4c324396321400ee27ad",
+    "question": "Who commissioned the Tapestry?",
+    "chunk_id": "chunk_0035",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de51244396321400ee27ef",
+    "question": "What is the most important type of Norman art preserved in churches?",
+    "chunk_id": "chunk_0036",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de51c64396321400ee27f7",
+    "question": "In what century did important classical music developments occur in Normandy?",
+    "chunk_id": "chunk_0037",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de51c64396321400ee27f8",
+    "question": "Who were the two abbots at F\u00e9camp Abbey?",
+    "chunk_id": "chunk_0037",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de52614396321400ee27fb",
+    "question": "Where did the monks flee to?",
+    "chunk_id": "chunk_0038",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de52614396321400ee27fc",
+    "question": "What monastery did the Saint-Evroul monks establish in Italy?",
+    "chunk_id": "chunk_0038",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de52614396321400ee27fd",
+    "question": "Who patronized the monks in Italy? ",
+    "chunk_id": "chunk_0038",
+    "topic": "Normans"
+  },
+  {
+    "id": "56de52614396321400ee27fe",
+    "question": "What tradition were the Saint-Evroul monks known for?",
+    "chunk_id": "chunk_0038",
+    "topic": "Normans"
+  },
+  {
+    "id": "56e16182e3433e1400422e28",
+    "question": "What branch of theoretical computer science deals with broadly classifying computational problems by difficulty and class of relationship?",
+    "chunk_id": "chunk_0039",
+    "topic": "Computational_complexity_theory"
+  },
+  {
+    "id": "56e16182e3433e1400422e29",
+    "question": "By what main attribute are computational problems classified utilizing computational complexity theory? ",
+    "chunk_id": "chunk_0039",
+    "topic": "Computational_complexity_theory"
+  },
+  {
+    "id": "56e16182e3433e1400422e2a",
+    "question": "What is the term for a task that generally lends itself to being solved by a computer?",
+    "chunk_id": "chunk_0039",
+    "topic": "Computational_complexity_theory"
+  },
+  {
+    "id": "56e16839cd28a01900c67887",
+    "question": "What measure of a computational problem broadly defines the inherent difficulty of the solution?",
+    "chunk_id": "chunk_0040",
+    "topic": "Computational_complexity_theory"
+  }
+]

@@ -1,0 +1,1596 @@
+[
+  {
+    "id": "TICKET-05674CA6",
+    "title": "RAG pipeline latency spike detected",
+    "description": "Retrieval latency exceeded P95 SLO of 2s. Observed 4.2s average during peak load. Reranker bottleneck suspected.",
+    "priority": "P1",
+    "status": "resolved",
+    "category": "infrastructure",
+    "assigned_team": "platform",
+    "created_at": "2024-03-14T00:00:00",
+    "updated_at": "2024-03-15T16:00:00",
+    "tags": [
+      "reranking",
+      "latency",
+      "cache"
+    ]
+  },
+  {
+    "id": "TICKET-7E0BA2FF",
+    "title": "RAG pipeline latency spike detected",
+    "description": "Retrieval latency exceeded P95 SLO of 2s. Observed 4.2s average during peak load. Reranker bottleneck suspected.",
+    "priority": "P2",
+    "status": "closed",
+    "category": "application",
+    "assigned_team": "data",
+    "created_at": "2024-07-20T00:00:00",
+    "updated_at": "2024-07-21T16:00:00",
+    "tags": [
+      "retrieval",
+      "security",
+      "latency",
+      "embedding"
+    ]
+  },
+  {
+    "id": "TICKET-7EA4DC4E",
+    "title": "Golden dataset evaluation regression",
+    "description": "Recall@10 dropped from 0.74 to 0.58 after chunking strategy change. Reverting chunk size.",
+    "priority": "P1",
+    "status": "open",
+    "category": "security",
+    "assigned_team": "platform",
+    "created_at": "2024-10-11T00:00:00",
+    "updated_at": "2024-10-13T23:00:00",
+    "tags": [
+      "cache",
+      "rag"
+    ]
+  },
+  {
+    "id": "TICKET-2BCD0AC8",
+    "title": "Vector index corruption in production",
+    "description": "Qdrant collection returning stale embeddings. Re-indexing required for document corpus.",
+    "priority": "P1",
+    "status": "closed",
+    "category": "security",
+    "assigned_team": "security",
+    "created_at": "2024-05-05T00:00:00",
+    "updated_at": "2024-05-06T19:00:00",
+    "tags": [
+      "rag",
+      "reranking"
+    ]
+  },
+  {
+    "id": "TICKET-3C3AE923",
+    "title": "Reranker cross-encoder OOM on large context",
+    "description": "Cross-encoder running out of memory for chunks > 512 tokens. Need truncation strategy.",
+    "priority": "P2",
+    "status": "in_progress",
+    "category": "infrastructure",
+    "assigned_team": "security",
+    "created_at": "2024-05-23T00:00:00",
+    "updated_at": "2024-05-24T07:00:00",
+    "tags": [
+      "security",
+      "cache",
+      "retrieval"
+    ]
+  },
+  {
+    "id": "TICKET-6DEE9709",
+    "title": "Reranker cross-encoder OOM on large context",
+    "description": "Cross-encoder running out of memory for chunks > 512 tokens. Need truncation strategy.",
+    "priority": "P4",
+    "status": "open",
+    "category": "application",
+    "assigned_team": "data",
+    "created_at": "2024-12-07T00:00:00",
+    "updated_at": "2024-12-09T23:00:00",
+    "tags": [
+      "embedding",
+      "rag",
+      "cache"
+    ]
+  },
+  {
+    "id": "TICKET-3F359BA7",
+    "title": "Golden dataset evaluation regression",
+    "description": "Recall@10 dropped from 0.74 to 0.58 after chunking strategy change. Reverting chunk size.",
+    "priority": "P2",
+    "status": "resolved",
+    "category": "network",
+    "assigned_team": "platform",
+    "created_at": "2024-07-01T00:00:00",
+    "updated_at": "2024-07-03T23:00:00",
+    "tags": [
+      "rag",
+      "retrieval",
+      "reranking"
+    ]
+  },
+  {
+    "id": "TICKET-7698CE4D",
+    "title": "Vector index corruption in production",
+    "description": "Qdrant collection returning stale embeddings. Re-indexing required for document corpus.",
+    "priority": "P4",
+    "status": "open",
+    "category": "application",
+    "assigned_team": "backend",
+    "created_at": "2024-03-26T00:00:00",
+    "updated_at": "2024-03-28T18:00:00",
+    "tags": [
+      "latency",
+      "cache",
+      "retrieval",
+      "embedding"
+    ]
+  },
+  {
+    "id": "TICKET-C203C617",
+    "title": "Embedding model API rate limit hit",
+    "description": "OpenAI embedding endpoint returning 429. Batch size needs tuning. Implement exponential backoff.",
+    "priority": "P4",
+    "status": "resolved",
+    "category": "infrastructure",
+    "assigned_team": "backend",
+    "created_at": "2024-09-05T00:00:00",
+    "updated_at": "2024-09-06T03:00:00",
+    "tags": [
+      "security",
+      "reranking"
+    ]
+  },
+  {
+    "id": "TICKET-549A6604",
+    "title": "Embedding model API rate limit hit",
+    "description": "OpenAI embedding endpoint returning 429. Batch size needs tuning. Implement exponential backoff.",
+    "priority": "P3",
+    "status": "resolved",
+    "category": "network",
+    "assigned_team": "devops",
+    "created_at": "2024-06-11T00:00:00",
+    "updated_at": "2024-06-11T15:00:00",
+    "tags": [
+      "security",
+      "cache",
+      "retrieval"
+    ]
+  },
+  {
+    "id": "TICKET-AA976225",
+    "title": "Reranker cross-encoder OOM on large context",
+    "description": "Cross-encoder running out of memory for chunks > 512 tokens. Need truncation strategy.",
+    "priority": "P4",
+    "status": "resolved",
+    "category": "database",
+    "assigned_team": "platform",
+    "created_at": "2024-12-24T00:00:00",
+    "updated_at": "2024-12-24T13:00:00",
+    "tags": [
+      "retrieval",
+      "cache",
+      "reranking"
+    ]
+  },
+  {
+    "id": "TICKET-03D77ECC",
+    "title": "Document ingestion pipeline stuck",
+    "description": "PDF parser hanging on multi-column layout documents. Unstructured.io timeout after 30s.",
+    "priority": "P2",
+    "status": "resolved",
+    "category": "security",
+    "assigned_team": "devops",
+    "created_at": "2024-08-26T00:00:00",
+    "updated_at": "2024-08-28T20:00:00",
+    "tags": [
+      "cache",
+      "embedding",
+      "security",
+      "rag"
+    ]
+  },
+  {
+    "id": "TICKET-5B276BE5",
+    "title": "BM25 index out of sync with vector store",
+    "description": "Hybrid retrieval scores inconsistent. BM25 index rebuild needed after document update pipeline failure.",
+    "priority": "P2",
+    "status": "resolved",
+    "category": "network",
+    "assigned_team": "devops",
+    "created_at": "2024-09-18T00:00:00",
+    "updated_at": "2024-09-19T16:00:00",
+    "tags": [
+      "rag",
+      "retrieval",
+      "latency",
+      "reranking"
+    ]
+  },
+  {
+    "id": "TICKET-9DCC71F1",
+    "title": "BM25 index out of sync with vector store",
+    "description": "Hybrid retrieval scores inconsistent. BM25 index rebuild needed after document update pipeline failure.",
+    "priority": "P2",
+    "status": "resolved",
+    "category": "database",
+    "assigned_team": "security",
+    "created_at": "2024-04-18T00:00:00",
+    "updated_at": "2024-04-18T10:00:00",
+    "tags": [
+      "retrieval",
+      "rag"
+    ]
+  },
+  {
+    "id": "TICKET-DF3FEED1",
+    "title": "Semantic cache hit rate dropped to 12%",
+    "description": "Cache invalidation too aggressive after last deployment. Threshold needs recalibration.",
+    "priority": "P4",
+    "status": "closed",
+    "category": "security",
+    "assigned_team": "data",
+    "created_at": "2024-11-07T00:00:00",
+    "updated_at": "2024-11-07T21:00:00",
+    "tags": [
+      "security",
+      "retrieval",
+      "cache"
+    ]
+  },
+  {
+    "id": "TICKET-84A1BBAE",
+    "title": "ACL filter bypassed for restricted documents",
+    "description": "User with reader role accessed admin-only docs. Query-time authorization filter not applied correctly.",
+    "priority": "P3",
+    "status": "closed",
+    "category": "application",
+    "assigned_team": "platform",
+    "created_at": "2024-01-15T00:00:00",
+    "updated_at": "2024-01-17T21:00:00",
+    "tags": [
+      "cache",
+      "embedding",
+      "retrieval"
+    ]
+  },
+  {
+    "id": "TICKET-E37EC779",
+    "title": "Reranker cross-encoder OOM on large context",
+    "description": "Cross-encoder running out of memory for chunks > 512 tokens. Need truncation strategy.",
+    "priority": "P2",
+    "status": "open",
+    "category": "network",
+    "assigned_team": "platform",
+    "created_at": "2024-01-12T00:00:00",
+    "updated_at": "2024-01-14T12:00:00",
+    "tags": [
+      "rag",
+      "security",
+      "embedding",
+      "latency"
+    ]
+  },
+  {
+    "id": "TICKET-324091CF",
+    "title": "RAG pipeline latency spike detected",
+    "description": "Retrieval latency exceeded P95 SLO of 2s. Observed 4.2s average during peak load. Reranker bottleneck suspected.",
+    "priority": "P4",
+    "status": "resolved",
+    "category": "network",
+    "assigned_team": "security",
+    "created_at": "2024-04-08T00:00:00",
+    "updated_at": "2024-04-09T12:00:00",
+    "tags": [
+      "cache",
+      "retrieval"
+    ]
+  },
+  {
+    "id": "TICKET-D24C4633",
+    "title": "Vector index corruption in production",
+    "description": "Qdrant collection returning stale embeddings. Re-indexing required for document corpus.",
+    "priority": "P3",
+    "status": "closed",
+    "category": "database",
+    "assigned_team": "data",
+    "created_at": "2024-02-26T00:00:00",
+    "updated_at": "2024-02-26T21:00:00",
+    "tags": [
+      "embedding",
+      "latency"
+    ]
+  },
+  {
+    "id": "TICKET-DC1EFF0D",
+    "title": "Document ingestion pipeline stuck",
+    "description": "PDF parser hanging on multi-column layout documents. Unstructured.io timeout after 30s.",
+    "priority": "P4",
+    "status": "open",
+    "category": "security",
+    "assigned_team": "platform",
+    "created_at": "2024-01-03T00:00:00",
+    "updated_at": "2024-01-05T23:00:00",
+    "tags": [
+      "security",
+      "retrieval",
+      "latency",
+      "reranking"
+    ]
+  },
+  {
+    "id": "TICKET-25952F16",
+    "title": "Vector index corruption in production",
+    "description": "Qdrant collection returning stale embeddings. Re-indexing required for document corpus.",
+    "priority": "P2",
+    "status": "resolved",
+    "category": "security",
+    "assigned_team": "devops",
+    "created_at": "2024-04-11T00:00:00",
+    "updated_at": "2024-04-13T02:00:00",
+    "tags": [
+      "rag",
+      "latency",
+      "cache",
+      "reranking"
+    ]
+  },
+  {
+    "id": "TICKET-0B435E8F",
+    "title": "Semantic cache hit rate dropped to 12%",
+    "description": "Cache invalidation too aggressive after last deployment. Threshold needs recalibration.",
+    "priority": "P4",
+    "status": "in_progress",
+    "category": "infrastructure",
+    "assigned_team": "devops",
+    "created_at": "2024-08-25T00:00:00",
+    "updated_at": "2024-08-25T16:00:00",
+    "tags": [
+      "security",
+      "rag"
+    ]
+  },
+  {
+    "id": "TICKET-3830EE93",
+    "title": "BM25 index out of sync with vector store",
+    "description": "Hybrid retrieval scores inconsistent. BM25 index rebuild needed after document update pipeline failure.",
+    "priority": "P3",
+    "status": "closed",
+    "category": "application",
+    "assigned_team": "devops",
+    "created_at": "2024-06-21T00:00:00",
+    "updated_at": "2024-06-21T07:00:00",
+    "tags": [
+      "security",
+      "retrieval",
+      "embedding",
+      "latency"
+    ]
+  },
+  {
+    "id": "TICKET-6E1B4D4D",
+    "title": "RAG pipeline latency spike detected",
+    "description": "Retrieval latency exceeded P95 SLO of 2s. Observed 4.2s average during peak load. Reranker bottleneck suspected.",
+    "priority": "P3",
+    "status": "closed",
+    "category": "database",
+    "assigned_team": "security",
+    "created_at": "2024-07-21T00:00:00",
+    "updated_at": "2024-07-22T18:00:00",
+    "tags": [
+      "rag",
+      "retrieval"
+    ]
+  },
+  {
+    "id": "TICKET-FB146AA9",
+    "title": "Hallucination rate increased after model update",
+    "description": "Groundedness score dropped from 0.82 to 0.61 post GPT-4o update. Prompt regression likely.",
+    "priority": "P3",
+    "status": "closed",
+    "category": "database",
+    "assigned_team": "data",
+    "created_at": "2024-05-31T00:00:00",
+    "updated_at": "2024-06-02T03:00:00",
+    "tags": [
+      "rag",
+      "embedding",
+      "cache"
+    ]
+  },
+  {
+    "id": "TICKET-C0418663",
+    "title": "Reranker cross-encoder OOM on large context",
+    "description": "Cross-encoder running out of memory for chunks > 512 tokens. Need truncation strategy.",
+    "priority": "P2",
+    "status": "open",
+    "category": "security",
+    "assigned_team": "data",
+    "created_at": "2024-10-01T00:00:00",
+    "updated_at": "2024-10-03T05:00:00",
+    "tags": [
+      "latency",
+      "rag",
+      "cache",
+      "retrieval"
+    ]
+  },
+  {
+    "id": "TICKET-D44547FF",
+    "title": "Embedding model API rate limit hit",
+    "description": "OpenAI embedding endpoint returning 429. Batch size needs tuning. Implement exponential backoff.",
+    "priority": "P1",
+    "status": "open",
+    "category": "infrastructure",
+    "assigned_team": "platform",
+    "created_at": "2024-09-17T00:00:00",
+    "updated_at": "2024-09-19T18:00:00",
+    "tags": [
+      "latency",
+      "rag",
+      "security",
+      "retrieval"
+    ]
+  },
+  {
+    "id": "TICKET-F286D883",
+    "title": "BM25 index out of sync with vector store",
+    "description": "Hybrid retrieval scores inconsistent. BM25 index rebuild needed after document update pipeline failure.",
+    "priority": "P2",
+    "status": "in_progress",
+    "category": "network",
+    "assigned_team": "data",
+    "created_at": "2024-07-17T00:00:00",
+    "updated_at": "2024-07-19T09:00:00",
+    "tags": [
+      "retrieval",
+      "rag",
+      "cache"
+    ]
+  },
+  {
+    "id": "TICKET-CEE627E7",
+    "title": "Semantic cache hit rate dropped to 12%",
+    "description": "Cache invalidation too aggressive after last deployment. Threshold needs recalibration.",
+    "priority": "P2",
+    "status": "open",
+    "category": "application",
+    "assigned_team": "data",
+    "created_at": "2024-12-30T00:00:00",
+    "updated_at": "2024-12-31T10:00:00",
+    "tags": [
+      "embedding",
+      "reranking",
+      "latency",
+      "rag"
+    ]
+  },
+  {
+    "id": "TICKET-E937AD1A",
+    "title": "Document ingestion pipeline stuck",
+    "description": "PDF parser hanging on multi-column layout documents. Unstructured.io timeout after 30s.",
+    "priority": "P3",
+    "status": "resolved",
+    "category": "application",
+    "assigned_team": "security",
+    "created_at": "2024-05-18T00:00:00",
+    "updated_at": "2024-05-19T19:00:00",
+    "tags": [
+      "latency",
+      "cache"
+    ]
+  },
+  {
+    "id": "TICKET-D4A434F0",
+    "title": "Reranker cross-encoder OOM on large context",
+    "description": "Cross-encoder running out of memory for chunks > 512 tokens. Need truncation strategy.",
+    "priority": "P4",
+    "status": "in_progress",
+    "category": "security",
+    "assigned_team": "security",
+    "created_at": "2024-02-02T00:00:00",
+    "updated_at": "2024-02-02T04:00:00",
+    "tags": [
+      "rag",
+      "cache"
+    ]
+  },
+  {
+    "id": "TICKET-8A1AB0BD",
+    "title": "RAG pipeline latency spike detected",
+    "description": "Retrieval latency exceeded P95 SLO of 2s. Observed 4.2s average during peak load. Reranker bottleneck suspected.",
+    "priority": "P3",
+    "status": "in_progress",
+    "category": "database",
+    "assigned_team": "data",
+    "created_at": "2024-07-16T00:00:00",
+    "updated_at": "2024-07-18T08:00:00",
+    "tags": [
+      "rag",
+      "latency"
+    ]
+  },
+  {
+    "id": "TICKET-F5EE3EE0",
+    "title": "ACL filter bypassed for restricted documents",
+    "description": "User with reader role accessed admin-only docs. Query-time authorization filter not applied correctly.",
+    "priority": "P3",
+    "status": "in_progress",
+    "category": "database",
+    "assigned_team": "platform",
+    "created_at": "2024-06-24T00:00:00",
+    "updated_at": "2024-06-25T15:00:00",
+    "tags": [
+      "retrieval",
+      "cache",
+      "rag",
+      "latency"
+    ]
+  },
+  {
+    "id": "TICKET-9FEBB222",
+    "title": "Reranker cross-encoder OOM on large context",
+    "description": "Cross-encoder running out of memory for chunks > 512 tokens. Need truncation strategy.",
+    "priority": "P3",
+    "status": "in_progress",
+    "category": "network",
+    "assigned_team": "backend",
+    "created_at": "2024-02-17T00:00:00",
+    "updated_at": "2024-02-18T12:00:00",
+    "tags": [
+      "latency",
+      "security",
+      "embedding",
+      "cache"
+    ]
+  },
+  {
+    "id": "TICKET-6444C90A",
+    "title": "BM25 index out of sync with vector store",
+    "description": "Hybrid retrieval scores inconsistent. BM25 index rebuild needed after document update pipeline failure.",
+    "priority": "P4",
+    "status": "resolved",
+    "category": "application",
+    "assigned_team": "data",
+    "created_at": "2024-10-18T00:00:00",
+    "updated_at": "2024-10-19T13:00:00",
+    "tags": [
+      "retrieval",
+      "latency",
+      "cache",
+      "embedding"
+    ]
+  },
+  {
+    "id": "TICKET-5365BBDB",
+    "title": "Reranker cross-encoder OOM on large context",
+    "description": "Cross-encoder running out of memory for chunks > 512 tokens. Need truncation strategy.",
+    "priority": "P2",
+    "status": "in_progress",
+    "category": "infrastructure",
+    "assigned_team": "data",
+    "created_at": "2024-07-14T00:00:00",
+    "updated_at": "2024-07-15T11:00:00",
+    "tags": [
+      "cache",
+      "reranking"
+    ]
+  },
+  {
+    "id": "TICKET-C32A575B",
+    "title": "Golden dataset evaluation regression",
+    "description": "Recall@10 dropped from 0.74 to 0.58 after chunking strategy change. Reverting chunk size.",
+    "priority": "P1",
+    "status": "in_progress",
+    "category": "network",
+    "assigned_team": "backend",
+    "created_at": "2024-10-08T00:00:00",
+    "updated_at": "2024-10-10T05:00:00",
+    "tags": [
+      "rag",
+      "retrieval"
+    ]
+  },
+  {
+    "id": "TICKET-5AE1E039",
+    "title": "Hallucination rate increased after model update",
+    "description": "Groundedness score dropped from 0.82 to 0.61 post GPT-4o update. Prompt regression likely.",
+    "priority": "P4",
+    "status": "resolved",
+    "category": "security",
+    "assigned_team": "data",
+    "created_at": "2024-07-14T00:00:00",
+    "updated_at": "2024-07-15T07:00:00",
+    "tags": [
+      "embedding",
+      "reranking",
+      "retrieval"
+    ]
+  },
+  {
+    "id": "TICKET-FE64C115",
+    "title": "RAG pipeline latency spike detected",
+    "description": "Retrieval latency exceeded P95 SLO of 2s. Observed 4.2s average during peak load. Reranker bottleneck suspected.",
+    "priority": "P3",
+    "status": "in_progress",
+    "category": "infrastructure",
+    "assigned_team": "backend",
+    "created_at": "2024-11-28T00:00:00",
+    "updated_at": "2024-11-30T04:00:00",
+    "tags": [
+      "cache",
+      "embedding"
+    ]
+  },
+  {
+    "id": "TICKET-9E81EDEA",
+    "title": "Vector index corruption in production",
+    "description": "Qdrant collection returning stale embeddings. Re-indexing required for document corpus.",
+    "priority": "P4",
+    "status": "open",
+    "category": "database",
+    "assigned_team": "platform",
+    "created_at": "2024-10-01T00:00:00",
+    "updated_at": "2024-10-02T20:00:00",
+    "tags": [
+      "retrieval",
+      "latency",
+      "security"
+    ]
+  },
+  {
+    "id": "TICKET-AB41DEF5",
+    "title": "Hallucination rate increased after model update",
+    "description": "Groundedness score dropped from 0.82 to 0.61 post GPT-4o update. Prompt regression likely.",
+    "priority": "P4",
+    "status": "in_progress",
+    "category": "network",
+    "assigned_team": "data",
+    "created_at": "2024-03-19T00:00:00",
+    "updated_at": "2024-03-21T06:00:00",
+    "tags": [
+      "embedding",
+      "latency",
+      "reranking",
+      "retrieval"
+    ]
+  },
+  {
+    "id": "TICKET-21A69013",
+    "title": "RAG pipeline latency spike detected",
+    "description": "Retrieval latency exceeded P95 SLO of 2s. Observed 4.2s average during peak load. Reranker bottleneck suspected.",
+    "priority": "P2",
+    "status": "closed",
+    "category": "application",
+    "assigned_team": "data",
+    "created_at": "2024-12-06T00:00:00",
+    "updated_at": "2024-12-06T21:00:00",
+    "tags": [
+      "reranking",
+      "security"
+    ]
+  },
+  {
+    "id": "TICKET-7FC92730",
+    "title": "RAG pipeline latency spike detected",
+    "description": "Retrieval latency exceeded P95 SLO of 2s. Observed 4.2s average during peak load. Reranker bottleneck suspected.",
+    "priority": "P2",
+    "status": "closed",
+    "category": "infrastructure",
+    "assigned_team": "platform",
+    "created_at": "2024-11-05T00:00:00",
+    "updated_at": "2024-11-07T13:00:00",
+    "tags": [
+      "security",
+      "retrieval"
+    ]
+  },
+  {
+    "id": "TICKET-48E403E3",
+    "title": "Reranker cross-encoder OOM on large context",
+    "description": "Cross-encoder running out of memory for chunks > 512 tokens. Need truncation strategy.",
+    "priority": "P2",
+    "status": "closed",
+    "category": "database",
+    "assigned_team": "devops",
+    "created_at": "2024-05-25T00:00:00",
+    "updated_at": "2024-05-27T01:00:00",
+    "tags": [
+      "cache",
+      "reranking"
+    ]
+  },
+  {
+    "id": "TICKET-D597CF43",
+    "title": "Reranker cross-encoder OOM on large context",
+    "description": "Cross-encoder running out of memory for chunks > 512 tokens. Need truncation strategy.",
+    "priority": "P1",
+    "status": "open",
+    "category": "network",
+    "assigned_team": "data",
+    "created_at": "2024-06-13T00:00:00",
+    "updated_at": "2024-06-15T05:00:00",
+    "tags": [
+      "retrieval",
+      "cache",
+      "latency",
+      "rag"
+    ]
+  },
+  {
+    "id": "TICKET-4953F63F",
+    "title": "Document ingestion pipeline stuck",
+    "description": "PDF parser hanging on multi-column layout documents. Unstructured.io timeout after 30s.",
+    "priority": "P3",
+    "status": "open",
+    "category": "infrastructure",
+    "assigned_team": "backend",
+    "created_at": "2024-05-21T00:00:00",
+    "updated_at": "2024-05-22T14:00:00",
+    "tags": [
+      "embedding",
+      "rag"
+    ]
+  },
+  {
+    "id": "TICKET-CEFC7BB0",
+    "title": "Vector index corruption in production",
+    "description": "Qdrant collection returning stale embeddings. Re-indexing required for document corpus.",
+    "priority": "P1",
+    "status": "open",
+    "category": "database",
+    "assigned_team": "backend",
+    "created_at": "2024-01-23T00:00:00",
+    "updated_at": "2024-01-24T00:00:00",
+    "tags": [
+      "reranking",
+      "embedding"
+    ]
+  },
+  {
+    "id": "TICKET-FD8B5474",
+    "title": "Embedding model API rate limit hit",
+    "description": "OpenAI embedding endpoint returning 429. Batch size needs tuning. Implement exponential backoff.",
+    "priority": "P1",
+    "status": "in_progress",
+    "category": "infrastructure",
+    "assigned_team": "data",
+    "created_at": "2024-03-28T00:00:00",
+    "updated_at": "2024-03-30T15:00:00",
+    "tags": [
+      "latency",
+      "embedding",
+      "retrieval",
+      "rag"
+    ]
+  },
+  {
+    "id": "TICKET-497FA072",
+    "title": "Golden dataset evaluation regression",
+    "description": "Recall@10 dropped from 0.74 to 0.58 after chunking strategy change. Reverting chunk size.",
+    "priority": "P4",
+    "status": "in_progress",
+    "category": "application",
+    "assigned_team": "devops",
+    "created_at": "2024-07-08T00:00:00",
+    "updated_at": "2024-07-08T15:00:00",
+    "tags": [
+      "latency",
+      "retrieval"
+    ]
+  },
+  {
+    "id": "TICKET-8D4434F5",
+    "title": "Vector index corruption in production",
+    "description": "Qdrant collection returning stale embeddings. Re-indexing required for document corpus.",
+    "priority": "P4",
+    "status": "open",
+    "category": "database",
+    "assigned_team": "devops",
+    "created_at": "2024-06-11T00:00:00",
+    "updated_at": "2024-06-13T22:00:00",
+    "tags": [
+      "cache",
+      "reranking",
+      "rag"
+    ]
+  },
+  {
+    "id": "TICKET-C91DC407",
+    "title": "Embedding model API rate limit hit",
+    "description": "OpenAI embedding endpoint returning 429. Batch size needs tuning. Implement exponential backoff.",
+    "priority": "P1",
+    "status": "in_progress",
+    "category": "infrastructure",
+    "assigned_team": "devops",
+    "created_at": "2024-08-09T00:00:00",
+    "updated_at": "2024-08-09T18:00:00",
+    "tags": [
+      "retrieval",
+      "security",
+      "reranking",
+      "embedding"
+    ]
+  },
+  {
+    "id": "TICKET-1ACFAFEF",
+    "title": "Reranker cross-encoder OOM on large context",
+    "description": "Cross-encoder running out of memory for chunks > 512 tokens. Need truncation strategy.",
+    "priority": "P3",
+    "status": "open",
+    "category": "application",
+    "assigned_team": "platform",
+    "created_at": "2024-12-14T00:00:00",
+    "updated_at": "2024-12-15T13:00:00",
+    "tags": [
+      "embedding",
+      "retrieval",
+      "latency",
+      "security"
+    ]
+  },
+  {
+    "id": "TICKET-C850CB78",
+    "title": "RAG pipeline latency spike detected",
+    "description": "Retrieval latency exceeded P95 SLO of 2s. Observed 4.2s average during peak load. Reranker bottleneck suspected.",
+    "priority": "P2",
+    "status": "resolved",
+    "category": "security",
+    "assigned_team": "data",
+    "created_at": "2024-05-22T00:00:00",
+    "updated_at": "2024-05-23T17:00:00",
+    "tags": [
+      "security",
+      "reranking",
+      "latency",
+      "cache"
+    ]
+  },
+  {
+    "id": "TICKET-1F8CDB4E",
+    "title": "RAG pipeline latency spike detected",
+    "description": "Retrieval latency exceeded P95 SLO of 2s. Observed 4.2s average during peak load. Reranker bottleneck suspected.",
+    "priority": "P2",
+    "status": "in_progress",
+    "category": "network",
+    "assigned_team": "data",
+    "created_at": "2024-11-08T00:00:00",
+    "updated_at": "2024-11-09T23:00:00",
+    "tags": [
+      "security",
+      "latency"
+    ]
+  },
+  {
+    "id": "TICKET-CCD93EAA",
+    "title": "Semantic cache hit rate dropped to 12%",
+    "description": "Cache invalidation too aggressive after last deployment. Threshold needs recalibration.",
+    "priority": "P1",
+    "status": "in_progress",
+    "category": "network",
+    "assigned_team": "security",
+    "created_at": "2024-10-31T00:00:00",
+    "updated_at": "2024-11-02T23:00:00",
+    "tags": [
+      "latency",
+      "rag"
+    ]
+  },
+  {
+    "id": "TICKET-CF3399B4",
+    "title": "RAG pipeline latency spike detected",
+    "description": "Retrieval latency exceeded P95 SLO of 2s. Observed 4.2s average during peak load. Reranker bottleneck suspected.",
+    "priority": "P4",
+    "status": "open",
+    "category": "database",
+    "assigned_team": "data",
+    "created_at": "2024-06-21T00:00:00",
+    "updated_at": "2024-06-22T23:00:00",
+    "tags": [
+      "reranking",
+      "cache",
+      "embedding"
+    ]
+  },
+  {
+    "id": "TICKET-4C56EB85",
+    "title": "BM25 index out of sync with vector store",
+    "description": "Hybrid retrieval scores inconsistent. BM25 index rebuild needed after document update pipeline failure.",
+    "priority": "P1",
+    "status": "open",
+    "category": "security",
+    "assigned_team": "security",
+    "created_at": "2024-02-24T00:00:00",
+    "updated_at": "2024-02-24T10:00:00",
+    "tags": [
+      "cache",
+      "security",
+      "latency"
+    ]
+  },
+  {
+    "id": "TICKET-F3DC7547",
+    "title": "Golden dataset evaluation regression",
+    "description": "Recall@10 dropped from 0.74 to 0.58 after chunking strategy change. Reverting chunk size.",
+    "priority": "P4",
+    "status": "in_progress",
+    "category": "security",
+    "assigned_team": "data",
+    "created_at": "2024-01-23T00:00:00",
+    "updated_at": "2024-01-25T20:00:00",
+    "tags": [
+      "embedding",
+      "security",
+      "retrieval"
+    ]
+  },
+  {
+    "id": "TICKET-DA709178",
+    "title": "RAG pipeline latency spike detected",
+    "description": "Retrieval latency exceeded P95 SLO of 2s. Observed 4.2s average during peak load. Reranker bottleneck suspected.",
+    "priority": "P2",
+    "status": "in_progress",
+    "category": "security",
+    "assigned_team": "security",
+    "created_at": "2024-05-14T00:00:00",
+    "updated_at": "2024-05-16T03:00:00",
+    "tags": [
+      "reranking",
+      "rag",
+      "embedding",
+      "cache"
+    ]
+  },
+  {
+    "id": "TICKET-8FA132B9",
+    "title": "Document ingestion pipeline stuck",
+    "description": "PDF parser hanging on multi-column layout documents. Unstructured.io timeout after 30s.",
+    "priority": "P3",
+    "status": "open",
+    "category": "database",
+    "assigned_team": "security",
+    "created_at": "2024-05-03T00:00:00",
+    "updated_at": "2024-05-05T11:00:00",
+    "tags": [
+      "cache",
+      "embedding",
+      "security"
+    ]
+  },
+  {
+    "id": "TICKET-3FA2EA96",
+    "title": "RAG pipeline latency spike detected",
+    "description": "Retrieval latency exceeded P95 SLO of 2s. Observed 4.2s average during peak load. Reranker bottleneck suspected.",
+    "priority": "P3",
+    "status": "in_progress",
+    "category": "infrastructure",
+    "assigned_team": "backend",
+    "created_at": "2024-01-12T00:00:00",
+    "updated_at": "2024-01-14T16:00:00",
+    "tags": [
+      "embedding",
+      "cache",
+      "retrieval",
+      "rag"
+    ]
+  },
+  {
+    "id": "TICKET-6A3C4AF4",
+    "title": "Embedding model API rate limit hit",
+    "description": "OpenAI embedding endpoint returning 429. Batch size needs tuning. Implement exponential backoff.",
+    "priority": "P4",
+    "status": "open",
+    "category": "application",
+    "assigned_team": "backend",
+    "created_at": "2024-07-22T00:00:00",
+    "updated_at": "2024-07-23T17:00:00",
+    "tags": [
+      "retrieval",
+      "latency",
+      "security",
+      "embedding"
+    ]
+  },
+  {
+    "id": "TICKET-B7E5BAF5",
+    "title": "RAG pipeline latency spike detected",
+    "description": "Retrieval latency exceeded P95 SLO of 2s. Observed 4.2s average during peak load. Reranker bottleneck suspected.",
+    "priority": "P3",
+    "status": "closed",
+    "category": "security",
+    "assigned_team": "platform",
+    "created_at": "2024-02-16T00:00:00",
+    "updated_at": "2024-02-16T17:00:00",
+    "tags": [
+      "retrieval",
+      "security"
+    ]
+  },
+  {
+    "id": "TICKET-36EE0CA8",
+    "title": "Semantic cache hit rate dropped to 12%",
+    "description": "Cache invalidation too aggressive after last deployment. Threshold needs recalibration.",
+    "priority": "P4",
+    "status": "in_progress",
+    "category": "infrastructure",
+    "assigned_team": "security",
+    "created_at": "2024-10-18T00:00:00",
+    "updated_at": "2024-10-19T23:00:00",
+    "tags": [
+      "embedding",
+      "rag",
+      "reranking"
+    ]
+  },
+  {
+    "id": "TICKET-13A4D713",
+    "title": "Reranker cross-encoder OOM on large context",
+    "description": "Cross-encoder running out of memory for chunks > 512 tokens. Need truncation strategy.",
+    "priority": "P2",
+    "status": "resolved",
+    "category": "database",
+    "assigned_team": "data",
+    "created_at": "2024-06-02T00:00:00",
+    "updated_at": "2024-06-02T04:00:00",
+    "tags": [
+      "retrieval",
+      "latency"
+    ]
+  },
+  {
+    "id": "TICKET-9C85BD77",
+    "title": "Golden dataset evaluation regression",
+    "description": "Recall@10 dropped from 0.74 to 0.58 after chunking strategy change. Reverting chunk size.",
+    "priority": "P2",
+    "status": "closed",
+    "category": "infrastructure",
+    "assigned_team": "platform",
+    "created_at": "2024-07-22T00:00:00",
+    "updated_at": "2024-07-23T18:00:00",
+    "tags": [
+      "latency",
+      "cache",
+      "embedding"
+    ]
+  },
+  {
+    "id": "TICKET-C32A4CEF",
+    "title": "Reranker cross-encoder OOM on large context",
+    "description": "Cross-encoder running out of memory for chunks > 512 tokens. Need truncation strategy.",
+    "priority": "P1",
+    "status": "resolved",
+    "category": "infrastructure",
+    "assigned_team": "backend",
+    "created_at": "2024-03-02T00:00:00",
+    "updated_at": "2024-03-03T10:00:00",
+    "tags": [
+      "rag",
+      "reranking",
+      "retrieval",
+      "latency"
+    ]
+  },
+  {
+    "id": "TICKET-7518F9EF",
+    "title": "Vector index corruption in production",
+    "description": "Qdrant collection returning stale embeddings. Re-indexing required for document corpus.",
+    "priority": "P1",
+    "status": "resolved",
+    "category": "security",
+    "assigned_team": "security",
+    "created_at": "2024-05-06T00:00:00",
+    "updated_at": "2024-05-06T17:00:00",
+    "tags": [
+      "reranking",
+      "security"
+    ]
+  },
+  {
+    "id": "TICKET-26B7EFE9",
+    "title": "Vector index corruption in production",
+    "description": "Qdrant collection returning stale embeddings. Re-indexing required for document corpus.",
+    "priority": "P3",
+    "status": "in_progress",
+    "category": "database",
+    "assigned_team": "backend",
+    "created_at": "2024-06-22T00:00:00",
+    "updated_at": "2024-06-22T07:00:00",
+    "tags": [
+      "rag",
+      "latency",
+      "cache",
+      "security"
+    ]
+  },
+  {
+    "id": "TICKET-DCA0E6FA",
+    "title": "RAG pipeline latency spike detected",
+    "description": "Retrieval latency exceeded P95 SLO of 2s. Observed 4.2s average during peak load. Reranker bottleneck suspected.",
+    "priority": "P2",
+    "status": "resolved",
+    "category": "network",
+    "assigned_team": "devops",
+    "created_at": "2024-10-17T00:00:00",
+    "updated_at": "2024-10-17T09:00:00",
+    "tags": [
+      "cache",
+      "retrieval"
+    ]
+  },
+  {
+    "id": "TICKET-77C9E09A",
+    "title": "ACL filter bypassed for restricted documents",
+    "description": "User with reader role accessed admin-only docs. Query-time authorization filter not applied correctly.",
+    "priority": "P1",
+    "status": "closed",
+    "category": "network",
+    "assigned_team": "data",
+    "created_at": "2024-07-20T00:00:00",
+    "updated_at": "2024-07-22T14:00:00",
+    "tags": [
+      "latency",
+      "reranking",
+      "retrieval"
+    ]
+  },
+  {
+    "id": "TICKET-2A1A1D79",
+    "title": "Semantic cache hit rate dropped to 12%",
+    "description": "Cache invalidation too aggressive after last deployment. Threshold needs recalibration.",
+    "priority": "P4",
+    "status": "resolved",
+    "category": "infrastructure",
+    "assigned_team": "platform",
+    "created_at": "2024-02-05T00:00:00",
+    "updated_at": "2024-02-06T04:00:00",
+    "tags": [
+      "security",
+      "reranking",
+      "rag",
+      "cache"
+    ]
+  },
+  {
+    "id": "TICKET-F3513BEB",
+    "title": "Vector index corruption in production",
+    "description": "Qdrant collection returning stale embeddings. Re-indexing required for document corpus.",
+    "priority": "P4",
+    "status": "closed",
+    "category": "application",
+    "assigned_team": "backend",
+    "created_at": "2024-03-22T00:00:00",
+    "updated_at": "2024-03-24T07:00:00",
+    "tags": [
+      "rag",
+      "latency"
+    ]
+  },
+  {
+    "id": "TICKET-4AC1970D",
+    "title": "ACL filter bypassed for restricted documents",
+    "description": "User with reader role accessed admin-only docs. Query-time authorization filter not applied correctly.",
+    "priority": "P2",
+    "status": "in_progress",
+    "category": "infrastructure",
+    "assigned_team": "security",
+    "created_at": "2024-03-27T00:00:00",
+    "updated_at": "2024-03-28T12:00:00",
+    "tags": [
+      "retrieval",
+      "rag",
+      "reranking",
+      "embedding"
+    ]
+  },
+  {
+    "id": "TICKET-2872D892",
+    "title": "BM25 index out of sync with vector store",
+    "description": "Hybrid retrieval scores inconsistent. BM25 index rebuild needed after document update pipeline failure.",
+    "priority": "P4",
+    "status": "open",
+    "category": "database",
+    "assigned_team": "data",
+    "created_at": "2024-08-04T00:00:00",
+    "updated_at": "2024-08-06T15:00:00",
+    "tags": [
+      "retrieval",
+      "reranking",
+      "security"
+    ]
+  },
+  {
+    "id": "TICKET-9CF49826",
+    "title": "Vector index corruption in production",
+    "description": "Qdrant collection returning stale embeddings. Re-indexing required for document corpus.",
+    "priority": "P4",
+    "status": "resolved",
+    "category": "application",
+    "assigned_team": "backend",
+    "created_at": "2024-08-12T00:00:00",
+    "updated_at": "2024-08-12T05:00:00",
+    "tags": [
+      "cache",
+      "latency"
+    ]
+  },
+  {
+    "id": "TICKET-368BC61D",
+    "title": "Hallucination rate increased after model update",
+    "description": "Groundedness score dropped from 0.82 to 0.61 post GPT-4o update. Prompt regression likely.",
+    "priority": "P3",
+    "status": "in_progress",
+    "category": "infrastructure",
+    "assigned_team": "devops",
+    "created_at": "2024-08-30T00:00:00",
+    "updated_at": "2024-09-01T07:00:00",
+    "tags": [
+      "rag",
+      "security"
+    ]
+  },
+  {
+    "id": "TICKET-19D0CFA0",
+    "title": "Vector index corruption in production",
+    "description": "Qdrant collection returning stale embeddings. Re-indexing required for document corpus.",
+    "priority": "P2",
+    "status": "open",
+    "category": "application",
+    "assigned_team": "platform",
+    "created_at": "2024-12-01T00:00:00",
+    "updated_at": "2024-12-01T06:00:00",
+    "tags": [
+      "embedding",
+      "retrieval"
+    ]
+  },
+  {
+    "id": "TICKET-69B4CD21",
+    "title": "Embedding model API rate limit hit",
+    "description": "OpenAI embedding endpoint returning 429. Batch size needs tuning. Implement exponential backoff.",
+    "priority": "P4",
+    "status": "in_progress",
+    "category": "database",
+    "assigned_team": "devops",
+    "created_at": "2024-01-13T00:00:00",
+    "updated_at": "2024-01-13T08:00:00",
+    "tags": [
+      "reranking",
+      "latency",
+      "security"
+    ]
+  },
+  {
+    "id": "TICKET-AB37029B",
+    "title": "Hallucination rate increased after model update",
+    "description": "Groundedness score dropped from 0.82 to 0.61 post GPT-4o update. Prompt regression likely.",
+    "priority": "P3",
+    "status": "in_progress",
+    "category": "security",
+    "assigned_team": "platform",
+    "created_at": "2024-09-21T00:00:00",
+    "updated_at": "2024-09-22T02:00:00",
+    "tags": [
+      "retrieval",
+      "latency",
+      "rag",
+      "security"
+    ]
+  },
+  {
+    "id": "TICKET-B1D018EA",
+    "title": "Golden dataset evaluation regression",
+    "description": "Recall@10 dropped from 0.74 to 0.58 after chunking strategy change. Reverting chunk size.",
+    "priority": "P1",
+    "status": "in_progress",
+    "category": "security",
+    "assigned_team": "security",
+    "created_at": "2024-01-21T00:00:00",
+    "updated_at": "2024-01-22T15:00:00",
+    "tags": [
+      "cache",
+      "retrieval"
+    ]
+  },
+  {
+    "id": "TICKET-69230A9D",
+    "title": "Semantic cache hit rate dropped to 12%",
+    "description": "Cache invalidation too aggressive after last deployment. Threshold needs recalibration.",
+    "priority": "P1",
+    "status": "closed",
+    "category": "security",
+    "assigned_team": "backend",
+    "created_at": "2024-05-31T00:00:00",
+    "updated_at": "2024-06-01T18:00:00",
+    "tags": [
+      "reranking",
+      "retrieval",
+      "embedding"
+    ]
+  },
+  {
+    "id": "TICKET-E330B576",
+    "title": "Vector index corruption in production",
+    "description": "Qdrant collection returning stale embeddings. Re-indexing required for document corpus.",
+    "priority": "P3",
+    "status": "in_progress",
+    "category": "network",
+    "assigned_team": "devops",
+    "created_at": "2024-05-20T00:00:00",
+    "updated_at": "2024-05-20T20:00:00",
+    "tags": [
+      "reranking",
+      "security"
+    ]
+  },
+  {
+    "id": "TICKET-CFFD6D31",
+    "title": "Reranker cross-encoder OOM on large context",
+    "description": "Cross-encoder running out of memory for chunks > 512 tokens. Need truncation strategy.",
+    "priority": "P1",
+    "status": "resolved",
+    "category": "database",
+    "assigned_team": "platform",
+    "created_at": "2024-07-22T00:00:00",
+    "updated_at": "2024-07-22T11:00:00",
+    "tags": [
+      "cache",
+      "embedding"
+    ]
+  },
+  {
+    "id": "TICKET-5EA43C90",
+    "title": "Vector index corruption in production",
+    "description": "Qdrant collection returning stale embeddings. Re-indexing required for document corpus.",
+    "priority": "P1",
+    "status": "open",
+    "category": "network",
+    "assigned_team": "data",
+    "created_at": "2024-07-05T00:00:00",
+    "updated_at": "2024-07-06T06:00:00",
+    "tags": [
+      "retrieval",
+      "cache"
+    ]
+  },
+  {
+    "id": "TICKET-E1FB606E",
+    "title": "BM25 index out of sync with vector store",
+    "description": "Hybrid retrieval scores inconsistent. BM25 index rebuild needed after document update pipeline failure.",
+    "priority": "P1",
+    "status": "resolved",
+    "category": "application",
+    "assigned_team": "platform",
+    "created_at": "2024-05-27T00:00:00",
+    "updated_at": "2024-05-28T03:00:00",
+    "tags": [
+      "latency",
+      "cache",
+      "security"
+    ]
+  },
+  {
+    "id": "TICKET-EAE601FD",
+    "title": "Reranker cross-encoder OOM on large context",
+    "description": "Cross-encoder running out of memory for chunks > 512 tokens. Need truncation strategy.",
+    "priority": "P4",
+    "status": "open",
+    "category": "application",
+    "assigned_team": "devops",
+    "created_at": "2024-06-26T00:00:00",
+    "updated_at": "2024-06-26T03:00:00",
+    "tags": [
+      "embedding",
+      "latency",
+      "rag",
+      "retrieval"
+    ]
+  },
+  {
+    "id": "TICKET-9FB5360A",
+    "title": "Semantic cache hit rate dropped to 12%",
+    "description": "Cache invalidation too aggressive after last deployment. Threshold needs recalibration.",
+    "priority": "P3",
+    "status": "closed",
+    "category": "application",
+    "assigned_team": "data",
+    "created_at": "2024-08-13T00:00:00",
+    "updated_at": "2024-08-13T11:00:00",
+    "tags": [
+      "reranking",
+      "cache",
+      "latency",
+      "rag"
+    ]
+  },
+  {
+    "id": "TICKET-6569788D",
+    "title": "Semantic cache hit rate dropped to 12%",
+    "description": "Cache invalidation too aggressive after last deployment. Threshold needs recalibration.",
+    "priority": "P4",
+    "status": "closed",
+    "category": "infrastructure",
+    "assigned_team": "data",
+    "created_at": "2024-03-19T00:00:00",
+    "updated_at": "2024-03-22T00:00:00",
+    "tags": [
+      "cache",
+      "retrieval"
+    ]
+  },
+  {
+    "id": "TICKET-5ECAAF66",
+    "title": "ACL filter bypassed for restricted documents",
+    "description": "User with reader role accessed admin-only docs. Query-time authorization filter not applied correctly.",
+    "priority": "P3",
+    "status": "open",
+    "category": "database",
+    "assigned_team": "backend",
+    "created_at": "2024-06-22T00:00:00",
+    "updated_at": "2024-06-22T10:00:00",
+    "tags": [
+      "retrieval",
+      "rag",
+      "cache",
+      "reranking"
+    ]
+  },
+  {
+    "id": "TICKET-E8D46E23",
+    "title": "ACL filter bypassed for restricted documents",
+    "description": "User with reader role accessed admin-only docs. Query-time authorization filter not applied correctly.",
+    "priority": "P2",
+    "status": "resolved",
+    "category": "security",
+    "assigned_team": "security",
+    "created_at": "2024-07-22T00:00:00",
+    "updated_at": "2024-07-22T06:00:00",
+    "tags": [
+      "retrieval",
+      "reranking"
+    ]
+  },
+  {
+    "id": "TICKET-952F4294",
+    "title": "Embedding model API rate limit hit",
+    "description": "OpenAI embedding endpoint returning 429. Batch size needs tuning. Implement exponential backoff.",
+    "priority": "P1",
+    "status": "closed",
+    "category": "application",
+    "assigned_team": "backend",
+    "created_at": "2024-01-17T00:00:00",
+    "updated_at": "2024-01-18T19:00:00",
+    "tags": [
+      "embedding",
+      "rag",
+      "security",
+      "retrieval"
+    ]
+  },
+  {
+    "id": "TICKET-92FE59A4",
+    "title": "Reranker cross-encoder OOM on large context",
+    "description": "Cross-encoder running out of memory for chunks > 512 tokens. Need truncation strategy.",
+    "priority": "P3",
+    "status": "open",
+    "category": "database",
+    "assigned_team": "data",
+    "created_at": "2024-12-30T00:00:00",
+    "updated_at": "2025-01-01T16:00:00",
+    "tags": [
+      "cache",
+      "security"
+    ]
+  },
+  {
+    "id": "TICKET-0957A9AC",
+    "title": "BM25 index out of sync with vector store",
+    "description": "Hybrid retrieval scores inconsistent. BM25 index rebuild needed after document update pipeline failure.",
+    "priority": "P4",
+    "status": "closed",
+    "category": "database",
+    "assigned_team": "devops",
+    "created_at": "2024-02-02T00:00:00",
+    "updated_at": "2024-02-03T01:00:00",
+    "tags": [
+      "security",
+      "retrieval"
+    ]
+  },
+  {
+    "id": "TICKET-58DBC022",
+    "title": "Vector index corruption in production",
+    "description": "Qdrant collection returning stale embeddings. Re-indexing required for document corpus.",
+    "priority": "P3",
+    "status": "open",
+    "category": "network",
+    "assigned_team": "data",
+    "created_at": "2024-04-06T00:00:00",
+    "updated_at": "2024-04-07T02:00:00",
+    "tags": [
+      "cache",
+      "security"
+    ]
+  },
+  {
+    "id": "TICKET-6E8CB594",
+    "title": "Embedding model API rate limit hit",
+    "description": "OpenAI embedding endpoint returning 429. Batch size needs tuning. Implement exponential backoff.",
+    "priority": "P3",
+    "status": "open",
+    "category": "application",
+    "assigned_team": "security",
+    "created_at": "2024-04-15T00:00:00",
+    "updated_at": "2024-04-16T10:00:00",
+    "tags": [
+      "cache",
+      "retrieval"
+    ]
+  },
+  {
+    "id": "TICKET-B4348357",
+    "title": "Document ingestion pipeline stuck",
+    "description": "PDF parser hanging on multi-column layout documents. Unstructured.io timeout after 30s.",
+    "priority": "P2",
+    "status": "resolved",
+    "category": "application",
+    "assigned_team": "platform",
+    "created_at": "2024-05-05T00:00:00",
+    "updated_at": "2024-05-06T00:00:00",
+    "tags": [
+      "reranking",
+      "latency",
+      "retrieval"
+    ]
+  },
+  {
+    "id": "TICKET-69371E7D",
+    "title": "Golden dataset evaluation regression",
+    "description": "Recall@10 dropped from 0.74 to 0.58 after chunking strategy change. Reverting chunk size.",
+    "priority": "P1",
+    "status": "open",
+    "category": "application",
+    "assigned_team": "security",
+    "created_at": "2024-03-27T00:00:00",
+    "updated_at": "2024-03-30T00:00:00",
+    "tags": [
+      "reranking",
+      "latency",
+      "rag",
+      "embedding"
+    ]
+  },
+  {
+    "id": "TICKET-BA4AD2EA",
+    "title": "ACL filter bypassed for restricted documents",
+    "description": "User with reader role accessed admin-only docs. Query-time authorization filter not applied correctly.",
+    "priority": "P4",
+    "status": "open",
+    "category": "security",
+    "assigned_team": "security",
+    "created_at": "2024-09-09T00:00:00",
+    "updated_at": "2024-09-09T09:00:00",
+    "tags": [
+      "embedding",
+      "retrieval",
+      "rag"
+    ]
+  },
+  {
+    "id": "TICKET-95081195",
+    "title": "Reranker cross-encoder OOM on large context",
+    "description": "Cross-encoder running out of memory for chunks > 512 tokens. Need truncation strategy.",
+    "priority": "P2",
+    "status": "closed",
+    "category": "database",
+    "assigned_team": "devops",
+    "created_at": "2024-07-15T00:00:00",
+    "updated_at": "2024-07-15T07:00:00",
+    "tags": [
+      "rag",
+      "retrieval",
+      "cache",
+      "embedding"
+    ]
+  }
+]

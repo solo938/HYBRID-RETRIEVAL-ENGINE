@@ -1,0 +1,502 @@
+[
+  {
+    "id": "TICKET-05674CA6",
+    "text": "Retrieval latency exceeded P95 SLO of 2s. Observed 4.2s average during peak load. Reranker bottleneck suspected.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-7E0BA2FF",
+    "text": "Retrieval latency exceeded P95 SLO of 2s. Observed 4.2s average during peak load. Reranker bottleneck suspected.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-7EA4DC4E",
+    "text": "Recall@10 dropped from 0.74 to 0.58 after chunking strategy change. Reverting chunk size.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-2BCD0AC8",
+    "text": "Qdrant collection returning stale embeddings. Re-indexing required for document corpus.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-3C3AE923",
+    "text": "Cross-encoder running out of memory for chunks > 512 tokens. Need truncation strategy.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-6DEE9709",
+    "text": "Cross-encoder running out of memory for chunks > 512 tokens. Need truncation strategy.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-3F359BA7",
+    "text": "Recall@10 dropped from 0.74 to 0.58 after chunking strategy change. Reverting chunk size.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-7698CE4D",
+    "text": "Qdrant collection returning stale embeddings. Re-indexing required for document corpus.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-C203C617",
+    "text": "OpenAI embedding endpoint returning 429. Batch size needs tuning. Implement exponential backoff.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-549A6604",
+    "text": "OpenAI embedding endpoint returning 429. Batch size needs tuning. Implement exponential backoff.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-AA976225",
+    "text": "Cross-encoder running out of memory for chunks > 512 tokens. Need truncation strategy.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-03D77ECC",
+    "text": "PDF parser hanging on multi-column layout documents. Unstructured.io timeout after 30s.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-5B276BE5",
+    "text": "Hybrid retrieval scores inconsistent. BM25 index rebuild needed after document update pipeline failure.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-9DCC71F1",
+    "text": "Hybrid retrieval scores inconsistent. BM25 index rebuild needed after document update pipeline failure.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-DF3FEED1",
+    "text": "Cache invalidation too aggressive after last deployment. Threshold needs recalibration.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-84A1BBAE",
+    "text": "User with reader role accessed admin-only docs. Query-time authorization filter not applied correctly.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-E37EC779",
+    "text": "Cross-encoder running out of memory for chunks > 512 tokens. Need truncation strategy.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-324091CF",
+    "text": "Retrieval latency exceeded P95 SLO of 2s. Observed 4.2s average during peak load. Reranker bottleneck suspected.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-D24C4633",
+    "text": "Qdrant collection returning stale embeddings. Re-indexing required for document corpus.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-DC1EFF0D",
+    "text": "PDF parser hanging on multi-column layout documents. Unstructured.io timeout after 30s.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-25952F16",
+    "text": "Qdrant collection returning stale embeddings. Re-indexing required for document corpus.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-0B435E8F",
+    "text": "Cache invalidation too aggressive after last deployment. Threshold needs recalibration.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-3830EE93",
+    "text": "Hybrid retrieval scores inconsistent. BM25 index rebuild needed after document update pipeline failure.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-6E1B4D4D",
+    "text": "Retrieval latency exceeded P95 SLO of 2s. Observed 4.2s average during peak load. Reranker bottleneck suspected.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-FB146AA9",
+    "text": "Groundedness score dropped from 0.82 to 0.61 post GPT-4o update. Prompt regression likely.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-C0418663",
+    "text": "Cross-encoder running out of memory for chunks > 512 tokens. Need truncation strategy.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-D44547FF",
+    "text": "OpenAI embedding endpoint returning 429. Batch size needs tuning. Implement exponential backoff.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-F286D883",
+    "text": "Hybrid retrieval scores inconsistent. BM25 index rebuild needed after document update pipeline failure.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-CEE627E7",
+    "text": "Cache invalidation too aggressive after last deployment. Threshold needs recalibration.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-E937AD1A",
+    "text": "PDF parser hanging on multi-column layout documents. Unstructured.io timeout after 30s.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-D4A434F0",
+    "text": "Cross-encoder running out of memory for chunks > 512 tokens. Need truncation strategy.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-8A1AB0BD",
+    "text": "Retrieval latency exceeded P95 SLO of 2s. Observed 4.2s average during peak load. Reranker bottleneck suspected.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-F5EE3EE0",
+    "text": "User with reader role accessed admin-only docs. Query-time authorization filter not applied correctly.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-9FEBB222",
+    "text": "Cross-encoder running out of memory for chunks > 512 tokens. Need truncation strategy.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-6444C90A",
+    "text": "Hybrid retrieval scores inconsistent. BM25 index rebuild needed after document update pipeline failure.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-5365BBDB",
+    "text": "Cross-encoder running out of memory for chunks > 512 tokens. Need truncation strategy.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-C32A575B",
+    "text": "Recall@10 dropped from 0.74 to 0.58 after chunking strategy change. Reverting chunk size.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-5AE1E039",
+    "text": "Groundedness score dropped from 0.82 to 0.61 post GPT-4o update. Prompt regression likely.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-FE64C115",
+    "text": "Retrieval latency exceeded P95 SLO of 2s. Observed 4.2s average during peak load. Reranker bottleneck suspected.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-9E81EDEA",
+    "text": "Qdrant collection returning stale embeddings. Re-indexing required for document corpus.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-AB41DEF5",
+    "text": "Groundedness score dropped from 0.82 to 0.61 post GPT-4o update. Prompt regression likely.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-21A69013",
+    "text": "Retrieval latency exceeded P95 SLO of 2s. Observed 4.2s average during peak load. Reranker bottleneck suspected.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-7FC92730",
+    "text": "Retrieval latency exceeded P95 SLO of 2s. Observed 4.2s average during peak load. Reranker bottleneck suspected.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-48E403E3",
+    "text": "Cross-encoder running out of memory for chunks > 512 tokens. Need truncation strategy.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-D597CF43",
+    "text": "Cross-encoder running out of memory for chunks > 512 tokens. Need truncation strategy.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-4953F63F",
+    "text": "PDF parser hanging on multi-column layout documents. Unstructured.io timeout after 30s.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-CEFC7BB0",
+    "text": "Qdrant collection returning stale embeddings. Re-indexing required for document corpus.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-FD8B5474",
+    "text": "OpenAI embedding endpoint returning 429. Batch size needs tuning. Implement exponential backoff.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-497FA072",
+    "text": "Recall@10 dropped from 0.74 to 0.58 after chunking strategy change. Reverting chunk size.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-8D4434F5",
+    "text": "Qdrant collection returning stale embeddings. Re-indexing required for document corpus.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-C91DC407",
+    "text": "OpenAI embedding endpoint returning 429. Batch size needs tuning. Implement exponential backoff.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-1ACFAFEF",
+    "text": "Cross-encoder running out of memory for chunks > 512 tokens. Need truncation strategy.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-C850CB78",
+    "text": "Retrieval latency exceeded P95 SLO of 2s. Observed 4.2s average during peak load. Reranker bottleneck suspected.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-1F8CDB4E",
+    "text": "Retrieval latency exceeded P95 SLO of 2s. Observed 4.2s average during peak load. Reranker bottleneck suspected.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-CCD93EAA",
+    "text": "Cache invalidation too aggressive after last deployment. Threshold needs recalibration.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-CF3399B4",
+    "text": "Retrieval latency exceeded P95 SLO of 2s. Observed 4.2s average during peak load. Reranker bottleneck suspected.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-4C56EB85",
+    "text": "Hybrid retrieval scores inconsistent. BM25 index rebuild needed after document update pipeline failure.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-F3DC7547",
+    "text": "Recall@10 dropped from 0.74 to 0.58 after chunking strategy change. Reverting chunk size.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-DA709178",
+    "text": "Retrieval latency exceeded P95 SLO of 2s. Observed 4.2s average during peak load. Reranker bottleneck suspected.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-8FA132B9",
+    "text": "PDF parser hanging on multi-column layout documents. Unstructured.io timeout after 30s.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-3FA2EA96",
+    "text": "Retrieval latency exceeded P95 SLO of 2s. Observed 4.2s average during peak load. Reranker bottleneck suspected.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-6A3C4AF4",
+    "text": "OpenAI embedding endpoint returning 429. Batch size needs tuning. Implement exponential backoff.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-B7E5BAF5",
+    "text": "Retrieval latency exceeded P95 SLO of 2s. Observed 4.2s average during peak load. Reranker bottleneck suspected.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-36EE0CA8",
+    "text": "Cache invalidation too aggressive after last deployment. Threshold needs recalibration.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-13A4D713",
+    "text": "Cross-encoder running out of memory for chunks > 512 tokens. Need truncation strategy.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-9C85BD77",
+    "text": "Recall@10 dropped from 0.74 to 0.58 after chunking strategy change. Reverting chunk size.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-C32A4CEF",
+    "text": "Cross-encoder running out of memory for chunks > 512 tokens. Need truncation strategy.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-7518F9EF",
+    "text": "Qdrant collection returning stale embeddings. Re-indexing required for document corpus.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-26B7EFE9",
+    "text": "Qdrant collection returning stale embeddings. Re-indexing required for document corpus.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-DCA0E6FA",
+    "text": "Retrieval latency exceeded P95 SLO of 2s. Observed 4.2s average during peak load. Reranker bottleneck suspected.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-77C9E09A",
+    "text": "User with reader role accessed admin-only docs. Query-time authorization filter not applied correctly.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-2A1A1D79",
+    "text": "Cache invalidation too aggressive after last deployment. Threshold needs recalibration.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-F3513BEB",
+    "text": "Qdrant collection returning stale embeddings. Re-indexing required for document corpus.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-4AC1970D",
+    "text": "User with reader role accessed admin-only docs. Query-time authorization filter not applied correctly.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-2872D892",
+    "text": "Hybrid retrieval scores inconsistent. BM25 index rebuild needed after document update pipeline failure.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-9CF49826",
+    "text": "Qdrant collection returning stale embeddings. Re-indexing required for document corpus.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-368BC61D",
+    "text": "Groundedness score dropped from 0.82 to 0.61 post GPT-4o update. Prompt regression likely.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-19D0CFA0",
+    "text": "Qdrant collection returning stale embeddings. Re-indexing required for document corpus.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-69B4CD21",
+    "text": "OpenAI embedding endpoint returning 429. Batch size needs tuning. Implement exponential backoff.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-AB37029B",
+    "text": "Groundedness score dropped from 0.82 to 0.61 post GPT-4o update. Prompt regression likely.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-B1D018EA",
+    "text": "Recall@10 dropped from 0.74 to 0.58 after chunking strategy change. Reverting chunk size.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-69230A9D",
+    "text": "Cache invalidation too aggressive after last deployment. Threshold needs recalibration.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-E330B576",
+    "text": "Qdrant collection returning stale embeddings. Re-indexing required for document corpus.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-CFFD6D31",
+    "text": "Cross-encoder running out of memory for chunks > 512 tokens. Need truncation strategy.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-5EA43C90",
+    "text": "Qdrant collection returning stale embeddings. Re-indexing required for document corpus.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-E1FB606E",
+    "text": "Hybrid retrieval scores inconsistent. BM25 index rebuild needed after document update pipeline failure.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-EAE601FD",
+    "text": "Cross-encoder running out of memory for chunks > 512 tokens. Need truncation strategy.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-9FB5360A",
+    "text": "Cache invalidation too aggressive after last deployment. Threshold needs recalibration.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-6569788D",
+    "text": "Cache invalidation too aggressive after last deployment. Threshold needs recalibration.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-5ECAAF66",
+    "text": "User with reader role accessed admin-only docs. Query-time authorization filter not applied correctly.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-E8D46E23",
+    "text": "User with reader role accessed admin-only docs. Query-time authorization filter not applied correctly.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-952F4294",
+    "text": "OpenAI embedding endpoint returning 429. Batch size needs tuning. Implement exponential backoff.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-92FE59A4",
+    "text": "Cross-encoder running out of memory for chunks > 512 tokens. Need truncation strategy.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-0957A9AC",
+    "text": "Hybrid retrieval scores inconsistent. BM25 index rebuild needed after document update pipeline failure.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-58DBC022",
+    "text": "Qdrant collection returning stale embeddings. Re-indexing required for document corpus.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-6E8CB594",
+    "text": "OpenAI embedding endpoint returning 429. Batch size needs tuning. Implement exponential backoff.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-B4348357",
+    "text": "PDF parser hanging on multi-column layout documents. Unstructured.io timeout after 30s.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-69371E7D",
+    "text": "Recall@10 dropped from 0.74 to 0.58 after chunking strategy change. Reverting chunk size.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-BA4AD2EA",
+    "text": "User with reader role accessed admin-only docs. Query-time authorization filter not applied correctly.",
+    "is_impossible": false
+  },
+  {
+    "id": "TICKET-95081195",
+    "text": "Cross-encoder running out of memory for chunks > 512 tokens. Need truncation strategy.",
+    "is_impossible": false
+  }
+]

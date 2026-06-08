@@ -1,0 +1,33 @@
+# configs/eval_config.yaml
+thresholds:
+  retrieval:
+    recall_at_5: 0.85
+    recall_at_10: 0.90
+    mrr: 0.82
+    ndcg_at_10: 0.88
+  generation:
+    faithfulness: 0.85
+    answer_relevancy: 0.80
+    context_precision: 0.75
+    context_recall: 0.70
+  performance:
+    latency_p95_ms: 2000
+    cost_per_query_usd: 0.01
+
+domains:
+  semiconductor:
+    retrieval_thresholds:
+      recall_at_5: 0.92  # Stricter for technical
+    generation_thresholds:
+      faithfulness: 0.92
+  it_ticketing:
+    retrieval_thresholds:
+      recall_at_5: 0.75  # Messier data
+  adversarial:
+    retrieval_thresholds:
+      exact_match_at_1: 0.80  # IDs must be top result
+
+ci_gate:
+  fail_if_any_below_threshold: true
+  require_approval_if_drop_gt: 0.10
+  notify_on_failure: "slack"

@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en">
+<head>
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>OpenTelemetry-Python API Reference &mdash; OpenTelemetry Python  documentation</title>
+      <link rel="stylesheet" type="text/css" href="https://opentelemetry-python.readthedocs.io/en/latest/_static/pygments.css?v=b86133f3" />
+      <link rel="stylesheet" type="text/css" href="https://opentelemetry-python.readthedocs.io/en/latest/_static/css/theme.css?v=19f00094" />
+
+  
+  <!--[if lt IE 9]>
+    <script src="_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script src="https://opentelemetry-python.readthedocs.io/en/latest/_static/jquery.js?v=5d32c60e"></script>
+        <script src="https://opentelemetry-python.readthedocs.io/en/latest/_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+        <script data-url_root="./" id="documentation_options" src="https://opentelemetry-python.readthedocs.io/en/latest/_static/documentation_options.js?v=b3ba4146"></script>
+        <script src="https://opentelemetry-python.readthedocs.io/en/latest/_static/doctools.js?v=888ff710"></script>
+        <script src="https://opentelemetry-python.readthedocs.io/en/latest/_static/sphinx_highlight.js?v=4825356b"></script>
+    <script src="https://opentelemetry-python.readthedocs.io/en/latest/_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="https://opentelemetry-python.readthedocs.io/en/latest/genindex.html" />
+    <link rel="search" title="Search" href="https://opentelemetry-python.readthedocs.io/en/latest/search.html" />
+    <link rel="next" title="OpenTelemetry Python API" href="https://opentelemetry-python.readthedocs.io/en/latest/api/index.html" /> 
+<script async type="text/javascript" src="https://opentelemetry-python.readthedocs.io/_/static/javascript/readthedocs-addons.js"></script><meta name="readthedocs-project-slug" content="opentelemetry-python" /><meta name="readthedocs-version-slug" content="latest" /><meta name="readthedocs-resolver-filename" content="/" /><meta name="readthedocs-http-status" content="200" /></head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="index.html#" class="icon icon-home">
+            OpenTelemetry Python
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="https://opentelemetry-python.readthedocs.io/en/latest/search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Core Packages</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/api/index.html">OpenTelemetry Python API</a></li>
+<li class="toctree-l1"><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/sdk/index.html">OpenTelemetry Python SDK</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">More</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/exporter/index.html">Exporters</a></li>
+<li class="toctree-l1"><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/shim/index.html">Shims</a></li>
+<li class="toctree-l1"><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/examples/index.html">Examples</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html#">OpenTelemetry Python</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="index.html#" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">OpenTelemetry-Python API Reference</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="https://opentelemetry-python.readthedocs.io/en/latest/_sources/index.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="opentelemetry-python-api-reference">
+<h1>OpenTelemetry-Python API Reference<a class="headerlink" href="index.html#opentelemetry-python-api-reference" title="Permalink to this heading"></a></h1>
+<a class="reference external image-reference" href="https://cloud-native.slack.com/archives/C01PD4HUVBL"><img alt="Slack Chat" src="https://img.shields.io/badge/slack-chat-green.svg" /></a>
+<p>Welcome to the docs for the <a class="reference external" href="https://opentelemetry.io/docs/instrumentation/python/">Python OpenTelemetry implementation</a>.</p>
+<p>For an introduction to OpenTelemetry, see the <a class="reference external" href="https://opentelemetry.io/docs/">OpenTelemetry website docs</a>.</p>
+<p>To learn how to instrument your Python code, see <a class="reference external" href="https://opentelemetry.io/docs/instrumentation/python/getting-started/">Getting Started</a>. For
+project status, information about releases, installation instructions and more,
+see <a class="reference external" href="https://opentelemetry.io/docs/instrumentation/python/">Python</a>.</p>
+<section id="id1">
+<h2>Getting Started<a class="headerlink" href="index.html#id1" title="Permalink to this heading"></a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="https://opentelemetry.io/docs/instrumentation/python/getting-started/">Getting Started</a></p></li>
+<li><p><a class="reference external" href="https://opentelemetry.io/docs/instrumentation/python/cookbook/">Frequently Asked Questions and Cookbook</a></p></li>
+</ul>
+<div class="toctree-wrapper compound" id="packages">
+<p class="caption" role="heading"><span class="caption-text">Core Packages</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/api/index.html">OpenTelemetry Python API</a></li>
+<li class="toctree-l1"><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/sdk/index.html">OpenTelemetry Python SDK</a></li>
+</ul>
+</div>
+<div class="toctree-wrapper compound">
+<p class="caption" role="heading"><span class="caption-text">More</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/exporter/index.html">Exporters</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/exporter/opencensus/opencensus.html">OpenCensus Exporter</a></li>
+<li class="toctree-l2"><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/exporter/otlp/otlp.html">OpenTelemetry OTLP Exporters</a></li>
+<li class="toctree-l2"><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/exporter/prometheus/prometheus.html">OpenTelemetry Prometheus Exporter</a></li>
+<li class="toctree-l2"><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/exporter/zipkin/zipkin.html">OpenTelemetry Zipkin Exporters</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/shim/index.html">Shims</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/shim/opencensus_shim/opencensus_shim.html">OpenCensus Shim for OpenTelemetry</a></li>
+<li class="toctree-l2"><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/shim/opentracing_shim/opentracing_shim.html">OpenTracing Shim for OpenTelemetry</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/examples/index.html">Examples</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/examples/auto-instrumentation/README.html">Auto-instrumentation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/examples/basic_context/README.html">Basic Context</a></li>
+<li class="toctree-l2"><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/examples/basic_tracer/README.html">Basic Trace</a></li>
+<li class="toctree-l2"><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/examples/django/README.html">Django Instrumentation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/examples/error_handler/README.html">Global Error Handler</a></li>
+<li class="toctree-l2"><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/examples/fork-process-model/README.html">Working With Fork Process Models</a></li>
+<li class="toctree-l2"><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/examples/logs/README.html">OpenTelemetry Logs SDK</a></li>
+<li class="toctree-l2"><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/examples/metrics/instruments/README.html">OpenTelemetry Metrics SDK</a></li>
+<li class="toctree-l2"><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/examples/metrics/prometheus-grafana/README.html">Prometheus Instrumentation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/examples/metrics/reader/README.html">MetricReader configuration scenarios</a></li>
+<li class="toctree-l2"><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/examples/metrics/views/README.html">View common scenarios</a></li>
+<li class="toctree-l2"><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/examples/multi-destination-exporting/README.html">Multi-Destination Exporting</a></li>
+<li class="toctree-l2"><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/examples/opencensus-exporter-tracer/README.html">OpenCensus Exporter</a></li>
+<li class="toctree-l2"><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/examples/opencensus-shim/README.html">OpenCensus Shim</a></li>
+<li class="toctree-l2"><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/examples/opentracing/README.html">OpenTracing Shim</a></li>
+<li class="toctree-l2"><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/examples/sqlcommenter/README.html">sqlcommenter</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<ul class="simple">
+<li><p><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/genindex.html"><span class="std std-ref">Index</span></a></p></li>
+<li><p><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/py-modindex.html"><span class="std std-ref">Module Index</span></a></p></li>
+<li><p><a class="reference internal" href="https://opentelemetry-python.readthedocs.io/en/latest/search.html"><span class="std std-ref">Search Page</span></a></p></li>
+</ul>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="https://opentelemetry-python.readthedocs.io/en/latest/api/index.html" class="btn btn-neutral float-right" title="OpenTelemetry Python API" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright OpenTelemetry Authors.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

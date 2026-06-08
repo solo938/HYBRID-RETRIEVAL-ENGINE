@@ -1,0 +1,38 @@
+{
+  "title": "RAG Pipeline Dashboard",
+  "uid": "rag-pipeline",
+  "panels": [
+    {
+      "title": "Recall@10 Over Time",
+      "type": "timeseries",
+      "targets": [{
+        "expr": "rag_recall_at_k{k=\"10\"}",
+        "legendFormat": "Recall@10"
+      }]
+    },
+    {
+      "title": "Query Latency P95",
+      "type": "timeseries", 
+      "targets": [{
+        "expr": "histogram_quantile(0.95, rag_latency_seconds_bucket)",
+        "legendFormat": "P95 Latency"
+      }]
+    },
+    {
+      "title": "Cost Per Query",
+      "type": "stat",
+      "targets": [{
+        "expr": "rag_cost_per_query",
+        "legendFormat": "Cost"
+      }]
+    },
+    {
+      "title": "Quality Gate Status",
+      "type": "status-historgram",
+      "targets": [{
+        "expr": "rag_quality_gate_passed",
+        "legendFormat": "Gate Status"
+      }]
+    }
+  ]
+}

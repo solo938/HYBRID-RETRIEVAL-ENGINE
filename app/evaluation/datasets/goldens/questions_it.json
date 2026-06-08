@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "TICKET-05674CA6",
+    "text": "RAG pipeline latency spike detected",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P1",
+      "category": "infrastructure",
+      "status": "resolved"
+    }
+  },
+  {
+    "id": "TICKET-7E0BA2FF",
+    "text": "RAG pipeline latency spike detected",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P2",
+      "category": "application",
+      "status": "closed"
+    }
+  },
+  {
+    "id": "TICKET-7EA4DC4E",
+    "text": "Golden dataset evaluation regression",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P1",
+      "category": "security",
+      "status": "open"
+    }
+  },
+  {
+    "id": "TICKET-2BCD0AC8",
+    "text": "Vector index corruption in production",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P1",
+      "category": "security",
+      "status": "closed"
+    }
+  },
+  {
+    "id": "TICKET-3C3AE923",
+    "text": "Reranker cross-encoder OOM on large context",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P2",
+      "category": "infrastructure",
+      "status": "in_progress"
+    }
+  },
+  {
+    "id": "TICKET-6DEE9709",
+    "text": "Reranker cross-encoder OOM on large context",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P4",
+      "category": "application",
+      "status": "open"
+    }
+  },
+  {
+    "id": "TICKET-3F359BA7",
+    "text": "Golden dataset evaluation regression",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P2",
+      "category": "network",
+      "status": "resolved"
+    }
+  },
+  {
+    "id": "TICKET-7698CE4D",
+    "text": "Vector index corruption in production",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P4",
+      "category": "application",
+      "status": "open"
+    }
+  },
+  {
+    "id": "TICKET-C203C617",
+    "text": "Embedding model API rate limit hit",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P4",
+      "category": "infrastructure",
+      "status": "resolved"
+    }
+  },
+  {
+    "id": "TICKET-549A6604",
+    "text": "Embedding model API rate limit hit",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P3",
+      "category": "network",
+      "status": "resolved"
+    }
+  },
+  {
+    "id": "TICKET-AA976225",
+    "text": "Reranker cross-encoder OOM on large context",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P4",
+      "category": "database",
+      "status": "resolved"
+    }
+  },
+  {
+    "id": "TICKET-03D77ECC",
+    "text": "Document ingestion pipeline stuck",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P2",
+      "category": "security",
+      "status": "resolved"
+    }
+  },
+  {
+    "id": "TICKET-5B276BE5",
+    "text": "BM25 index out of sync with vector store",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P2",
+      "category": "network",
+      "status": "resolved"
+    }
+  },
+  {
+    "id": "TICKET-9DCC71F1",
+    "text": "BM25 index out of sync with vector store",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P2",
+      "category": "database",
+      "status": "resolved"
+    }
+  },
+  {
+    "id": "TICKET-DF3FEED1",
+    "text": "Semantic cache hit rate dropped to 12%",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P4",
+      "category": "security",
+      "status": "closed"
+    }
+  },
+  {
+    "id": "TICKET-84A1BBAE",
+    "text": "ACL filter bypassed for restricted documents",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P3",
+      "category": "application",
+      "status": "closed"
+    }
+  },
+  {
+    "id": "TICKET-E37EC779",
+    "text": "Reranker cross-encoder OOM on large context",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P2",
+      "category": "network",
+      "status": "open"
+    }
+  },
+  {
+    "id": "TICKET-324091CF",
+    "text": "RAG pipeline latency spike detected",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P4",
+      "category": "network",
+      "status": "resolved"
+    }
+  },
+  {
+    "id": "TICKET-D24C4633",
+    "text": "Vector index corruption in production",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P3",
+      "category": "database",
+      "status": "closed"
+    }
+  },
+  {
+    "id": "TICKET-DC1EFF0D",
+    "text": "Document ingestion pipeline stuck",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P4",
+      "category": "security",
+      "status": "open"
+    }
+  },
+  {
+    "id": "TICKET-25952F16",
+    "text": "Vector index corruption in production",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P2",
+      "category": "security",
+      "status": "resolved"
+    }
+  },
+  {
+    "id": "TICKET-0B435E8F",
+    "text": "Semantic cache hit rate dropped to 12%",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P4",
+      "category": "infrastructure",
+      "status": "in_progress"
+    }
+  },
+  {
+    "id": "TICKET-3830EE93",
+    "text": "BM25 index out of sync with vector store",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P3",
+      "category": "application",
+      "status": "closed"
+    }
+  },
+  {
+    "id": "TICKET-6E1B4D4D",
+    "text": "RAG pipeline latency spike detected",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P3",
+      "category": "database",
+      "status": "closed"
+    }
+  },
+  {
+    "id": "TICKET-FB146AA9",
+    "text": "Hallucination rate increased after model update",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P3",
+      "category": "database",
+      "status": "closed"
+    }
+  },
+  {
+    "id": "TICKET-C0418663",
+    "text": "Reranker cross-encoder OOM on large context",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P2",
+      "category": "security",
+      "status": "open"
+    }
+  },
+  {
+    "id": "TICKET-D44547FF",
+    "text": "Embedding model API rate limit hit",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P1",
+      "category": "infrastructure",
+      "status": "open"
+    }
+  },
+  {
+    "id": "TICKET-F286D883",
+    "text": "BM25 index out of sync with vector store",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P2",
+      "category": "network",
+      "status": "in_progress"
+    }
+  },
+  {
+    "id": "TICKET-CEE627E7",
+    "text": "Semantic cache hit rate dropped to 12%",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P2",
+      "category": "application",
+      "status": "open"
+    }
+  },
+  {
+    "id": "TICKET-E937AD1A",
+    "text": "Document ingestion pipeline stuck",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P3",
+      "category": "application",
+      "status": "resolved"
+    }
+  },
+  {
+    "id": "TICKET-D4A434F0",
+    "text": "Reranker cross-encoder OOM on large context",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P4",
+      "category": "security",
+      "status": "in_progress"
+    }
+  },
+  {
+    "id": "TICKET-8A1AB0BD",
+    "text": "RAG pipeline latency spike detected",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P3",
+      "category": "database",
+      "status": "in_progress"
+    }
+  },
+  {
+    "id": "TICKET-F5EE3EE0",
+    "text": "ACL filter bypassed for restricted documents",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P3",
+      "category": "database",
+      "status": "in_progress"
+    }
+  },
+  {
+    "id": "TICKET-9FEBB222",
+    "text": "Reranker cross-encoder OOM on large context",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P3",
+      "category": "network",
+      "status": "in_progress"
+    }
+  },
+  {
+    "id": "TICKET-6444C90A",
+    "text": "BM25 index out of sync with vector store",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P4",
+      "category": "application",
+      "status": "resolved"
+    }
+  },
+  {
+    "id": "TICKET-5365BBDB",
+    "text": "Reranker cross-encoder OOM on large context",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P2",
+      "category": "infrastructure",
+      "status": "in_progress"
+    }
+  },
+  {
+    "id": "TICKET-C32A575B",
+    "text": "Golden dataset evaluation regression",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P1",
+      "category": "network",
+      "status": "in_progress"
+    }
+  },
+  {
+    "id": "TICKET-5AE1E039",
+    "text": "Hallucination rate increased after model update",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P4",
+      "category": "security",
+      "status": "resolved"
+    }
+  },
+  {
+    "id": "TICKET-FE64C115",
+    "text": "RAG pipeline latency spike detected",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P3",
+      "category": "infrastructure",
+      "status": "in_progress"
+    }
+  },
+  {
+    "id": "TICKET-9E81EDEA",
+    "text": "Vector index corruption in production",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P4",
+      "category": "database",
+      "status": "open"
+    }
+  },
+  {
+    "id": "TICKET-AB41DEF5",
+    "text": "Hallucination rate increased after model update",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P4",
+      "category": "network",
+      "status": "in_progress"
+    }
+  },
+  {
+    "id": "TICKET-21A69013",
+    "text": "RAG pipeline latency spike detected",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P2",
+      "category": "application",
+      "status": "closed"
+    }
+  },
+  {
+    "id": "TICKET-7FC92730",
+    "text": "RAG pipeline latency spike detected",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P2",
+      "category": "infrastructure",
+      "status": "closed"
+    }
+  },
+  {
+    "id": "TICKET-48E403E3",
+    "text": "Reranker cross-encoder OOM on large context",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P2",
+      "category": "database",
+      "status": "closed"
+    }
+  },
+  {
+    "id": "TICKET-D597CF43",
+    "text": "Reranker cross-encoder OOM on large context",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P1",
+      "category": "network",
+      "status": "open"
+    }
+  },
+  {
+    "id": "TICKET-4953F63F",
+    "text": "Document ingestion pipeline stuck",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P3",
+      "category": "infrastructure",
+      "status": "open"
+    }
+  },
+  {
+    "id": "TICKET-CEFC7BB0",
+    "text": "Vector index corruption in production",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P1",
+      "category": "database",
+      "status": "open"
+    }
+  },
+  {
+    "id": "TICKET-FD8B5474",
+    "text": "Embedding model API rate limit hit",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P1",
+      "category": "infrastructure",
+      "status": "in_progress"
+    }
+  },
+  {
+    "id": "TICKET-497FA072",
+    "text": "Golden dataset evaluation regression",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P4",
+      "category": "application",
+      "status": "in_progress"
+    }
+  },
+  {
+    "id": "TICKET-8D4434F5",
+    "text": "Vector index corruption in production",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P4",
+      "category": "database",
+      "status": "open"
+    }
+  },
+  {
+    "id": "TICKET-C91DC407",
+    "text": "Embedding model API rate limit hit",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P1",
+      "category": "infrastructure",
+      "status": "in_progress"
+    }
+  },
+  {
+    "id": "TICKET-1ACFAFEF",
+    "text": "Reranker cross-encoder OOM on large context",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P3",
+      "category": "application",
+      "status": "open"
+    }
+  },
+  {
+    "id": "TICKET-C850CB78",
+    "text": "RAG pipeline latency spike detected",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P2",
+      "category": "security",
+      "status": "resolved"
+    }
+  },
+  {
+    "id": "TICKET-1F8CDB4E",
+    "text": "RAG pipeline latency spike detected",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P2",
+      "category": "network",
+      "status": "in_progress"
+    }
+  },
+  {
+    "id": "TICKET-CCD93EAA",
+    "text": "Semantic cache hit rate dropped to 12%",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P1",
+      "category": "network",
+      "status": "in_progress"
+    }
+  },
+  {
+    "id": "TICKET-CF3399B4",
+    "text": "RAG pipeline latency spike detected",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P4",
+      "category": "database",
+      "status": "open"
+    }
+  },
+  {
+    "id": "TICKET-4C56EB85",
+    "text": "BM25 index out of sync with vector store",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P1",
+      "category": "security",
+      "status": "open"
+    }
+  },
+  {
+    "id": "TICKET-F3DC7547",
+    "text": "Golden dataset evaluation regression",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P4",
+      "category": "security",
+      "status": "in_progress"
+    }
+  },
+  {
+    "id": "TICKET-DA709178",
+    "text": "RAG pipeline latency spike detected",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P2",
+      "category": "security",
+      "status": "in_progress"
+    }
+  },
+  {
+    "id": "TICKET-8FA132B9",
+    "text": "Document ingestion pipeline stuck",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P3",
+      "category": "database",
+      "status": "open"
+    }
+  },
+  {
+    "id": "TICKET-3FA2EA96",
+    "text": "RAG pipeline latency spike detected",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P3",
+      "category": "infrastructure",
+      "status": "in_progress"
+    }
+  },
+  {
+    "id": "TICKET-6A3C4AF4",
+    "text": "Embedding model API rate limit hit",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P4",
+      "category": "application",
+      "status": "open"
+    }
+  },
+  {
+    "id": "TICKET-B7E5BAF5",
+    "text": "RAG pipeline latency spike detected",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P3",
+      "category": "security",
+      "status": "closed"
+    }
+  },
+  {
+    "id": "TICKET-36EE0CA8",
+    "text": "Semantic cache hit rate dropped to 12%",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P4",
+      "category": "infrastructure",
+      "status": "in_progress"
+    }
+  },
+  {
+    "id": "TICKET-13A4D713",
+    "text": "Reranker cross-encoder OOM on large context",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P2",
+      "category": "database",
+      "status": "resolved"
+    }
+  },
+  {
+    "id": "TICKET-9C85BD77",
+    "text": "Golden dataset evaluation regression",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P2",
+      "category": "infrastructure",
+      "status": "closed"
+    }
+  },
+  {
+    "id": "TICKET-C32A4CEF",
+    "text": "Reranker cross-encoder OOM on large context",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P1",
+      "category": "infrastructure",
+      "status": "resolved"
+    }
+  },
+  {
+    "id": "TICKET-7518F9EF",
+    "text": "Vector index corruption in production",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P1",
+      "category": "security",
+      "status": "resolved"
+    }
+  },
+  {
+    "id": "TICKET-26B7EFE9",
+    "text": "Vector index corruption in production",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P3",
+      "category": "database",
+      "status": "in_progress"
+    }
+  },
+  {
+    "id": "TICKET-DCA0E6FA",
+    "text": "RAG pipeline latency spike detected",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P2",
+      "category": "network",
+      "status": "resolved"
+    }
+  },
+  {
+    "id": "TICKET-77C9E09A",
+    "text": "ACL filter bypassed for restricted documents",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P1",
+      "category": "network",
+      "status": "closed"
+    }
+  },
+  {
+    "id": "TICKET-2A1A1D79",
+    "text": "Semantic cache hit rate dropped to 12%",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P4",
+      "category": "infrastructure",
+      "status": "resolved"
+    }
+  },
+  {
+    "id": "TICKET-F3513BEB",
+    "text": "Vector index corruption in production",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P4",
+      "category": "application",
+      "status": "closed"
+    }
+  },
+  {
+    "id": "TICKET-4AC1970D",
+    "text": "ACL filter bypassed for restricted documents",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P2",
+      "category": "infrastructure",
+      "status": "in_progress"
+    }
+  },
+  {
+    "id": "TICKET-2872D892",
+    "text": "BM25 index out of sync with vector store",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P4",
+      "category": "database",
+      "status": "open"
+    }
+  },
+  {
+    "id": "TICKET-9CF49826",
+    "text": "Vector index corruption in production",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P4",
+      "category": "application",
+      "status": "resolved"
+    }
+  },
+  {
+    "id": "TICKET-368BC61D",
+    "text": "Hallucination rate increased after model update",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P3",
+      "category": "infrastructure",
+      "status": "in_progress"
+    }
+  },
+  {
+    "id": "TICKET-19D0CFA0",
+    "text": "Vector index corruption in production",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P2",
+      "category": "application",
+      "status": "open"
+    }
+  },
+  {
+    "id": "TICKET-69B4CD21",
+    "text": "Embedding model API rate limit hit",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P4",
+      "category": "database",
+      "status": "in_progress"
+    }
+  },
+  {
+    "id": "TICKET-AB37029B",
+    "text": "Hallucination rate increased after model update",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P3",
+      "category": "security",
+      "status": "in_progress"
+    }
+  },
+  {
+    "id": "TICKET-B1D018EA",
+    "text": "Golden dataset evaluation regression",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P1",
+      "category": "security",
+      "status": "in_progress"
+    }
+  },
+  {
+    "id": "TICKET-69230A9D",
+    "text": "Semantic cache hit rate dropped to 12%",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P1",
+      "category": "security",
+      "status": "closed"
+    }
+  },
+  {
+    "id": "TICKET-E330B576",
+    "text": "Vector index corruption in production",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P3",
+      "category": "network",
+      "status": "in_progress"
+    }
+  },
+  {
+    "id": "TICKET-CFFD6D31",
+    "text": "Reranker cross-encoder OOM on large context",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P1",
+      "category": "database",
+      "status": "resolved"
+    }
+  },
+  {
+    "id": "TICKET-5EA43C90",
+    "text": "Vector index corruption in production",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P1",
+      "category": "network",
+      "status": "open"
+    }
+  },
+  {
+    "id": "TICKET-E1FB606E",
+    "text": "BM25 index out of sync with vector store",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P1",
+      "category": "application",
+      "status": "resolved"
+    }
+  },
+  {
+    "id": "TICKET-EAE601FD",
+    "text": "Reranker cross-encoder OOM on large context",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P4",
+      "category": "application",
+      "status": "open"
+    }
+  },
+  {
+    "id": "TICKET-9FB5360A",
+    "text": "Semantic cache hit rate dropped to 12%",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P3",
+      "category": "application",
+      "status": "closed"
+    }
+  },
+  {
+    "id": "TICKET-6569788D",
+    "text": "Semantic cache hit rate dropped to 12%",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P4",
+      "category": "infrastructure",
+      "status": "closed"
+    }
+  },
+  {
+    "id": "TICKET-5ECAAF66",
+    "text": "ACL filter bypassed for restricted documents",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P3",
+      "category": "database",
+      "status": "open"
+    }
+  },
+  {
+    "id": "TICKET-E8D46E23",
+    "text": "ACL filter bypassed for restricted documents",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P2",
+      "category": "security",
+      "status": "resolved"
+    }
+  },
+  {
+    "id": "TICKET-952F4294",
+    "text": "Embedding model API rate limit hit",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P1",
+      "category": "application",
+      "status": "closed"
+    }
+  },
+  {
+    "id": "TICKET-92FE59A4",
+    "text": "Reranker cross-encoder OOM on large context",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P3",
+      "category": "database",
+      "status": "open"
+    }
+  },
+  {
+    "id": "TICKET-0957A9AC",
+    "text": "BM25 index out of sync with vector store",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P4",
+      "category": "database",
+      "status": "closed"
+    }
+  },
+  {
+    "id": "TICKET-58DBC022",
+    "text": "Vector index corruption in production",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P3",
+      "category": "network",
+      "status": "open"
+    }
+  },
+  {
+    "id": "TICKET-6E8CB594",
+    "text": "Embedding model API rate limit hit",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P3",
+      "category": "application",
+      "status": "open"
+    }
+  },
+  {
+    "id": "TICKET-B4348357",
+    "text": "Document ingestion pipeline stuck",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P2",
+      "category": "application",
+      "status": "resolved"
+    }
+  },
+  {
+    "id": "TICKET-69371E7D",
+    "text": "Golden dataset evaluation regression",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P1",
+      "category": "application",
+      "status": "open"
+    }
+  },
+  {
+    "id": "TICKET-BA4AD2EA",
+    "text": "ACL filter bypassed for restricted documents",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P4",
+      "category": "security",
+      "status": "open"
+    }
+  },
+  {
+    "id": "TICKET-95081195",
+    "text": "Reranker cross-encoder OOM on large context",
+    "domain": "enterprise_it",
+    "difficulty": "easy",
+    "metadata": {
+      "priority": "P2",
+      "category": "database",
+      "status": "closed"
+    }
+  }
+]

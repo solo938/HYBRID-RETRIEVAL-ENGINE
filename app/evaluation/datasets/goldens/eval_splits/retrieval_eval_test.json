@@ -1,0 +1,527 @@
+[
+  {
+    "id": "squad_5ad55ee35b96ef001a10ace8",
+    "text": "What thesis specifies that a trinomial relationship exists within time complexities in a computational model?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "But bounding the computation time above by some concrete function f(n) often yields complexity classes that depend on the chosen machine model. For instance, the language {xx | x is any binary string} can be solved in linear time on a multi-tape Turing machine, but necessarily requires quadratic time in the model of single-tape Turing machines. If we allow polynomial variations in running time, Cobham-Edmonds thesis states that \"the time complexities in any two reasonable and general models of c"
+  },
+  {
+    "id": "squad_56e1c3e1e3433e1400423148",
+    "text": "What are two examples of measurements are bound within algorithms to establish complexity classes?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Many important complexity classes can be defined by bounding the time or space used by the algorithm. Some important complexity classes of decision problems defined in this manner are the following:"
+  },
+  {
+    "id": "squad_56e1c3e1e3433e1400423149",
+    "text": "What function is used by algorithms to define measurements like time or space?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Many important complexity classes can be defined by bounding the time or space used by the algorithm. Some important complexity classes of decision problems defined in this manner are the following:"
+  },
+  {
+    "id": "squad_56e1c3e1e3433e140042314a",
+    "text": "Bounding of time and space or similar measurements is often used by algorithms to define what?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Many important complexity classes can be defined by bounding the time or space used by the algorithm. Some important complexity classes of decision problems defined in this manner are the following:"
+  },
+  {
+    "id": "squad_5ad55fe75b96ef001a10ad0c",
+    "text": "What cannot be defined by bounding the time or space used the the algorithm?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Many important complexity classes can be defined by bounding the time or space used by the algorithm. Some important complexity classes of decision problems defined in this manner are the following:"
+  },
+  {
+    "id": "squad_5ad55fe75b96ef001a10ad0d",
+    "text": "What are three examples of measurement that are bound within algorithms to establish complexity classes?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Many important complexity classes can be defined by bounding the time or space used by the algorithm. Some important complexity classes of decision problems defined in this manner are the following:"
+  },
+  {
+    "id": "squad_5ad55fe75b96ef001a10ad0e",
+    "text": "What function is used by algorithms to define measurements like time and numbers?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Many important complexity classes can be defined by bounding the time or space used by the algorithm. Some important complexity classes of decision problems defined in this manner are the following:"
+  },
+  {
+    "id": "squad_5ad55fe75b96ef001a10ad0f",
+    "text": "What is often used by algorithms to measure bounding of space and atmosphere measurements?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Many important complexity classes can be defined by bounding the time or space used by the algorithm. Some important complexity classes of decision problems defined in this manner are the following:"
+  },
+  {
+    "id": "squad_56e1c4fce3433e140042314e",
+    "text": "What are three examples of complexity classes associated with definitions established by probabilistic Turing machines?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Other important complexity classes include BPP, ZPP and RP, which are defined using probabilistic Turing machines; AC and NC, which are defined using Boolean circuits; and BQP and QMA, which are defined using quantum Turing machines. #P is an important complexity class of counting problems (not decision problems). Classes like IP and AM are defined using Interactive proof systems. ALL is the class of all decision problems."
+  },
+  {
+    "id": "squad_56e1c4fce3433e140042314f",
+    "text": "AC and NC are complexity classes typically associated with what type of circuit?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Other important complexity classes include BPP, ZPP and RP, which are defined using probabilistic Turing machines; AC and NC, which are defined using Boolean circuits; and BQP and QMA, which are defined using quantum Turing machines. #P is an important complexity class of counting problems (not decision problems). Classes like IP and AM are defined using Interactive proof systems. ALL is the class of all decision problems."
+  },
+  {
+    "id": "squad_56e1c4fce3433e1400423150",
+    "text": "BQP and QMA are examples of complexity classes most commonly associated with what type of Turing machine?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Other important complexity classes include BPP, ZPP and RP, which are defined using probabilistic Turing machines; AC and NC, which are defined using Boolean circuits; and BQP and QMA, which are defined using quantum Turing machines. #P is an important complexity class of counting problems (not decision problems). Classes like IP and AM are defined using Interactive proof systems. ALL is the class of all decision problems."
+  },
+  {
+    "id": "squad_56e1c4fce3433e1400423151",
+    "text": "What is the expression used to represent a complexity class of counting problems?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Other important complexity classes include BPP, ZPP and RP, which are defined using probabilistic Turing machines; AC and NC, which are defined using Boolean circuits; and BQP and QMA, which are defined using quantum Turing machines. #P is an important complexity class of counting problems (not decision problems). Classes like IP and AM are defined using Interactive proof systems. ALL is the class of all decision problems."
+  },
+  {
+    "id": "squad_56e1c4fce3433e1400423152",
+    "text": "IP and AM are most commonly defined by what type of proof system?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Other important complexity classes include BPP, ZPP and RP, which are defined using probabilistic Turing machines; AC and NC, which are defined using Boolean circuits; and BQP and QMA, which are defined using quantum Turing machines. #P is an important complexity class of counting problems (not decision problems). Classes like IP and AM are defined using Interactive proof systems. ALL is the class of all decision problems."
+  },
+  {
+    "id": "squad_5ad560b85b96ef001a10ad1e",
+    "text": "What are the other four important complexity classes?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Other important complexity classes include BPP, ZPP and RP, which are defined using probabilistic Turing machines; AC and NC, which are defined using Boolean circuits; and BQP and QMA, which are defined using quantum Turing machines. #P is an important complexity class of counting problems (not decision problems). Classes like IP and AM are defined using Interactive proof systems. ALL is the class of all decision problems."
+  },
+  {
+    "id": "squad_5ad560b85b96ef001a10ad1f",
+    "text": "What machine does not define BPP, ZPP, and RP?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Other important complexity classes include BPP, ZPP and RP, which are defined using probabilistic Turing machines; AC and NC, which are defined using Boolean circuits; and BQP and QMA, which are defined using quantum Turing machines. #P is an important complexity class of counting problems (not decision problems). Classes like IP and AM are defined using Interactive proof systems. ALL is the class of all decision problems."
+  },
+  {
+    "id": "squad_5ad560b85b96ef001a10ad20",
+    "text": "What machine does not define BQP or QMA?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Other important complexity classes include BPP, ZPP and RP, which are defined using probabilistic Turing machines; AC and NC, which are defined using Boolean circuits; and BQP and QMA, which are defined using quantum Turing machines. #P is an important complexity class of counting problems (not decision problems). Classes like IP and AM are defined using Interactive proof systems. ALL is the class of all decision problems."
+  },
+  {
+    "id": "squad_5ad560b85b96ef001a10ad21",
+    "text": "What is least important complexity class of counting problems?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Other important complexity classes include BPP, ZPP and RP, which are defined using probabilistic Turing machines; AC and NC, which are defined using Boolean circuits; and BQP and QMA, which are defined using quantum Turing machines. #P is an important complexity class of counting problems (not decision problems). Classes like IP and AM are defined using Interactive proof systems. ALL is the class of all decision problems."
+  },
+  {
+    "id": "squad_5ad560b85b96ef001a10ad22",
+    "text": "What system not often define classes like IP and AM/",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Other important complexity classes include BPP, ZPP and RP, which are defined using probabilistic Turing machines; AC and NC, which are defined using Boolean circuits; and BQP and QMA, which are defined using quantum Turing machines. #P is an important complexity class of counting problems (not decision problems). Classes like IP and AM are defined using Interactive proof systems. ALL is the class of all decision problems."
+  },
+  {
+    "id": "squad_56e1c720e3433e140042316a",
+    "text": "What is an example of a measurement within a complexity class that would create a bigger set of problems if the bounds were relaxed?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "For the complexity classes defined in this way, it is desirable to prove that relaxing the requirements on (say) computation time indeed defines a bigger set of problems. In particular, although DTIME(n) is contained in DTIME(n2), it would be interesting to know if the inclusion is strict. For time and space requirements, the answer to such questions is given by the time and space hierarchy theorems respectively. They are called hierarchy theorems because they induce a proper hierarchy on the cl"
+  },
+  {
+    "id": "squad_56e1c720e3433e140042316b",
+    "text": "In what expression can one expect to find DTIME(n)",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "For the complexity classes defined in this way, it is desirable to prove that relaxing the requirements on (say) computation time indeed defines a bigger set of problems. In particular, although DTIME(n) is contained in DTIME(n2), it would be interesting to know if the inclusion is strict. For time and space requirements, the answer to such questions is given by the time and space hierarchy theorems respectively. They are called hierarchy theorems because they induce a proper hierarchy on the cl"
+  },
+  {
+    "id": "squad_56e1c720e3433e140042316c",
+    "text": "What theorems are responsible for determining questions of time and space requirements?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "For the complexity classes defined in this way, it is desirable to prove that relaxing the requirements on (say) computation time indeed defines a bigger set of problems. In particular, although DTIME(n) is contained in DTIME(n2), it would be interesting to know if the inclusion is strict. For time and space requirements, the answer to such questions is given by the time and space hierarchy theorems respectively. They are called hierarchy theorems because they induce a proper hierarchy on the cl"
+  },
+  {
+    "id": "squad_56e1c720e3433e140042316d",
+    "text": "Resources are constrained by hierarchy theorems to produce what?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "For the complexity classes defined in this way, it is desirable to prove that relaxing the requirements on (say) computation time indeed defines a bigger set of problems. In particular, although DTIME(n) is contained in DTIME(n2), it would be interesting to know if the inclusion is strict. For time and space requirements, the answer to such questions is given by the time and space hierarchy theorems respectively. They are called hierarchy theorems because they induce a proper hierarchy on the cl"
+  },
+  {
+    "id": "squad_56e1c720e3433e140042316e",
+    "text": "What kind of statement is made in the effort of establishing the time and space requirements needed to enhance the ultimate number of problems solved?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "For the complexity classes defined in this way, it is desirable to prove that relaxing the requirements on (say) computation time indeed defines a bigger set of problems. In particular, although DTIME(n) is contained in DTIME(n2), it would be interesting to know if the inclusion is strict. For time and space requirements, the answer to such questions is given by the time and space hierarchy theorems respectively. They are called hierarchy theorems because they induce a proper hierarchy on the cl"
+  },
+  {
+    "id": "squad_5ad561c85b96ef001a10ad3c",
+    "text": "What is not an example of a measurement within a complexity class that would create a bigger set of problems if the bounds were relaxed?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "For the complexity classes defined in this way, it is desirable to prove that relaxing the requirements on (say) computation time indeed defines a bigger set of problems. In particular, although DTIME(n) is contained in DTIME(n2), it would be interesting to know if the inclusion is strict. For time and space requirements, the answer to such questions is given by the time and space hierarchy theorems respectively. They are called hierarchy theorems because they induce a proper hierarchy on the cl"
+  },
+  {
+    "id": "squad_5ad561c85b96ef001a10ad3d",
+    "text": "What does not define a bigger set of problems?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "For the complexity classes defined in this way, it is desirable to prove that relaxing the requirements on (say) computation time indeed defines a bigger set of problems. In particular, although DTIME(n) is contained in DTIME(n2), it would be interesting to know if the inclusion is strict. For time and space requirements, the answer to such questions is given by the time and space hierarchy theorems respectively. They are called hierarchy theorems because they induce a proper hierarchy on the cl"
+  },
+  {
+    "id": "squad_5ad561c85b96ef001a10ad3e",
+    "text": "What expression does not usually contain DTIME(n)?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "For the complexity classes defined in this way, it is desirable to prove that relaxing the requirements on (say) computation time indeed defines a bigger set of problems. In particular, although DTIME(n) is contained in DTIME(n2), it would be interesting to know if the inclusion is strict. For time and space requirements, the answer to such questions is given by the time and space hierarchy theorems respectively. They are called hierarchy theorems because they induce a proper hierarchy on the cl"
+  },
+  {
+    "id": "squad_5ad561c85b96ef001a10ad3f",
+    "text": "What does not induce a proper hierarchy on the classes defined by constraining the respective resources?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "For the complexity classes defined in this way, it is desirable to prove that relaxing the requirements on (say) computation time indeed defines a bigger set of problems. In particular, although DTIME(n) is contained in DTIME(n2), it would be interesting to know if the inclusion is strict. For time and space requirements, the answer to such questions is given by the time and space hierarchy theorems respectively. They are called hierarchy theorems because they induce a proper hierarchy on the cl"
+  },
+  {
+    "id": "squad_5ad561c85b96ef001a10ad40",
+    "text": "What kind of statement is not made in an effort of establishing the time and space requirements needed to enhance the ultimate number of problems solved?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "For the complexity classes defined in this way, it is desirable to prove that relaxing the requirements on (say) computation time indeed defines a bigger set of problems. In particular, although DTIME(n) is contained in DTIME(n2), it would be interesting to know if the inclusion is strict. For time and space requirements, the answer to such questions is given by the time and space hierarchy theorems respectively. They are called hierarchy theorems because they induce a proper hierarchy on the cl"
+  },
+  {
+    "id": "squad_56e1c7e2cd28a01900c67b74",
+    "text": "What is the foundation for separation results within complexity classes?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "The time and space hierarchy theorems form the basis for most separation results of complexity classes. For instance, the time hierarchy theorem tells us that P is strictly contained in EXPTIME, and the space hierarchy theorem tells us that L is strictly contained in PSPACE."
+  },
+  {
+    "id": "squad_56e1c7e2cd28a01900c67b75",
+    "text": "What is responsible for constraining P according to the time hierarchy theorem?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "The time and space hierarchy theorems form the basis for most separation results of complexity classes. For instance, the time hierarchy theorem tells us that P is strictly contained in EXPTIME, and the space hierarchy theorem tells us that L is strictly contained in PSPACE."
+  },
+  {
+    "id": "squad_56e1c7e2cd28a01900c67b76",
+    "text": "Within what variable is L constrained according to the space hierarchy theorem?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "The time and space hierarchy theorems form the basis for most separation results of complexity classes. For instance, the time hierarchy theorem tells us that P is strictly contained in EXPTIME, and the space hierarchy theorem tells us that L is strictly contained in PSPACE."
+  },
+  {
+    "id": "squad_5ad562525b96ef001a10ad50",
+    "text": "What does not form the basis for most separation results of complexity classes?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "The time and space hierarchy theorems form the basis for most separation results of complexity classes. For instance, the time hierarchy theorem tells us that P is strictly contained in EXPTIME, and the space hierarchy theorem tells us that L is strictly contained in PSPACE."
+  },
+  {
+    "id": "squad_5ad562525b96ef001a10ad51",
+    "text": "What does the past time and space hierarchy theorems form the basis of?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "The time and space hierarchy theorems form the basis for most separation results of complexity classes. For instance, the time hierarchy theorem tells us that P is strictly contained in EXPTIME, and the space hierarchy theorem tells us that L is strictly contained in PSPACE."
+  },
+  {
+    "id": "squad_5ad562525b96ef001a10ad52",
+    "text": "What is not strictly contained in EXPTIME?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "The time and space hierarchy theorems form the basis for most separation results of complexity classes. For instance, the time hierarchy theorem tells us that P is strictly contained in EXPTIME, and the space hierarchy theorem tells us that L is strictly contained in PSPACE."
+  },
+  {
+    "id": "squad_5ad562525b96ef001a10ad53",
+    "text": "What is not strictly contained in PSPACE?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "The time and space hierarchy theorems form the basis for most separation results of complexity classes. For instance, the time hierarchy theorem tells us that P is strictly contained in EXPTIME, and the space hierarchy theorem tells us that L is strictly contained in PSPACE."
+  },
+  {
+    "id": "squad_56e1c9bfe3433e1400423192",
+    "text": "What concept is frequently used to define complexity classes?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Many complexity classes are defined using the concept of a reduction. A reduction is a transformation of one problem into another problem. It captures the informal notion of a problem being at least as difficult as another problem. For instance, if a problem X can be solved using an algorithm for Y, X is no more difficult than Y, and we say that X reduces to Y. There are many different types of reductions, based on the method of reduction, such as Cook reductions, Karp reductions and Levin reduc"
+  },
+  {
+    "id": "squad_56e1c9bfe3433e1400423193",
+    "text": "Reduction essentially takes one problem and converts into what?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Many complexity classes are defined using the concept of a reduction. A reduction is a transformation of one problem into another problem. It captures the informal notion of a problem being at least as difficult as another problem. For instance, if a problem X can be solved using an algorithm for Y, X is no more difficult than Y, and we say that X reduces to Y. There are many different types of reductions, based on the method of reduction, such as Cook reductions, Karp reductions and Levin reduc"
+  },
+  {
+    "id": "squad_56e1c9bfe3433e1400423194",
+    "text": "According to reduction, if X and Y can be solved by the same algorithm then X performs what function in relationship to Y?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Many complexity classes are defined using the concept of a reduction. A reduction is a transformation of one problem into another problem. It captures the informal notion of a problem being at least as difficult as another problem. For instance, if a problem X can be solved using an algorithm for Y, X is no more difficult than Y, and we say that X reduces to Y. There are many different types of reductions, based on the method of reduction, such as Cook reductions, Karp reductions and Levin reduc"
+  },
+  {
+    "id": "squad_56e1c9bfe3433e1400423195",
+    "text": "What are two examples of different types of reduction?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Many complexity classes are defined using the concept of a reduction. A reduction is a transformation of one problem into another problem. It captures the informal notion of a problem being at least as difficult as another problem. For instance, if a problem X can be solved using an algorithm for Y, X is no more difficult than Y, and we say that X reduces to Y. There are many different types of reductions, based on the method of reduction, such as Cook reductions, Karp reductions and Levin reduc"
+  },
+  {
+    "id": "squad_56e1c9bfe3433e1400423196",
+    "text": "Polynomial time reductions are an example of what?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Many complexity classes are defined using the concept of a reduction. A reduction is a transformation of one problem into another problem. It captures the informal notion of a problem being at least as difficult as another problem. For instance, if a problem X can be solved using an algorithm for Y, X is no more difficult than Y, and we say that X reduces to Y. There are many different types of reductions, based on the method of reduction, such as Cook reductions, Karp reductions and Levin reduc"
+  },
+  {
+    "id": "squad_5ad5632f5b96ef001a10ad6c",
+    "text": "What are many complexity classes not defined by?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Many complexity classes are defined using the concept of a reduction. A reduction is a transformation of one problem into another problem. It captures the informal notion of a problem being at least as difficult as another problem. For instance, if a problem X can be solved using an algorithm for Y, X is no more difficult than Y, and we say that X reduces to Y. There are many different types of reductions, based on the method of reduction, such as Cook reductions, Karp reductions and Levin reduc"
+  },
+  {
+    "id": "squad_5ad5632f5b96ef001a10ad6d",
+    "text": "What is defined by using the theorem of reduction?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Many complexity classes are defined using the concept of a reduction. A reduction is a transformation of one problem into another problem. It captures the informal notion of a problem being at least as difficult as another problem. For instance, if a problem X can be solved using an algorithm for Y, X is no more difficult than Y, and we say that X reduces to Y. There are many different types of reductions, based on the method of reduction, such as Cook reductions, Karp reductions and Levin reduc"
+  },
+  {
+    "id": "squad_5ad5632f5b96ef001a10ad6e",
+    "text": "What is a transformation of two problems into on three problems?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Many complexity classes are defined using the concept of a reduction. A reduction is a transformation of one problem into another problem. It captures the informal notion of a problem being at least as difficult as another problem. For instance, if a problem X can be solved using an algorithm for Y, X is no more difficult than Y, and we say that X reduces to Y. There are many different types of reductions, based on the method of reduction, such as Cook reductions, Karp reductions and Levin reduc"
+  },
+  {
+    "id": "squad_5ad5632f5b96ef001a10ad6f",
+    "text": "What captures the formal notion of a problem being at lease as difficult as another problem?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Many complexity classes are defined using the concept of a reduction. A reduction is a transformation of one problem into another problem. It captures the informal notion of a problem being at least as difficult as another problem. For instance, if a problem X can be solved using an algorithm for Y, X is no more difficult than Y, and we say that X reduces to Y. There are many different types of reductions, based on the method of reduction, such as Cook reductions, Karp reductions and Levin reduc"
+  },
+  {
+    "id": "squad_5ad5632f5b96ef001a10ad70",
+    "text": "What are the six types of reductions?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Many complexity classes are defined using the concept of a reduction. A reduction is a transformation of one problem into another problem. It captures the informal notion of a problem being at least as difficult as another problem. For instance, if a problem X can be solved using an algorithm for Y, X is no more difficult than Y, and we say that X reduces to Y. There are many different types of reductions, based on the method of reduction, such as Cook reductions, Karp reductions and Levin reduc"
+  },
+  {
+    "id": "squad_56e1cbe2cd28a01900c67bac",
+    "text": "What is the most frequently employed type of reduction?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "The most commonly used reduction is a polynomial-time reduction. This means that the reduction process takes polynomial time. For example, the problem of squaring an integer can be reduced to the problem of multiplying two integers. This means an algorithm for multiplying two integers can be used to square an integer. Indeed, this can be done by giving the same input to both inputs of the multiplication algorithm. Thus we see that squaring is not more difficult than multiplication, since squarin"
+  },
+  {
+    "id": "squad_56e1cbe2cd28a01900c67bad",
+    "text": "What equates to a squared integer according to polynomial time reduction?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "The most commonly used reduction is a polynomial-time reduction. This means that the reduction process takes polynomial time. For example, the problem of squaring an integer can be reduced to the problem of multiplying two integers. This means an algorithm for multiplying two integers can be used to square an integer. Indeed, this can be done by giving the same input to both inputs of the multiplication algorithm. Thus we see that squaring is not more difficult than multiplication, since squarin"
+  },
+  {
+    "id": "squad_56e1cbe2cd28a01900c67bae",
+    "text": "What measurement of time is used in polynomial time reduction?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "The most commonly used reduction is a polynomial-time reduction. This means that the reduction process takes polynomial time. For example, the problem of squaring an integer can be reduced to the problem of multiplying two integers. This means an algorithm for multiplying two integers can be used to square an integer. Indeed, this can be done by giving the same input to both inputs of the multiplication algorithm. Thus we see that squaring is not more difficult than multiplication, since squarin"
+  },
+  {
+    "id": "squad_56e1cbe2cd28a01900c67baf",
+    "text": "What would need to remain constant in a multiplication algorithm to produce the same outcome whether multiplying or squaring two integers?  ",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "The most commonly used reduction is a polynomial-time reduction. This means that the reduction process takes polynomial time. For example, the problem of squaring an integer can be reduced to the problem of multiplying two integers. This means an algorithm for multiplying two integers can be used to square an integer. Indeed, this can be done by giving the same input to both inputs of the multiplication algorithm. Thus we see that squaring is not more difficult than multiplication, since squarin"
+  },
+  {
+    "id": "squad_56e1cbe2cd28a01900c67bb0",
+    "text": "According to polynomial time reduction squaring can ultimately be logically reduced to what?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "The most commonly used reduction is a polynomial-time reduction. This means that the reduction process takes polynomial time. For example, the problem of squaring an integer can be reduced to the problem of multiplying two integers. This means an algorithm for multiplying two integers can be used to square an integer. Indeed, this can be done by giving the same input to both inputs of the multiplication algorithm. Thus we see that squaring is not more difficult than multiplication, since squarin"
+  },
+  {
+    "id": "squad_5ad5648b5b96ef001a10ad94",
+    "text": "What is the least used type of reduction?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "The most commonly used reduction is a polynomial-time reduction. This means that the reduction process takes polynomial time. For example, the problem of squaring an integer can be reduced to the problem of multiplying two integers. This means an algorithm for multiplying two integers can be used to square an integer. Indeed, this can be done by giving the same input to both inputs of the multiplication algorithm. Thus we see that squaring is not more difficult than multiplication, since squarin"
+  },
+  {
+    "id": "squad_5ad5648b5b96ef001a10ad95",
+    "text": "What is the meaning of polynomial-space reduction?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "The most commonly used reduction is a polynomial-time reduction. This means that the reduction process takes polynomial time. For example, the problem of squaring an integer can be reduced to the problem of multiplying two integers. This means an algorithm for multiplying two integers can be used to square an integer. Indeed, this can be done by giving the same input to both inputs of the multiplication algorithm. Thus we see that squaring is not more difficult than multiplication, since squarin"
+  },
+  {
+    "id": "squad_5ad5648b5b96ef001a10ad96",
+    "text": "What can the problem of dividing an integer be reduced to?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "The most commonly used reduction is a polynomial-time reduction. This means that the reduction process takes polynomial time. For example, the problem of squaring an integer can be reduced to the problem of multiplying two integers. This means an algorithm for multiplying two integers can be used to square an integer. Indeed, this can be done by giving the same input to both inputs of the multiplication algorithm. Thus we see that squaring is not more difficult than multiplication, since squarin"
+  },
+  {
+    "id": "squad_5ad5648b5b96ef001a10ad97",
+    "text": "What does one not need to remain constant in a multiplication algorithm to produce the same outcome whether multiplying or squaring two integers?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "The most commonly used reduction is a polynomial-time reduction. This means that the reduction process takes polynomial time. For example, the problem of squaring an integer can be reduced to the problem of multiplying two integers. This means an algorithm for multiplying two integers can be used to square an integer. Indeed, this can be done by giving the same input to both inputs of the multiplication algorithm. Thus we see that squaring is not more difficult than multiplication, since squarin"
+  },
+  {
+    "id": "squad_5ad5648b5b96ef001a10ad98",
+    "text": "What is more difficult that multiplication?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "The most commonly used reduction is a polynomial-time reduction. This means that the reduction process takes polynomial time. For example, the problem of squaring an integer can be reduced to the problem of multiplying two integers. This means an algorithm for multiplying two integers can be used to square an integer. Indeed, this can be done by giving the same input to both inputs of the multiplication algorithm. Thus we see that squaring is not more difficult than multiplication, since squarin"
+  },
+  {
+    "id": "squad_56e1ce08e3433e14004231a4",
+    "text": "The complexity of problems often depends on what?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "This motivates the concept of a problem being hard for a complexity class. A problem X is hard for a class of problems C if every problem in C can be reduced to X. Thus no problem in C is harder than X, since an algorithm for X allows us to solve any problem in C. Of course, the notion of hard problems depends on the type of reduction being used. For complexity classes larger than P, polynomial-time reductions are commonly used. In particular, the set of problems that are hard for NP is the set "
+  },
+  {
+    "id": "squad_56e1ce08e3433e14004231a5",
+    "text": "What would create a conflict between a problem X and problem C within the context of reduction? ",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "This motivates the concept of a problem being hard for a complexity class. A problem X is hard for a class of problems C if every problem in C can be reduced to X. Thus no problem in C is harder than X, since an algorithm for X allows us to solve any problem in C. Of course, the notion of hard problems depends on the type of reduction being used. For complexity classes larger than P, polynomial-time reductions are commonly used. In particular, the set of problems that are hard for NP is the set "
+  },
+  {
+    "id": "squad_56e1ce08e3433e14004231a6",
+    "text": "An algorithm for X which reduces to C would us to do what?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "This motivates the concept of a problem being hard for a complexity class. A problem X is hard for a class of problems C if every problem in C can be reduced to X. Thus no problem in C is harder than X, since an algorithm for X allows us to solve any problem in C. Of course, the notion of hard problems depends on the type of reduction being used. For complexity classes larger than P, polynomial-time reductions are commonly used. In particular, the set of problems that are hard for NP is the set "
+  },
+  {
+    "id": "squad_56e1ce08e3433e14004231a8",
+    "text": "A problem set that that is hard for the expression NP can also be stated how?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "This motivates the concept of a problem being hard for a complexity class. A problem X is hard for a class of problems C if every problem in C can be reduced to X. Thus no problem in C is harder than X, since an algorithm for X allows us to solve any problem in C. Of course, the notion of hard problems depends on the type of reduction being used. For complexity classes larger than P, polynomial-time reductions are commonly used. In particular, the set of problems that are hard for NP is the set "
+  },
+  {
+    "id": "squad_5ad565575b96ef001a10adb2",
+    "text": "What does the complexity of problems not often depend on?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "This motivates the concept of a problem being hard for a complexity class. A problem X is hard for a class of problems C if every problem in C can be reduced to X. Thus no problem in C is harder than X, since an algorithm for X allows us to solve any problem in C. Of course, the notion of hard problems depends on the type of reduction being used. For complexity classes larger than P, polynomial-time reductions are commonly used. In particular, the set of problems that are hard for NP is the set "
+  },
+  {
+    "id": "squad_5ad565575b96ef001a10adb3",
+    "text": "What would not create a conflict between a problem X and problem C within the context of reduction?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "This motivates the concept of a problem being hard for a complexity class. A problem X is hard for a class of problems C if every problem in C can be reduced to X. Thus no problem in C is harder than X, since an algorithm for X allows us to solve any problem in C. Of course, the notion of hard problems depends on the type of reduction being used. For complexity classes larger than P, polynomial-time reductions are commonly used. In particular, the set of problems that are hard for NP is the set "
+  },
+  {
+    "id": "squad_5ad565575b96ef001a10adb4",
+    "text": "What problem in C is harder than X?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "This motivates the concept of a problem being hard for a complexity class. A problem X is hard for a class of problems C if every problem in C can be reduced to X. Thus no problem in C is harder than X, since an algorithm for X allows us to solve any problem in C. Of course, the notion of hard problems depends on the type of reduction being used. For complexity classes larger than P, polynomial-time reductions are commonly used. In particular, the set of problems that are hard for NP is the set "
+  },
+  {
+    "id": "squad_5ad565575b96ef001a10adb5",
+    "text": "How is a problem set that is hard for expression QP be stated?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "This motivates the concept of a problem being hard for a complexity class. A problem X is hard for a class of problems C if every problem in C can be reduced to X. Thus no problem in C is harder than X, since an algorithm for X allows us to solve any problem in C. Of course, the notion of hard problems depends on the type of reduction being used. For complexity classes larger than P, polynomial-time reductions are commonly used. In particular, the set of problems that are hard for NP is the set "
+  },
+  {
+    "id": "squad_56e1d9fee3433e14004231cb",
+    "text": "The hardest problems in NP can be analogously written as what class of problems?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "If a problem X is in C and hard for C, then X is said to be complete for C. This means that X is the hardest problem in C. (Since many problems could be equally hard, one might say that X is one of the hardest problems in C.) Thus the class of NP-complete problems contains the most difficult problems in NP, in the sense that they are the ones most likely not to be in P. Because the problem P = NP is not solved, being able to reduce a known NP-complete problem, \u03a02, to another problem, \u03a01, would i"
+  },
+  {
+    "id": "squad_56e1d9fee3433e14004231cc",
+    "text": "NP complete problems contain the lowest likelihood of being located in what problem class?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "If a problem X is in C and hard for C, then X is said to be complete for C. This means that X is the hardest problem in C. (Since many problems could be equally hard, one might say that X is one of the hardest problems in C.) Thus the class of NP-complete problems contains the most difficult problems in NP, in the sense that they are the ones most likely not to be in P. Because the problem P = NP is not solved, being able to reduce a known NP-complete problem, \u03a02, to another problem, \u03a01, would i"
+  },
+  {
+    "id": "squad_56e1d9fee3433e14004231cd",
+    "text": "If P = NP is unsolved, and reduction is applied to a known NP-complete problem vis a vis \u03a02 to  \u03a01, what conclusion can be drawn for \u03a01?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "If a problem X is in C and hard for C, then X is said to be complete for C. This means that X is the hardest problem in C. (Since many problems could be equally hard, one might say that X is one of the hardest problems in C.) Thus the class of NP-complete problems contains the most difficult problems in NP, in the sense that they are the ones most likely not to be in P. Because the problem P = NP is not solved, being able to reduce a known NP-complete problem, \u03a02, to another problem, \u03a01, would i"
+  },
+  {
+    "id": "squad_56e1d9fee3433e14004231ce",
+    "text": "If polynomial time can be utilized within an NP-complete problem, what does the imply P is equal to?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "If a problem X is in C and hard for C, then X is said to be complete for C. This means that X is the hardest problem in C. (Since many problems could be equally hard, one might say that X is one of the hardest problems in C.) Thus the class of NP-complete problems contains the most difficult problems in NP, in the sense that they are the ones most likely not to be in P. Because the problem P = NP is not solved, being able to reduce a known NP-complete problem, \u03a02, to another problem, \u03a01, would i"
+  },
+  {
+    "id": "squad_5ad566375b96ef001a10adce",
+    "text": "What happens if a problem X is in C, and soft for C?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "If a problem X is in C and hard for C, then X is said to be complete for C. This means that X is the hardest problem in C. (Since many problems could be equally hard, one might say that X is one of the hardest problems in C.) Thus the class of NP-complete problems contains the most difficult problems in NP, in the sense that they are the ones most likely not to be in P. Because the problem P = NP is not solved, being able to reduce a known NP-complete problem, \u03a02, to another problem, \u03a01, would i"
+  },
+  {
+    "id": "squad_5ad566375b96ef001a10adcf",
+    "text": "What is the softest problem in C?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "If a problem X is in C and hard for C, then X is said to be complete for C. This means that X is the hardest problem in C. (Since many problems could be equally hard, one might say that X is one of the hardest problems in C.) Thus the class of NP-complete problems contains the most difficult problems in NP, in the sense that they are the ones most likely not to be in P. Because the problem P = NP is not solved, being able to reduce a known NP-complete problem, \u03a02, to another problem, \u03a01, would i"
+  },
+  {
+    "id": "squad_5ad566375b96ef001a10add0",
+    "text": "What is class contains the the least difficult problems in NP?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "If a problem X is in C and hard for C, then X is said to be complete for C. This means that X is the hardest problem in C. (Since many problems could be equally hard, one might say that X is one of the hardest problems in C.) Thus the class of NP-complete problems contains the most difficult problems in NP, in the sense that they are the ones most likely not to be in P. Because the problem P = NP is not solved, being able to reduce a known NP-complete problem, \u03a02, to another problem, \u03a01, would i"
+  },
+  {
+    "id": "squad_5ad566375b96ef001a10add1",
+    "text": "What would indicate that there is a known polynomial-time solution for Ii1?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "If a problem X is in C and hard for C, then X is said to be complete for C. This means that X is the hardest problem in C. (Since many problems could be equally hard, one might say that X is one of the hardest problems in C.) Thus the class of NP-complete problems contains the most difficult problems in NP, in the sense that they are the ones most likely not to be in P. Because the problem P = NP is not solved, being able to reduce a known NP-complete problem, \u03a02, to another problem, \u03a01, would i"
+  },
+  {
+    "id": "squad_56e1dc62cd28a01900c67bca",
+    "text": "What complexity class is characterized by a computational tasks and efficient algorithms?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "The complexity class P is often seen as a mathematical abstraction modeling those computational tasks that admit an efficient algorithm. This hypothesis is called the Cobham\u2013Edmonds thesis. The complexity class NP, on the other hand, contains many problems that people would like to solve efficiently, but for which no efficient algorithm is known, such as the Boolean satisfiability problem, the Hamiltonian path problem and the vertex cover problem. Since deterministic Turing machines are special "
+  },
+  {
+    "id": "squad_56e1dc62cd28a01900c67bcb",
+    "text": "What hypothesis is associated with the complexity class of P viewed as a mathematical abstraction with efficient algorithmic functionality?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "The complexity class P is often seen as a mathematical abstraction modeling those computational tasks that admit an efficient algorithm. This hypothesis is called the Cobham\u2013Edmonds thesis. The complexity class NP, on the other hand, contains many problems that people would like to solve efficiently, but for which no efficient algorithm is known, such as the Boolean satisfiability problem, the Hamiltonian path problem and the vertex cover problem. Since deterministic Turing machines are special "
+  },
+  {
+    "id": "squad_56e1dc62cd28a01900c67bcc",
+    "text": "What complexity class is commonly characterized by unknown algorithms to enhance solvability?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "The complexity class P is often seen as a mathematical abstraction modeling those computational tasks that admit an efficient algorithm. This hypothesis is called the Cobham\u2013Edmonds thesis. The complexity class NP, on the other hand, contains many problems that people would like to solve efficiently, but for which no efficient algorithm is known, such as the Boolean satisfiability problem, the Hamiltonian path problem and the vertex cover problem. Since deterministic Turing machines are special "
+  },
+  {
+    "id": "squad_56e1dc62cd28a01900c67bcd",
+    "text": "What is an example of a problem that rests within the NP complexity class?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "The complexity class P is often seen as a mathematical abstraction modeling those computational tasks that admit an efficient algorithm. This hypothesis is called the Cobham\u2013Edmonds thesis. The complexity class NP, on the other hand, contains many problems that people would like to solve efficiently, but for which no efficient algorithm is known, such as the Boolean satisfiability problem, the Hamiltonian path problem and the vertex cover problem. Since deterministic Turing machines are special "
+  }
+]

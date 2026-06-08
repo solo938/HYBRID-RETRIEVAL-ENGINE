@@ -1,0 +1,43 @@
+{
+  "title": "RAG Pipeline Dashboard",
+  "uid": "rag-pipeline-v2",
+  "timezone": "browser",
+  "panels": [
+    {
+      "id": 1,
+      "title": "Queries per Minute",
+      "type": "graph",
+      "targets": [{
+        "expr": "rate(rag_queries_total[1m])",
+        "legendFormat": "QPM"
+      }]
+    },
+    {
+      "id": 2,
+      "title": "Query Latency P95",
+      "type": "graph",
+      "targets": [{
+        "expr": "histogram_quantile(0.95, sum(rate(rag_query_latency_seconds_bucket[5m])) by (le))",
+        "legendFormat": "P95 Latency"
+      }]
+    },
+    {
+      "id": 3,
+      "title": "Cost Per Query",
+      "type": "stat",
+      "targets": [{
+        "expr": "avg(rag_cost_per_query)",
+        "legendFormat": "Avg Cost"
+      }]
+    },
+    {
+      "id": 4,
+      "title": "Quality Gate Status",
+      "type": "stat",
+      "targets": [{
+        "expr": "rag_quality_gate_passed",
+        "legendFormat": "Gate Passed"
+      }]
+    }
+  ]
+}

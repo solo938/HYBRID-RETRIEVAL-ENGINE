@@ -1,0 +1,527 @@
+[
+  {
+    "id": "squad_56e1b355e3433e14004230b3",
+    "text": "What is the most critical resource in the analysis of computational problems associated with non-deterministic Turing machines?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "However, some computational problems are easier to analyze in terms of more unusual resources. For example, a non-deterministic Turing machine is a computational model that is allowed to branch out to check many different possibilities at once. The non-deterministic Turing machine has very little to do with how we physically want to compute algorithms, but its branching exactly captures many of the mathematical models we want to analyze, so that non-deterministic time is a very important resourc"
+  },
+  {
+    "id": "squad_5ad5489b5b96ef001a10ac2a",
+    "text": "What is harder to analyze in terms of more unusual resources?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "However, some computational problems are easier to analyze in terms of more unusual resources. For example, a non-deterministic Turing machine is a computational model that is allowed to branch out to check many different possibilities at once. The non-deterministic Turing machine has very little to do with how we physically want to compute algorithms, but its branching exactly captures many of the mathematical models we want to analyze, so that non-deterministic time is a very important resourc"
+  },
+  {
+    "id": "squad_5ad5489b5b96ef001a10ac2b",
+    "text": "What type of machine is a computational model that is not allowed to branch out to check many different possibilities at once?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "However, some computational problems are easier to analyze in terms of more unusual resources. For example, a non-deterministic Turing machine is a computational model that is allowed to branch out to check many different possibilities at once. The non-deterministic Turing machine has very little to do with how we physically want to compute algorithms, but its branching exactly captures many of the mathematical models we want to analyze, so that non-deterministic time is a very important resourc"
+  },
+  {
+    "id": "squad_5ad5489b5b96ef001a10ac2c",
+    "text": "What has a lot to do with how we physically want to compute algorithms?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "However, some computational problems are easier to analyze in terms of more unusual resources. For example, a non-deterministic Turing machine is a computational model that is allowed to branch out to check many different possibilities at once. The non-deterministic Turing machine has very little to do with how we physically want to compute algorithms, but its branching exactly captures many of the mathematical models we want to analyze, so that non-deterministic time is a very important resourc"
+  },
+  {
+    "id": "squad_5ad5489b5b96ef001a10ac2d",
+    "text": "What machine's branching does not exactly capture many of the mathematical models we want to analyze?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "However, some computational problems are easier to analyze in terms of more unusual resources. For example, a non-deterministic Turing machine is a computational model that is allowed to branch out to check many different possibilities at once. The non-deterministic Turing machine has very little to do with how we physically want to compute algorithms, but its branching exactly captures many of the mathematical models we want to analyze, so that non-deterministic time is a very important resourc"
+  },
+  {
+    "id": "squad_5ad5489b5b96ef001a10ac2e",
+    "text": "What is the least critical resource in the analysis of computational problems associated with non-deterministic Turing machines?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "However, some computational problems are easier to analyze in terms of more unusual resources. For example, a non-deterministic Turing machine is a computational model that is allowed to branch out to check many different possibilities at once. The non-deterministic Turing machine has very little to do with how we physically want to compute algorithms, but its branching exactly captures many of the mathematical models we want to analyze, so that non-deterministic time is a very important resourc"
+  },
+  {
+    "id": "squad_56e1b62ecd28a01900c67aa3",
+    "text": "The time required to output an answer on a deterministic Turing machine is expressed as what?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "For a precise definition of what it means to solve a problem using a given amount of time and space, a computational model such as the deterministic Turing machine is used. The time required by a deterministic Turing machine M on input x is the total number of state transitions, or steps, the machine makes before it halts and outputs the answer (\"yes\" or \"no\"). A Turing machine M is said to operate within time f(n), if the time required by M on each input of length n is at most f(n). A decision "
+  },
+  {
+    "id": "squad_56e1b62ecd28a01900c67aa4",
+    "text": "Complexity theory classifies problems based on what primary attribute?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "For a precise definition of what it means to solve a problem using a given amount of time and space, a computational model such as the deterministic Turing machine is used. The time required by a deterministic Turing machine M on input x is the total number of state transitions, or steps, the machine makes before it halts and outputs the answer (\"yes\" or \"no\"). A Turing machine M is said to operate within time f(n), if the time required by M on each input of length n is at most f(n). A decision "
+  },
+  {
+    "id": "squad_56e1b62ecd28a01900c67aa5",
+    "text": "What is the expression used to identify any given series of problems capable of being solved within time on a deterministic Turing machine?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "For a precise definition of what it means to solve a problem using a given amount of time and space, a computational model such as the deterministic Turing machine is used. The time required by a deterministic Turing machine M on input x is the total number of state transitions, or steps, the machine makes before it halts and outputs the answer (\"yes\" or \"no\"). A Turing machine M is said to operate within time f(n), if the time required by M on each input of length n is at most f(n). A decision "
+  },
+  {
+    "id": "squad_56e1b62ecd28a01900c67aa6",
+    "text": "What is the most critical resource measured to in assessing the determination of a Turing machine's ability to solve any given set of problems?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "For a precise definition of what it means to solve a problem using a given amount of time and space, a computational model such as the deterministic Turing machine is used. The time required by a deterministic Turing machine M on input x is the total number of state transitions, or steps, the machine makes before it halts and outputs the answer (\"yes\" or \"no\"). A Turing machine M is said to operate within time f(n), if the time required by M on each input of length n is at most f(n). A decision "
+  },
+  {
+    "id": "squad_5ad54a375b96ef001a10ac48",
+    "text": "What is not used for a precise definition of what it means to solve a problem using a given amount of time and space?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "For a precise definition of what it means to solve a problem using a given amount of time and space, a computational model such as the deterministic Turing machine is used. The time required by a deterministic Turing machine M on input x is the total number of state transitions, or steps, the machine makes before it halts and outputs the answer (\"yes\" or \"no\"). A Turing machine M is said to operate within time f(n), if the time required by M on each input of length n is at most f(n). A decision "
+  },
+  {
+    "id": "squad_5ad54a375b96ef001a10ac49",
+    "text": "How is Turing machine M said not to operate?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "For a precise definition of what it means to solve a problem using a given amount of time and space, a computational model such as the deterministic Turing machine is used. The time required by a deterministic Turing machine M on input x is the total number of state transitions, or steps, the machine makes before it halts and outputs the answer (\"yes\" or \"no\"). A Turing machine M is said to operate within time f(n), if the time required by M on each input of length n is at most f(n). A decision "
+  },
+  {
+    "id": "squad_5ad54a375b96ef001a10ac4a",
+    "text": "What is the expression used to identify any given series of solutions capable of being solved within time on a deterministic Turing machine?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "For a precise definition of what it means to solve a problem using a given amount of time and space, a computational model such as the deterministic Turing machine is used. The time required by a deterministic Turing machine M on input x is the total number of state transitions, or steps, the machine makes before it halts and outputs the answer (\"yes\" or \"no\"). A Turing machine M is said to operate within time f(n), if the time required by M on each input of length n is at most f(n). A decision "
+  },
+  {
+    "id": "squad_5ad54a375b96ef001a10ac4b",
+    "text": "What is the least critical resource measured in assessing the determination of a Turing machine's ability to solve any given set of problems?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "For a precise definition of what it means to solve a problem using a given amount of time and space, a computational model such as the deterministic Turing machine is used. The time required by a deterministic Turing machine M on input x is the total number of state transitions, or steps, the machine makes before it halts and outputs the answer (\"yes\" or \"no\"). A Turing machine M is said to operate within time f(n), if the time required by M on each input of length n is at most f(n). A decision "
+  },
+  {
+    "id": "squad_5ad54a375b96ef001a10ac4c",
+    "text": "How can decision problem B be solved in time x(f)?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "For a precise definition of what it means to solve a problem using a given amount of time and space, a computational model such as the deterministic Turing machine is used. The time required by a deterministic Turing machine M on input x is the total number of state transitions, or steps, the machine makes before it halts and outputs the answer (\"yes\" or \"no\"). A Turing machine M is said to operate within time f(n), if the time required by M on each input of length n is at most f(n). A decision "
+  },
+  {
+    "id": "squad_56e1b754cd28a01900c67abc",
+    "text": "Time and space are both examples of what type of resource?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Analogous definitions can be made for space requirements. Although time and space are the most well-known complexity resources, any complexity measure can be viewed as a computational resource. Complexity measures are very generally defined by the Blum complexity axioms. Other complexity measures used in complexity theory include communication complexity, circuit complexity, and decision tree complexity."
+  },
+  {
+    "id": "squad_56e1b754cd28a01900c67abd",
+    "text": "A complexity resource can also be described as what other type of resource?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Analogous definitions can be made for space requirements. Although time and space are the most well-known complexity resources, any complexity measure can be viewed as a computational resource. Complexity measures are very generally defined by the Blum complexity axioms. Other complexity measures used in complexity theory include communication complexity, circuit complexity, and decision tree complexity."
+  },
+  {
+    "id": "squad_56e1b754cd28a01900c67abe",
+    "text": "What is typically used to broadly define complexity measures?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Analogous definitions can be made for space requirements. Although time and space are the most well-known complexity resources, any complexity measure can be viewed as a computational resource. Complexity measures are very generally defined by the Blum complexity axioms. Other complexity measures used in complexity theory include communication complexity, circuit complexity, and decision tree complexity."
+  },
+  {
+    "id": "squad_56e1b754cd28a01900c67abf",
+    "text": "Communication complexity is an example of what type of measure?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Analogous definitions can be made for space requirements. Although time and space are the most well-known complexity resources, any complexity measure can be viewed as a computational resource. Complexity measures are very generally defined by the Blum complexity axioms. Other complexity measures used in complexity theory include communication complexity, circuit complexity, and decision tree complexity."
+  },
+  {
+    "id": "squad_56e1b754cd28a01900c67ac0",
+    "text": "Decision tree is an example of what type of measure?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Analogous definitions can be made for space requirements. Although time and space are the most well-known complexity resources, any complexity measure can be viewed as a computational resource. Complexity measures are very generally defined by the Blum complexity axioms. Other complexity measures used in complexity theory include communication complexity, circuit complexity, and decision tree complexity."
+  },
+  {
+    "id": "squad_5ad54b035b96ef001a10ac52",
+    "text": "What can not be made for space requirements?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Analogous definitions can be made for space requirements. Although time and space are the most well-known complexity resources, any complexity measure can be viewed as a computational resource. Complexity measures are very generally defined by the Blum complexity axioms. Other complexity measures used in complexity theory include communication complexity, circuit complexity, and decision tree complexity."
+  },
+  {
+    "id": "squad_5ad54b035b96ef001a10ac53",
+    "text": "What are the least well known complexity resources?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Analogous definitions can be made for space requirements. Although time and space are the most well-known complexity resources, any complexity measure can be viewed as a computational resource. Complexity measures are very generally defined by the Blum complexity axioms. Other complexity measures used in complexity theory include communication complexity, circuit complexity, and decision tree complexity."
+  },
+  {
+    "id": "squad_5ad54b035b96ef001a10ac54",
+    "text": "How are complexity measures generally not defined?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Analogous definitions can be made for space requirements. Although time and space are the most well-known complexity resources, any complexity measure can be viewed as a computational resource. Complexity measures are very generally defined by the Blum complexity axioms. Other complexity measures used in complexity theory include communication complexity, circuit complexity, and decision tree complexity."
+  },
+  {
+    "id": "squad_5ad54b035b96ef001a10ac55",
+    "text": "What are other complexity measures not used in complexity theory?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Analogous definitions can be made for space requirements. Although time and space are the most well-known complexity resources, any complexity measure can be viewed as a computational resource. Complexity measures are very generally defined by the Blum complexity axioms. Other complexity measures used in complexity theory include communication complexity, circuit complexity, and decision tree complexity."
+  },
+  {
+    "id": "squad_5ad54b035b96ef001a10ac56",
+    "text": "What type of measure is communication complexity not an example of?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Analogous definitions can be made for space requirements. Although time and space are the most well-known complexity resources, any complexity measure can be viewed as a computational resource. Complexity measures are very generally defined by the Blum complexity axioms. Other complexity measures used in complexity theory include communication complexity, circuit complexity, and decision tree complexity."
+  },
+  {
+    "id": "squad_56e1b8f3e3433e14004230e6",
+    "text": "What are the three primary expressions used to represent case complexity?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "The best, worst and average case complexity refer to three different ways of measuring the time complexity (or any other complexity measure) of different inputs of the same size. Since some inputs of size n may be faster to solve than others, we define the following complexities:"
+  },
+  {
+    "id": "squad_56e1b8f3e3433e14004230e7",
+    "text": "Case complexity likelihoods provide variable probabilities of what general measure? ",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "The best, worst and average case complexity refer to three different ways of measuring the time complexity (or any other complexity measure) of different inputs of the same size. Since some inputs of size n may be faster to solve than others, we define the following complexities:"
+  },
+  {
+    "id": "squad_56e1b8f3e3433e14004230e8",
+    "text": "What is one common example of a critical complexity measure?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "The best, worst and average case complexity refer to three different ways of measuring the time complexity (or any other complexity measure) of different inputs of the same size. Since some inputs of size n may be faster to solve than others, we define the following complexities:"
+  },
+  {
+    "id": "squad_56e1b8f3e3433e14004230e9",
+    "text": "Case complexities provide three likelihoods of what differing variable that remains the same size? ",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "The best, worst and average case complexity refer to three different ways of measuring the time complexity (or any other complexity measure) of different inputs of the same size. Since some inputs of size n may be faster to solve than others, we define the following complexities:"
+  },
+  {
+    "id": "squad_5ad54c2f5b96ef001a10ac5c",
+    "text": "What are the three secondary expressions used to represent case complexity? ",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "The best, worst and average case complexity refer to three different ways of measuring the time complexity (or any other complexity measure) of different inputs of the same size. Since some inputs of size n may be faster to solve than others, we define the following complexities:"
+  },
+  {
+    "id": "squad_5ad54c2f5b96ef001a10ac5d",
+    "text": "What three different ways are used to measure space complexity?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "The best, worst and average case complexity refer to three different ways of measuring the time complexity (or any other complexity measure) of different inputs of the same size. Since some inputs of size n may be faster to solve than others, we define the following complexities:"
+  },
+  {
+    "id": "squad_5ad54c2f5b96ef001a10ac5e",
+    "text": "What is one not common example of a critical complexity measure?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "The best, worst and average case complexity refer to three different ways of measuring the time complexity (or any other complexity measure) of different inputs of the same size. Since some inputs of size n may be faster to solve than others, we define the following complexities:"
+  },
+  {
+    "id": "squad_5ad54c2f5b96ef001a10ac5f",
+    "text": "What differing variable remains the same size when providing the four likelihoods of case complexities?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "The best, worst and average case complexity refer to three different ways of measuring the time complexity (or any other complexity measure) of different inputs of the same size. Since some inputs of size n may be faster to solve than others, we define the following complexities:"
+  },
+  {
+    "id": "squad_56e1ba41cd28a01900c67ae0",
+    "text": "What provides a solution to a list of integers provided as input that ned to be sorted?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "For example, consider the deterministic sorting algorithm quicksort. This solves the problem of sorting a list of integers that is given as the input. The worst-case is when the input is sorted or sorted in reverse order, and the algorithm takes time O(n2) for this case. If we assume that all possible permutations of the input list are equally likely, the average time taken for sorting is O(n log n). The best case occurs when each pivoting divides the list in half, also needing O(n log n) time."
+  },
+  {
+    "id": "squad_56e1ba41cd28a01900c67ae1",
+    "text": "When extensive time is required to sort integers, this represents what case complexity?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "For example, consider the deterministic sorting algorithm quicksort. This solves the problem of sorting a list of integers that is given as the input. The worst-case is when the input is sorted or sorted in reverse order, and the algorithm takes time O(n2) for this case. If we assume that all possible permutations of the input list are equally likely, the average time taken for sorting is O(n log n). The best case occurs when each pivoting divides the list in half, also needing O(n log n) time."
+  },
+  {
+    "id": "squad_56e1ba41cd28a01900c67ae2",
+    "text": "What is the expression used to denote a worst case complexity as expressed by time taken?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "For example, consider the deterministic sorting algorithm quicksort. This solves the problem of sorting a list of integers that is given as the input. The worst-case is when the input is sorted or sorted in reverse order, and the algorithm takes time O(n2) for this case. If we assume that all possible permutations of the input list are equally likely, the average time taken for sorting is O(n log n). The best case occurs when each pivoting divides the list in half, also needing O(n log n) time."
+  },
+  {
+    "id": "squad_5ad54d625b96ef001a10ac64",
+    "text": "What does not solve the problem of sorting a list of integers that is given as the input?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "For example, consider the deterministic sorting algorithm quicksort. This solves the problem of sorting a list of integers that is given as the input. The worst-case is when the input is sorted or sorted in reverse order, and the algorithm takes time O(n2) for this case. If we assume that all possible permutations of the input list are equally likely, the average time taken for sorting is O(n log n). The best case occurs when each pivoting divides the list in half, also needing O(n log n) time."
+  },
+  {
+    "id": "squad_5ad54d625b96ef001a10ac65",
+    "text": "What does the deterministic parting algorithm quicksort do?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "For example, consider the deterministic sorting algorithm quicksort. This solves the problem of sorting a list of integers that is given as the input. The worst-case is when the input is sorted or sorted in reverse order, and the algorithm takes time O(n2) for this case. If we assume that all possible permutations of the input list are equally likely, the average time taken for sorting is O(n log n). The best case occurs when each pivoting divides the list in half, also needing O(n log n) time."
+  },
+  {
+    "id": "squad_5ad54d625b96ef001a10ac66",
+    "text": "What case complexity is represented when limited time is required to sort integers?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "For example, consider the deterministic sorting algorithm quicksort. This solves the problem of sorting a list of integers that is given as the input. The worst-case is when the input is sorted or sorted in reverse order, and the algorithm takes time O(n2) for this case. If we assume that all possible permutations of the input list are equally likely, the average time taken for sorting is O(n log n). The best case occurs when each pivoting divides the list in half, also needing O(n log n) time."
+  },
+  {
+    "id": "squad_5ad54d625b96ef001a10ac67",
+    "text": "What is the expression not used to denote worst case complexity as expressed by time taken?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "For example, consider the deterministic sorting algorithm quicksort. This solves the problem of sorting a list of integers that is given as the input. The worst-case is when the input is sorted or sorted in reverse order, and the algorithm takes time O(n2) for this case. If we assume that all possible permutations of the input list are equally likely, the average time taken for sorting is O(n log n). The best case occurs when each pivoting divides the list in half, also needing O(n log n) time."
+  },
+  {
+    "id": "squad_5ad54d625b96ef001a10ac68",
+    "text": "What case complexity is represented when each pivoting divides the list in thirds, also needing O(n log n) time?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "For example, consider the deterministic sorting algorithm quicksort. This solves the problem of sorting a list of integers that is given as the input. The worst-case is when the input is sorted or sorted in reverse order, and the algorithm takes time O(n2) for this case. If we assume that all possible permutations of the input list are equally likely, the average time taken for sorting is O(n log n). The best case occurs when each pivoting divides the list in half, also needing O(n log n) time."
+  },
+  {
+    "id": "squad_56e1bc3ae3433e1400423104",
+    "text": "Classification of resources is contingent on determining the upper and lower bounds of minimum time required by what?  ",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "To classify the computation time (or similar resources, such as space consumption), one is interested in proving upper and lower bounds on the minimum amount of time required by the most efficient algorithm solving a given problem. The complexity of an algorithm is usually taken to be its worst-case complexity, unless specified otherwise. Analyzing a particular algorithm falls under the field of analysis of algorithms. To show an upper bound T(n) on the time complexity of a problem, one needs to"
+  },
+  {
+    "id": "squad_56e1bc3ae3433e1400423105",
+    "text": "The analysis of a specific algorithm is typically assigned to what field of computational science?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "To classify the computation time (or similar resources, such as space consumption), one is interested in proving upper and lower bounds on the minimum amount of time required by the most efficient algorithm solving a given problem. The complexity of an algorithm is usually taken to be its worst-case complexity, unless specified otherwise. Analyzing a particular algorithm falls under the field of analysis of algorithms. To show an upper bound T(n) on the time complexity of a problem, one needs to"
+  },
+  {
+    "id": "squad_56e1bc3ae3433e1400423106",
+    "text": "Which bound of time is more difficult to establish?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "To classify the computation time (or similar resources, such as space consumption), one is interested in proving upper and lower bounds on the minimum amount of time required by the most efficient algorithm solving a given problem. The complexity of an algorithm is usually taken to be its worst-case complexity, unless specified otherwise. Analyzing a particular algorithm falls under the field of analysis of algorithms. To show an upper bound T(n) on the time complexity of a problem, one needs to"
+  },
+  {
+    "id": "squad_56e1bc3ae3433e1400423107",
+    "text": "A specific algorithm demonstrating T(n) represents what measure of time complexity?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "To classify the computation time (or similar resources, such as space consumption), one is interested in proving upper and lower bounds on the minimum amount of time required by the most efficient algorithm solving a given problem. The complexity of an algorithm is usually taken to be its worst-case complexity, unless specified otherwise. Analyzing a particular algorithm falls under the field of analysis of algorithms. To show an upper bound T(n) on the time complexity of a problem, one needs to"
+  },
+  {
+    "id": "squad_56e1bc3ae3433e1400423108",
+    "text": "What is the colloquial phrase used to convey the continuum of algorithms with unlimited availability irrespective of time? ",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "To classify the computation time (or similar resources, such as space consumption), one is interested in proving upper and lower bounds on the minimum amount of time required by the most efficient algorithm solving a given problem. The complexity of an algorithm is usually taken to be its worst-case complexity, unless specified otherwise. Analyzing a particular algorithm falls under the field of analysis of algorithms. To show an upper bound T(n) on the time complexity of a problem, one needs to"
+  },
+  {
+    "id": "squad_5ad54e7c5b96ef001a10ac76",
+    "text": "How does one note classify the computation time (or similar resources)?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "To classify the computation time (or similar resources, such as space consumption), one is interested in proving upper and lower bounds on the minimum amount of time required by the most efficient algorithm solving a given problem. The complexity of an algorithm is usually taken to be its worst-case complexity, unless specified otherwise. Analyzing a particular algorithm falls under the field of analysis of algorithms. To show an upper bound T(n) on the time complexity of a problem, one needs to"
+  },
+  {
+    "id": "squad_5ad54e7c5b96ef001a10ac77",
+    "text": "What is usually taken as the best case complexity, unless specified otherwise?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "To classify the computation time (or similar resources, such as space consumption), one is interested in proving upper and lower bounds on the minimum amount of time required by the most efficient algorithm solving a given problem. The complexity of an algorithm is usually taken to be its worst-case complexity, unless specified otherwise. Analyzing a particular algorithm falls under the field of analysis of algorithms. To show an upper bound T(n) on the time complexity of a problem, one needs to"
+  },
+  {
+    "id": "squad_5ad54e7c5b96ef001a10ac78",
+    "text": "What does not fall under the field of analysis of algorithms>",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "To classify the computation time (or similar resources, such as space consumption), one is interested in proving upper and lower bounds on the minimum amount of time required by the most efficient algorithm solving a given problem. The complexity of an algorithm is usually taken to be its worst-case complexity, unless specified otherwise. Analyzing a particular algorithm falls under the field of analysis of algorithms. To show an upper bound T(n) on the time complexity of a problem, one needs to"
+  },
+  {
+    "id": "squad_5ad54e7c5b96ef001a10ac79",
+    "text": "When does one not need to show only that there is a particular algorithm running time at mons T(nO?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "To classify the computation time (or similar resources, such as space consumption), one is interested in proving upper and lower bounds on the minimum amount of time required by the most efficient algorithm solving a given problem. The complexity of an algorithm is usually taken to be its worst-case complexity, unless specified otherwise. Analyzing a particular algorithm falls under the field of analysis of algorithms. To show an upper bound T(n) on the time complexity of a problem, one needs to"
+  },
+  {
+    "id": "squad_5ad54e7c5b96ef001a10ac7a",
+    "text": "What is easy about proving lower bounds?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "To classify the computation time (or similar resources, such as space consumption), one is interested in proving upper and lower bounds on the minimum amount of time required by the most efficient algorithm solving a given problem. The complexity of an algorithm is usually taken to be its worst-case complexity, unless specified otherwise. Analyzing a particular algorithm falls under the field of analysis of algorithms. To show an upper bound T(n) on the time complexity of a problem, one needs to"
+  },
+  {
+    "id": "squad_56e1bd4acd28a01900c67afc",
+    "text": "What expression is generally used to convey upper or lower bounds?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Upper and lower bounds are usually stated using the big O notation, which hides constant factors and smaller terms. This makes the bounds independent of the specific details of the computational model used. For instance, if T(n) = 7n2 + 15n + 40, in big O notation one would write T(n) = O(n2)."
+  },
+  {
+    "id": "squad_56e1bd4acd28a01900c67afd",
+    "text": "What does a big O notation hide?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Upper and lower bounds are usually stated using the big O notation, which hides constant factors and smaller terms. This makes the bounds independent of the specific details of the computational model used. For instance, if T(n) = 7n2 + 15n + 40, in big O notation one would write T(n) = O(n2)."
+  },
+  {
+    "id": "squad_56e1bd4acd28a01900c67afe",
+    "text": "How would one write T(n) = 7n2 + 15n + 40 in big O notation? ",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Upper and lower bounds are usually stated using the big O notation, which hides constant factors and smaller terms. This makes the bounds independent of the specific details of the computational model used. For instance, if T(n) = 7n2 + 15n + 40, in big O notation one would write T(n) = O(n2)."
+  },
+  {
+    "id": "squad_56e1bd4acd28a01900c67aff",
+    "text": "Big O notation provides autonomy to upper and lower bounds with relationship to what? ",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Upper and lower bounds are usually stated using the big O notation, which hides constant factors and smaller terms. This makes the bounds independent of the specific details of the computational model used. For instance, if T(n) = 7n2 + 15n + 40, in big O notation one would write T(n) = O(n2)."
+  },
+  {
+    "id": "squad_5ad54f775b96ef001a10ac88",
+    "text": "What is usually not stated using the big O notation?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Upper and lower bounds are usually stated using the big O notation, which hides constant factors and smaller terms. This makes the bounds independent of the specific details of the computational model used. For instance, if T(n) = 7n2 + 15n + 40, in big O notation one would write T(n) = O(n2)."
+  },
+  {
+    "id": "squad_5ad54f775b96ef001a10ac89",
+    "text": "What does not hide constant factors or smaller terms?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Upper and lower bounds are usually stated using the big O notation, which hides constant factors and smaller terms. This makes the bounds independent of the specific details of the computational model used. For instance, if T(n) = 7n2 + 15n + 40, in big O notation one would write T(n) = O(n2)."
+  },
+  {
+    "id": "squad_5ad54f775b96ef001a10ac8a",
+    "text": "What makes the bounds dependent of the specific details of the computational model?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Upper and lower bounds are usually stated using the big O notation, which hides constant factors and smaller terms. This makes the bounds independent of the specific details of the computational model used. For instance, if T(n) = 7n2 + 15n + 40, in big O notation one would write T(n) = O(n2)."
+  },
+  {
+    "id": "squad_5ad54f775b96ef001a10ac8b",
+    "text": "How would one abbreviate T(n)=8n2 + 16n = 40 in big O notatation?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Upper and lower bounds are usually stated using the big O notation, which hides constant factors and smaller terms. This makes the bounds independent of the specific details of the computational model used. For instance, if T(n) = 7n2 + 15n + 40, in big O notation one would write T(n) = O(n2)."
+  },
+  {
+    "id": "squad_56e1c0f6cd28a01900c67b2c",
+    "text": "What has complicated definitions that prevent classification into a framework?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Of course, some complexity classes have complicated definitions that do not fit into this framework. Thus, a typical complexity class has a definition like the following:"
+  },
+  {
+    "id": "squad_56e1c0f6cd28a01900c67b2d",
+    "text": "Complexity classes are generally classified into what?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Of course, some complexity classes have complicated definitions that do not fit into this framework. Thus, a typical complexity class has a definition like the following:"
+  },
+  {
+    "id": "squad_56e1c0f6cd28a01900c67b2e",
+    "text": "Difficulty in establishing a framework for complexity classes can be caused by what variable?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Of course, some complexity classes have complicated definitions that do not fit into this framework. Thus, a typical complexity class has a definition like the following:"
+  },
+  {
+    "id": "squad_5ad5501f5b96ef001a10ac90",
+    "text": "What fits the framework of complexity classes?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Of course, some complexity classes have complicated definitions that do not fit into this framework. Thus, a typical complexity class has a definition like the following:"
+  },
+  {
+    "id": "squad_5ad5501f5b96ef001a10ac91",
+    "text": "What has uncomplicated definitions that prevent classification into a framework?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Of course, some complexity classes have complicated definitions that do not fit into this framework. Thus, a typical complexity class has a definition like the following:"
+  },
+  {
+    "id": "squad_5ad5501f5b96ef001a10ac92",
+    "text": "What are complexity classes generally not classified into?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Of course, some complexity classes have complicated definitions that do not fit into this framework. Thus, a typical complexity class has a definition like the following:"
+  },
+  {
+    "id": "squad_5ad5501f5b96ef001a10ac93",
+    "text": "What variable is easy to establish in a framework for complexity classes?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "Of course, some complexity classes have complicated definitions that do not fit into this framework. Thus, a typical complexity class has a definition like the following:"
+  },
+  {
+    "id": "squad_56e1c2eee3433e1400423134",
+    "text": "Concrete bounding of computation time frequently produces complexity classes contingent upon what?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "But bounding the computation time above by some concrete function f(n) often yields complexity classes that depend on the chosen machine model. For instance, the language {xx | x is any binary string} can be solved in linear time on a multi-tape Turing machine, but necessarily requires quadratic time in the model of single-tape Turing machines. If we allow polynomial variations in running time, Cobham-Edmonds thesis states that \"the time complexities in any two reasonable and general models of c"
+  },
+  {
+    "id": "squad_56e1c2eee3433e1400423135",
+    "text": "A multi-tape Turing machine requires what type of time for a solution?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "But bounding the computation time above by some concrete function f(n) often yields complexity classes that depend on the chosen machine model. For instance, the language {xx | x is any binary string} can be solved in linear time on a multi-tape Turing machine, but necessarily requires quadratic time in the model of single-tape Turing machines. If we allow polynomial variations in running time, Cobham-Edmonds thesis states that \"the time complexities in any two reasonable and general models of c"
+  },
+  {
+    "id": "squad_56e1c2eee3433e1400423136",
+    "text": "A language solved in quadratic time implies the use of what type of Turing machine?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "But bounding the computation time above by some concrete function f(n) often yields complexity classes that depend on the chosen machine model. For instance, the language {xx | x is any binary string} can be solved in linear time on a multi-tape Turing machine, but necessarily requires quadratic time in the model of single-tape Turing machines. If we allow polynomial variations in running time, Cobham-Edmonds thesis states that \"the time complexities in any two reasonable and general models of c"
+  },
+  {
+    "id": "squad_56e1c2eee3433e1400423137",
+    "text": "What thesis specifies that a polynomial relationship exists within time complexities in a computational model? ",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "But bounding the computation time above by some concrete function f(n) often yields complexity classes that depend on the chosen machine model. For instance, the language {xx | x is any binary string} can be solved in linear time on a multi-tape Turing machine, but necessarily requires quadratic time in the model of single-tape Turing machines. If we allow polynomial variations in running time, Cobham-Edmonds thesis states that \"the time complexities in any two reasonable and general models of c"
+  },
+  {
+    "id": "squad_56e1c2eee3433e1400423138",
+    "text": "Decision problems capable of being solved by a deterministic Turing machine while maintaining adherence to polynomial time belong to what class?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "But bounding the computation time above by some concrete function f(n) often yields complexity classes that depend on the chosen machine model. For instance, the language {xx | x is any binary string} can be solved in linear time on a multi-tape Turing machine, but necessarily requires quadratic time in the model of single-tape Turing machines. If we allow polynomial variations in running time, Cobham-Edmonds thesis states that \"the time complexities in any two reasonable and general models of c"
+  },
+  {
+    "id": "squad_5ad55ee35b96ef001a10ace4",
+    "text": "What does not often yield complexity classes that depend on the chosen machine model?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "But bounding the computation time above by some concrete function f(n) often yields complexity classes that depend on the chosen machine model. For instance, the language {xx | x is any binary string} can be solved in linear time on a multi-tape Turing machine, but necessarily requires quadratic time in the model of single-tape Turing machines. If we allow polynomial variations in running time, Cobham-Edmonds thesis states that \"the time complexities in any two reasonable and general models of c"
+  },
+  {
+    "id": "squad_5ad55ee35b96ef001a10ace5",
+    "text": "What does not frequently produce complexity classes that have concrete bounding of computation time?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "But bounding the computation time above by some concrete function f(n) often yields complexity classes that depend on the chosen machine model. For instance, the language {xx | x is any binary string} can be solved in linear time on a multi-tape Turing machine, but necessarily requires quadratic time in the model of single-tape Turing machines. If we allow polynomial variations in running time, Cobham-Edmonds thesis states that \"the time complexities in any two reasonable and general models of c"
+  },
+  {
+    "id": "squad_5ad55ee35b96ef001a10ace6",
+    "text": "What can not be solved in linear time on multi-tape Turing machine?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "But bounding the computation time above by some concrete function f(n) often yields complexity classes that depend on the chosen machine model. For instance, the language {xx | x is any binary string} can be solved in linear time on a multi-tape Turing machine, but necessarily requires quadratic time in the model of single-tape Turing machines. If we allow polynomial variations in running time, Cobham-Edmonds thesis states that \"the time complexities in any two reasonable and general models of c"
+  },
+  {
+    "id": "squad_5ad55ee35b96ef001a10ace7",
+    "text": "What is not a binary string?",
+    "domain": "general_knowledge",
+    "difficulty": "medium",
+    "context": "But bounding the computation time above by some concrete function f(n) often yields complexity classes that depend on the chosen machine model. For instance, the language {xx | x is any binary string} can be solved in linear time on a multi-tape Turing machine, but necessarily requires quadratic time in the model of single-tape Turing machines. If we allow polynomial variations in running time, Cobham-Edmonds thesis states that \"the time complexities in any two reasonable and general models of c"
+  }
+]

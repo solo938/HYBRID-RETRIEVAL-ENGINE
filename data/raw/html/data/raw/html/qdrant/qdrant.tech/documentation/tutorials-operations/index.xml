@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Operations &amp; Scale on Qdrant - Vector Search Engine</title><link>https://qdrant.tech/documentation/tutorials-operations/</link><description>Recent content in Operations &amp; Scale on Qdrant - Vector Search Engine</description><generator>Hugo</generator><language>en-us</language><managingEditor>info@qdrant.tech (Andrey Vasnetsov)</managingEditor><webMaster>info@qdrant.tech (Andrey Vasnetsov)</webMaster><atom:link href="https://qdrant.tech/documentation/tutorials-operations/index.xml" rel="self" type="application/rss+xml"/><item><title>Snapshots</title><link>https://qdrant.tech/documentation/tutorials-operations/create-snapshot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@qdrant.tech (Andrey Vasnetsov)</author><guid>https://qdrant.tech/documentation/tutorials-operations/create-snapshot/</guid><description>&lt;h1 id="backup--restore-qdrant-with-snapshots"&gt;Backup &amp;amp; Restore Qdrant with Snapshots&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Time: 20 min&lt;/th&gt;
+ &lt;th&gt;Level: Beginner&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;A collection is a basic unit of data storage in Qdrant. It contains vectors, their IDs, and payloads. However, keeping the search efficient requires additional data structures to be built on top of the data. Building these data structures may take a while, especially for large collections.
+That&amp;rsquo;s why using snapshots is the best way to export and import Qdrant collections, as they contain all the bits and pieces required to restore the entire collection efficiently.&lt;/p&gt;</description></item><item><title>Data Migration</title><link>https://qdrant.tech/documentation/tutorials-operations/migration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@qdrant.tech (Andrey Vasnetsov)</author><guid>https://qdrant.tech/documentation/tutorials-operations/migration/</guid><description>&lt;h1 id="migrate-your-embeddings-to-qdrant"&gt;Migrate Your Embeddings to Qdrant&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Time: Varies&lt;/th&gt;
+ &lt;th&gt;Level: Intermediate&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Migrating data between vector databases, especially across regions, platforms, or deployment types, can be a hassle. That’s where the &lt;a href="https://github.com/qdrant/migration" target="_blank" rel="noopener nofollow"&gt;Qdrant Migration Tool&lt;/a&gt; comes in. It supports a wide range of migration needs, including transferring data between Qdrant instances and migrating from other vector database providers to Qdrant.&lt;/p&gt;
+&lt;p&gt;You can run the migration tool on any machine where you have connectivity to both the source and the target Qdrant databases. Direct connectivity between both databases is not required. For optimal performance, you should run the tool on a machine with a fast network connection and minimum latency to both databases.&lt;/p&gt;</description></item><item><title>Migrate to a New Embedding Model</title><link>https://qdrant.tech/documentation/tutorials-operations/embedding-model-migration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@qdrant.tech (Andrey Vasnetsov)</author><guid>https://qdrant.tech/documentation/tutorials-operations/embedding-model-migration/</guid><description>&lt;h1 id="migrate-to-a-new-embedding-model-with-zero-downtime-in-qdrant"&gt;Migrate to a New Embedding Model with Zero Downtime in Qdrant&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Time: 40 min&lt;/th&gt;
+ &lt;th&gt;Level: Intermediate&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;When building a semantic search application, you need to &lt;a href="https://qdrant.tech/articles/how-to-choose-an-embedding-model/"&gt;choose an embedding
+model&lt;/a&gt;. Over time, you may want to switch to a different model for better
+quality or cost-effectiveness. If your application is in production, this must be done with zero downtime to avoid
+disrupting users. Switching models requires re-embedding all vectors in your collection, which can take time.&lt;/p&gt;</description></item><item><title>Time-Based Sharding</title><link>https://qdrant.tech/documentation/tutorials-operations/time-based-sharding/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@qdrant.tech (Andrey Vasnetsov)</author><guid>https://qdrant.tech/documentation/tutorials-operations/time-based-sharding/</guid><description>&lt;h1 id="time-based-sharding-in-qdrant"&gt;Time-Based Sharding in Qdrant&lt;/h1&gt;
+&lt;p&gt;When working with massive, fast-moving datasets, like social media or image/video streams, efficient storage and retrieval are critical. Often, only the most recent data is relevant, while older data can be archived or deleted. For instance, in sentiment analysis of social media posts, you might only need the last 7 days of data to capture current trends, with most queries focusing on the last 24 hours.&lt;/p&gt;</description></item><item><title>Large-Scale Search</title><link>https://qdrant.tech/documentation/tutorials-operations/large-scale-search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@qdrant.tech (Andrey Vasnetsov)</author><guid>https://qdrant.tech/documentation/tutorials-operations/large-scale-search/</guid><description>&lt;h1 id="large-scale-search-in-qdrant"&gt;Large-Scale Search in Qdrant&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Time: 2 days&lt;/th&gt;
+ &lt;th&gt;Level: Advanced&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;In this tutorial, we will describe an approach to upload, index, and search a large volume of data cost-efficiently,
+on an example of the real-world dataset &lt;a href="https://laion.ai/blog/laion-400-open-dataset/" target="_blank" rel="noopener nofollow"&gt;LAION-400M&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The goal of this tutorial is to demonstrate what minimal amount of resources is required to index and search a large dataset,
+while still maintaining a reasonable search latency and accuracy.&lt;/p&gt;
+&lt;p&gt;All relevant code snippets are available in the &lt;a href="https://github.com/qdrant/laion-400m-benchmark" target="_blank" rel="noopener nofollow"&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Secure a Self-Hosted Qdrant Instance</title><link>https://qdrant.tech/documentation/tutorials-operations/secure-qdrant/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@qdrant.tech (Andrey Vasnetsov)</author><guid>https://qdrant.tech/documentation/tutorials-operations/secure-qdrant/</guid><description>&lt;h1 id="secure-a-self-hosted-qdrant-instance"&gt;Secure a Self-Hosted Qdrant Instance&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Time: 45 min&lt;/th&gt;
+ &lt;th&gt;Level: Intermediate&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Qdrant offers a comprehensive set of &lt;a href="https://qdrant.tech/documentation/security/"&gt;security and access control features&lt;/a&gt; that enable you to protect your data and control access at multiple levels. By default, these features are enabled on Qdrant Cloud deployments. However, self-hosted Qdrant deployments default to no authentication and no encryption: every interface on the host is reachable without a key or password. For self-hosted instances, it is crucial to secure your instance before connecting it to any network.&lt;/p&gt;</description></item></channel></rss>

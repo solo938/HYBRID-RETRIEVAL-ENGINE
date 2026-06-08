@@ -1,0 +1,1002 @@
+[
+  {
+    "query_id": "TICKET-05674CA6",
+    "document_ids": [
+      "ticket_TICKET-05674CA6"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-05674CA6_0",
+      "chunk_TICKET-05674CA6_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-7E0BA2FF",
+    "document_ids": [
+      "ticket_TICKET-7E0BA2FF"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-7E0BA2FF_0",
+      "chunk_TICKET-7E0BA2FF_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-7EA4DC4E",
+    "document_ids": [
+      "ticket_TICKET-7EA4DC4E"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-7EA4DC4E_0",
+      "chunk_TICKET-7EA4DC4E_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-2BCD0AC8",
+    "document_ids": [
+      "ticket_TICKET-2BCD0AC8"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-2BCD0AC8_0",
+      "chunk_TICKET-2BCD0AC8_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-3C3AE923",
+    "document_ids": [
+      "ticket_TICKET-3C3AE923"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-3C3AE923_0",
+      "chunk_TICKET-3C3AE923_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-6DEE9709",
+    "document_ids": [
+      "ticket_TICKET-6DEE9709"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-6DEE9709_0",
+      "chunk_TICKET-6DEE9709_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-3F359BA7",
+    "document_ids": [
+      "ticket_TICKET-3F359BA7"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-3F359BA7_0",
+      "chunk_TICKET-3F359BA7_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-7698CE4D",
+    "document_ids": [
+      "ticket_TICKET-7698CE4D"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-7698CE4D_0",
+      "chunk_TICKET-7698CE4D_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-C203C617",
+    "document_ids": [
+      "ticket_TICKET-C203C617"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-C203C617_0",
+      "chunk_TICKET-C203C617_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-549A6604",
+    "document_ids": [
+      "ticket_TICKET-549A6604"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-549A6604_0",
+      "chunk_TICKET-549A6604_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-AA976225",
+    "document_ids": [
+      "ticket_TICKET-AA976225"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-AA976225_0",
+      "chunk_TICKET-AA976225_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-03D77ECC",
+    "document_ids": [
+      "ticket_TICKET-03D77ECC"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-03D77ECC_0",
+      "chunk_TICKET-03D77ECC_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-5B276BE5",
+    "document_ids": [
+      "ticket_TICKET-5B276BE5"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-5B276BE5_0",
+      "chunk_TICKET-5B276BE5_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-9DCC71F1",
+    "document_ids": [
+      "ticket_TICKET-9DCC71F1"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-9DCC71F1_0",
+      "chunk_TICKET-9DCC71F1_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-DF3FEED1",
+    "document_ids": [
+      "ticket_TICKET-DF3FEED1"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-DF3FEED1_0",
+      "chunk_TICKET-DF3FEED1_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-84A1BBAE",
+    "document_ids": [
+      "ticket_TICKET-84A1BBAE"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-84A1BBAE_0",
+      "chunk_TICKET-84A1BBAE_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-E37EC779",
+    "document_ids": [
+      "ticket_TICKET-E37EC779"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-E37EC779_0",
+      "chunk_TICKET-E37EC779_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-324091CF",
+    "document_ids": [
+      "ticket_TICKET-324091CF"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-324091CF_0",
+      "chunk_TICKET-324091CF_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-D24C4633",
+    "document_ids": [
+      "ticket_TICKET-D24C4633"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-D24C4633_0",
+      "chunk_TICKET-D24C4633_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-DC1EFF0D",
+    "document_ids": [
+      "ticket_TICKET-DC1EFF0D"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-DC1EFF0D_0",
+      "chunk_TICKET-DC1EFF0D_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-25952F16",
+    "document_ids": [
+      "ticket_TICKET-25952F16"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-25952F16_0",
+      "chunk_TICKET-25952F16_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-0B435E8F",
+    "document_ids": [
+      "ticket_TICKET-0B435E8F"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-0B435E8F_0",
+      "chunk_TICKET-0B435E8F_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-3830EE93",
+    "document_ids": [
+      "ticket_TICKET-3830EE93"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-3830EE93_0",
+      "chunk_TICKET-3830EE93_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-6E1B4D4D",
+    "document_ids": [
+      "ticket_TICKET-6E1B4D4D"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-6E1B4D4D_0",
+      "chunk_TICKET-6E1B4D4D_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-FB146AA9",
+    "document_ids": [
+      "ticket_TICKET-FB146AA9"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-FB146AA9_0",
+      "chunk_TICKET-FB146AA9_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-C0418663",
+    "document_ids": [
+      "ticket_TICKET-C0418663"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-C0418663_0",
+      "chunk_TICKET-C0418663_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-D44547FF",
+    "document_ids": [
+      "ticket_TICKET-D44547FF"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-D44547FF_0",
+      "chunk_TICKET-D44547FF_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-F286D883",
+    "document_ids": [
+      "ticket_TICKET-F286D883"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-F286D883_0",
+      "chunk_TICKET-F286D883_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-CEE627E7",
+    "document_ids": [
+      "ticket_TICKET-CEE627E7"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-CEE627E7_0",
+      "chunk_TICKET-CEE627E7_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-E937AD1A",
+    "document_ids": [
+      "ticket_TICKET-E937AD1A"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-E937AD1A_0",
+      "chunk_TICKET-E937AD1A_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-D4A434F0",
+    "document_ids": [
+      "ticket_TICKET-D4A434F0"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-D4A434F0_0",
+      "chunk_TICKET-D4A434F0_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-8A1AB0BD",
+    "document_ids": [
+      "ticket_TICKET-8A1AB0BD"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-8A1AB0BD_0",
+      "chunk_TICKET-8A1AB0BD_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-F5EE3EE0",
+    "document_ids": [
+      "ticket_TICKET-F5EE3EE0"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-F5EE3EE0_0",
+      "chunk_TICKET-F5EE3EE0_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-9FEBB222",
+    "document_ids": [
+      "ticket_TICKET-9FEBB222"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-9FEBB222_0",
+      "chunk_TICKET-9FEBB222_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-6444C90A",
+    "document_ids": [
+      "ticket_TICKET-6444C90A"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-6444C90A_0",
+      "chunk_TICKET-6444C90A_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-5365BBDB",
+    "document_ids": [
+      "ticket_TICKET-5365BBDB"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-5365BBDB_0",
+      "chunk_TICKET-5365BBDB_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-C32A575B",
+    "document_ids": [
+      "ticket_TICKET-C32A575B"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-C32A575B_0",
+      "chunk_TICKET-C32A575B_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-5AE1E039",
+    "document_ids": [
+      "ticket_TICKET-5AE1E039"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-5AE1E039_0",
+      "chunk_TICKET-5AE1E039_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-FE64C115",
+    "document_ids": [
+      "ticket_TICKET-FE64C115"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-FE64C115_0",
+      "chunk_TICKET-FE64C115_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-9E81EDEA",
+    "document_ids": [
+      "ticket_TICKET-9E81EDEA"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-9E81EDEA_0",
+      "chunk_TICKET-9E81EDEA_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-AB41DEF5",
+    "document_ids": [
+      "ticket_TICKET-AB41DEF5"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-AB41DEF5_0",
+      "chunk_TICKET-AB41DEF5_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-21A69013",
+    "document_ids": [
+      "ticket_TICKET-21A69013"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-21A69013_0",
+      "chunk_TICKET-21A69013_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-7FC92730",
+    "document_ids": [
+      "ticket_TICKET-7FC92730"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-7FC92730_0",
+      "chunk_TICKET-7FC92730_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-48E403E3",
+    "document_ids": [
+      "ticket_TICKET-48E403E3"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-48E403E3_0",
+      "chunk_TICKET-48E403E3_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-D597CF43",
+    "document_ids": [
+      "ticket_TICKET-D597CF43"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-D597CF43_0",
+      "chunk_TICKET-D597CF43_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-4953F63F",
+    "document_ids": [
+      "ticket_TICKET-4953F63F"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-4953F63F_0",
+      "chunk_TICKET-4953F63F_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-CEFC7BB0",
+    "document_ids": [
+      "ticket_TICKET-CEFC7BB0"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-CEFC7BB0_0",
+      "chunk_TICKET-CEFC7BB0_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-FD8B5474",
+    "document_ids": [
+      "ticket_TICKET-FD8B5474"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-FD8B5474_0",
+      "chunk_TICKET-FD8B5474_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-497FA072",
+    "document_ids": [
+      "ticket_TICKET-497FA072"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-497FA072_0",
+      "chunk_TICKET-497FA072_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-8D4434F5",
+    "document_ids": [
+      "ticket_TICKET-8D4434F5"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-8D4434F5_0",
+      "chunk_TICKET-8D4434F5_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-C91DC407",
+    "document_ids": [
+      "ticket_TICKET-C91DC407"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-C91DC407_0",
+      "chunk_TICKET-C91DC407_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-1ACFAFEF",
+    "document_ids": [
+      "ticket_TICKET-1ACFAFEF"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-1ACFAFEF_0",
+      "chunk_TICKET-1ACFAFEF_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-C850CB78",
+    "document_ids": [
+      "ticket_TICKET-C850CB78"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-C850CB78_0",
+      "chunk_TICKET-C850CB78_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-1F8CDB4E",
+    "document_ids": [
+      "ticket_TICKET-1F8CDB4E"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-1F8CDB4E_0",
+      "chunk_TICKET-1F8CDB4E_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-CCD93EAA",
+    "document_ids": [
+      "ticket_TICKET-CCD93EAA"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-CCD93EAA_0",
+      "chunk_TICKET-CCD93EAA_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-CF3399B4",
+    "document_ids": [
+      "ticket_TICKET-CF3399B4"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-CF3399B4_0",
+      "chunk_TICKET-CF3399B4_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-4C56EB85",
+    "document_ids": [
+      "ticket_TICKET-4C56EB85"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-4C56EB85_0",
+      "chunk_TICKET-4C56EB85_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-F3DC7547",
+    "document_ids": [
+      "ticket_TICKET-F3DC7547"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-F3DC7547_0",
+      "chunk_TICKET-F3DC7547_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-DA709178",
+    "document_ids": [
+      "ticket_TICKET-DA709178"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-DA709178_0",
+      "chunk_TICKET-DA709178_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-8FA132B9",
+    "document_ids": [
+      "ticket_TICKET-8FA132B9"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-8FA132B9_0",
+      "chunk_TICKET-8FA132B9_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-3FA2EA96",
+    "document_ids": [
+      "ticket_TICKET-3FA2EA96"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-3FA2EA96_0",
+      "chunk_TICKET-3FA2EA96_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-6A3C4AF4",
+    "document_ids": [
+      "ticket_TICKET-6A3C4AF4"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-6A3C4AF4_0",
+      "chunk_TICKET-6A3C4AF4_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-B7E5BAF5",
+    "document_ids": [
+      "ticket_TICKET-B7E5BAF5"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-B7E5BAF5_0",
+      "chunk_TICKET-B7E5BAF5_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-36EE0CA8",
+    "document_ids": [
+      "ticket_TICKET-36EE0CA8"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-36EE0CA8_0",
+      "chunk_TICKET-36EE0CA8_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-13A4D713",
+    "document_ids": [
+      "ticket_TICKET-13A4D713"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-13A4D713_0",
+      "chunk_TICKET-13A4D713_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-9C85BD77",
+    "document_ids": [
+      "ticket_TICKET-9C85BD77"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-9C85BD77_0",
+      "chunk_TICKET-9C85BD77_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-C32A4CEF",
+    "document_ids": [
+      "ticket_TICKET-C32A4CEF"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-C32A4CEF_0",
+      "chunk_TICKET-C32A4CEF_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-7518F9EF",
+    "document_ids": [
+      "ticket_TICKET-7518F9EF"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-7518F9EF_0",
+      "chunk_TICKET-7518F9EF_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-26B7EFE9",
+    "document_ids": [
+      "ticket_TICKET-26B7EFE9"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-26B7EFE9_0",
+      "chunk_TICKET-26B7EFE9_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-DCA0E6FA",
+    "document_ids": [
+      "ticket_TICKET-DCA0E6FA"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-DCA0E6FA_0",
+      "chunk_TICKET-DCA0E6FA_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-77C9E09A",
+    "document_ids": [
+      "ticket_TICKET-77C9E09A"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-77C9E09A_0",
+      "chunk_TICKET-77C9E09A_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-2A1A1D79",
+    "document_ids": [
+      "ticket_TICKET-2A1A1D79"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-2A1A1D79_0",
+      "chunk_TICKET-2A1A1D79_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-F3513BEB",
+    "document_ids": [
+      "ticket_TICKET-F3513BEB"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-F3513BEB_0",
+      "chunk_TICKET-F3513BEB_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-4AC1970D",
+    "document_ids": [
+      "ticket_TICKET-4AC1970D"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-4AC1970D_0",
+      "chunk_TICKET-4AC1970D_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-2872D892",
+    "document_ids": [
+      "ticket_TICKET-2872D892"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-2872D892_0",
+      "chunk_TICKET-2872D892_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-9CF49826",
+    "document_ids": [
+      "ticket_TICKET-9CF49826"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-9CF49826_0",
+      "chunk_TICKET-9CF49826_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-368BC61D",
+    "document_ids": [
+      "ticket_TICKET-368BC61D"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-368BC61D_0",
+      "chunk_TICKET-368BC61D_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-19D0CFA0",
+    "document_ids": [
+      "ticket_TICKET-19D0CFA0"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-19D0CFA0_0",
+      "chunk_TICKET-19D0CFA0_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-69B4CD21",
+    "document_ids": [
+      "ticket_TICKET-69B4CD21"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-69B4CD21_0",
+      "chunk_TICKET-69B4CD21_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-AB37029B",
+    "document_ids": [
+      "ticket_TICKET-AB37029B"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-AB37029B_0",
+      "chunk_TICKET-AB37029B_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-B1D018EA",
+    "document_ids": [
+      "ticket_TICKET-B1D018EA"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-B1D018EA_0",
+      "chunk_TICKET-B1D018EA_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-69230A9D",
+    "document_ids": [
+      "ticket_TICKET-69230A9D"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-69230A9D_0",
+      "chunk_TICKET-69230A9D_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-E330B576",
+    "document_ids": [
+      "ticket_TICKET-E330B576"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-E330B576_0",
+      "chunk_TICKET-E330B576_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-CFFD6D31",
+    "document_ids": [
+      "ticket_TICKET-CFFD6D31"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-CFFD6D31_0",
+      "chunk_TICKET-CFFD6D31_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-5EA43C90",
+    "document_ids": [
+      "ticket_TICKET-5EA43C90"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-5EA43C90_0",
+      "chunk_TICKET-5EA43C90_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-E1FB606E",
+    "document_ids": [
+      "ticket_TICKET-E1FB606E"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-E1FB606E_0",
+      "chunk_TICKET-E1FB606E_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-EAE601FD",
+    "document_ids": [
+      "ticket_TICKET-EAE601FD"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-EAE601FD_0",
+      "chunk_TICKET-EAE601FD_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-9FB5360A",
+    "document_ids": [
+      "ticket_TICKET-9FB5360A"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-9FB5360A_0",
+      "chunk_TICKET-9FB5360A_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-6569788D",
+    "document_ids": [
+      "ticket_TICKET-6569788D"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-6569788D_0",
+      "chunk_TICKET-6569788D_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-5ECAAF66",
+    "document_ids": [
+      "ticket_TICKET-5ECAAF66"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-5ECAAF66_0",
+      "chunk_TICKET-5ECAAF66_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-E8D46E23",
+    "document_ids": [
+      "ticket_TICKET-E8D46E23"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-E8D46E23_0",
+      "chunk_TICKET-E8D46E23_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-952F4294",
+    "document_ids": [
+      "ticket_TICKET-952F4294"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-952F4294_0",
+      "chunk_TICKET-952F4294_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-92FE59A4",
+    "document_ids": [
+      "ticket_TICKET-92FE59A4"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-92FE59A4_0",
+      "chunk_TICKET-92FE59A4_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-0957A9AC",
+    "document_ids": [
+      "ticket_TICKET-0957A9AC"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-0957A9AC_0",
+      "chunk_TICKET-0957A9AC_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-58DBC022",
+    "document_ids": [
+      "ticket_TICKET-58DBC022"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-58DBC022_0",
+      "chunk_TICKET-58DBC022_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-6E8CB594",
+    "document_ids": [
+      "ticket_TICKET-6E8CB594"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-6E8CB594_0",
+      "chunk_TICKET-6E8CB594_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-B4348357",
+    "document_ids": [
+      "ticket_TICKET-B4348357"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-B4348357_0",
+      "chunk_TICKET-B4348357_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-69371E7D",
+    "document_ids": [
+      "ticket_TICKET-69371E7D"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-69371E7D_0",
+      "chunk_TICKET-69371E7D_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-BA4AD2EA",
+    "document_ids": [
+      "ticket_TICKET-BA4AD2EA"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-BA4AD2EA_0",
+      "chunk_TICKET-BA4AD2EA_1"
+    ]
+  },
+  {
+    "query_id": "TICKET-95081195",
+    "document_ids": [
+      "ticket_TICKET-95081195"
+    ],
+    "chunk_ids": [
+      "chunk_TICKET-95081195_0",
+      "chunk_TICKET-95081195_1"
+    ]
+  }
+]
