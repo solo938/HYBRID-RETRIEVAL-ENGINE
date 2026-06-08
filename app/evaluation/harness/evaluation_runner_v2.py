@@ -63,13 +63,13 @@ class RealRetrievalEvaluator:
     
     def run_evaluation(self, split: str = "dev", k_values: List[int] = [5, 10]):
         """Run complete evaluation with real retriever"""
-        print(f"\n📊 Running evaluation on {split} split...")
+        print(f"\n Running evaluation on {split} split...")
         print("=" * 50)
         
         queries = self.load_golden_queries(split)
         relevance_judgments = self.load_relevance_judgments()
         
-        print(f"📝 Loaded {len(queries)} queries")
+        print(f" Loaded {len(queries)} queries")
         print(f"🔍 Testing retrieval...")
         
         metrics = {f"recall@{k}": [] for k in k_values}
@@ -133,5 +133,5 @@ if __name__ == "__main__":
     evaluator.save_results(results, split="dev")
     
     print("\n" + "=" * 50)
-    print("🎯 Next: Run on test split when ready")
+    print(" Next: Run on test split when ready")
     print("python app/evaluation/harness/evaluation_runner_v2.py --split test")
