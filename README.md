@@ -23,6 +23,9 @@ https://github.com/user-attachments/assets/586804ea-2619-495e-9b45-015cca385ef9
 | v1.2 | Dense + MiniLM Cross-Encoder | **0.40** | **0.73** | **0.24** | **0.36** | 340ms |
 
 > Evaluated on 75 queries from SQuAD v2 dev split. CI gate runs automatically on every push and pull request.
+> <p align="center">
+  <img src="https://raw.githubusercontent.com/solo938/HYBRID-RETRIEVAL-ENGINE/main/HYBRID%20RETRIEVAL%20ENGINE%20RERANK.png" width="1000">
+</p>
 
 ---
 
