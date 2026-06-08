@@ -56,17 +56,17 @@ This gate runs automatically on every `git push` — preventing any model update
 ┌─────────────────────────────────────────────────────────────────────┐
 │                        INGESTION PIPELINE                           │
 │                                                                     │
-│   PDFs · HTML · Markdown · JSON · Excel · Wikis · Tickets · Logs   │
+│   PDFs · HTML · Markdown · JSON · Excel · Wikis · Tickets · Logs    │
 │      │                                                              │
 │      ▼                                                              │
-│  ┌─────────┐  ┌─────────────┐  ┌────────────┐  ┌───────────────┐  │
-│  │ Parsers │→ │  Chunking   │→ │ Enrichment │→ │  Embedding    │  │
-│  │pdf/html │  │ semantic    │  │ entity     │  │ BGE-small     │  │
-│  │markdown │  │ recursive   │  │ keyword    │  │ batch embed   │  │
-│  │json/xlsx│  │ metadata    │  │ metadata   │  │ cache layer   │  │
-│  └─────────┘  └─────────────┘  └────────────┘  └──────┬────────┘  │
+│  ┌─────────┐  ┌─────────────┐  ┌────────────┐  ┌───────────────┐    │
+│  │ Parsers │→ │  Chunking   │→ │ Enrichment │→ │  Embedding    │    │
+│  │pdf/html │  │ semantic    │  │ entity     │  │ BGE-small     │    │
+│  │markdown │  │ recursive   │  │ keyword    │  │ batch embed   │    │
+│  │json/xlsx│  │ metadata    │  │ metadata   │  │ cache layer   │    │
+│  └─────────┘  └─────────────┘  └────────────┘  └──────┬────────┘    │
 │                                                         │           │
-│                                   ┌─────────────────────▼────────┐ │
+│                                   ┌─────────────────────▼────────┐  │
 │                                   │      ACL-Aware Indexing       │ │
 │                                   │  Qdrant vector index (HNSW)   │ │
 │                                   │  BM25 sparse index            │ │
@@ -80,13 +80,13 @@ This gate runs automatically on every `git push` — preventing any model update
 │   User Query                                                        │
 │      │                                                              │
 │      ▼                                                              │
-│  ┌──────────────────────────────────────────────────────────────┐  │
-│  │                    Query Understanding                        │  │
-│  │  Intent Classification → Query Rewriting → Multi-Query       │  │
-│  │  Expansion → Synonym/Acronym Expansion → Entity Boosting     │  │
-│  └─────────────────────────┬────────────────────────────────────┘  │
+│  ┌──────────────────────────────────────────────────────────────┐   │
+│  │                    Query Understanding                       │   │
+│  │  Intent Classification → Query Rewriting → Multi-Query       │   │
+│  │  Expansion → Synonym/Acronym Expansion → Entity Boosting     │   │
+│  └─────────────────────────┬────────────────────────────────────┘   │
 │                            │                                        │
-│         ┌──────────────────┴──────────────────┐                    │
+│         ┌──────────────────┴──────────────────┐                     │
 │         ▼                                      ▼                    │
 │  ┌──────────────────┐              ┌───────────────────────┐        │
 │  │ Dense Retrieval  │              │   Sparse Retrieval    │        │
@@ -95,7 +95,7 @@ This gate runs automatically on every `git push` — preventing any model update
 │  │ Cosine sim       │              │   TF-IDF scoring      │        │
 │  └────────┬─────────┘              └───────────┬───────────┘        │
 │           │                                    │                    │
-│           └──────────────┬─────────────────────┘                   │
+│           └──────────────┬─────────────────────┘                    │
 │                          ▼                                          │
 │              ┌───────────────────────┐                              │
 │              │      Fusion Layer     │                              │
@@ -132,7 +132,7 @@ This gate runs automatically on every `git push` — preventing any model update
 ┌─────────────────────────────────────────────────────────────────────┐
 │                       EVALUATION PIPELINE                           │
 │                                                                     │
-│   Golden Dataset (SQuAD v2 + IT Tickets)                           │
+│   Golden Dataset (SQuAD v2 + IT Tickets)                            │
 │      │                                                              │
 │      ▼                                                              │
 │  Retrieval Eval        Generation Eval        Regression Tests      │
