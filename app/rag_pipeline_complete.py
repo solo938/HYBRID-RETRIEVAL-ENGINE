@@ -34,7 +34,7 @@ class CompleteRAGPipeline:
     """End-to-end RAG pipeline with all features"""
     
     def __init__(self):
-        print("🚀 Initializing Complete RAG Pipeline...")
+        print(" Initializing Complete RAG Pipeline...")
         
         # Load models
         self.dense_model = SentenceTransformer("BAAI/bge-small-en-v1.5")
@@ -53,7 +53,7 @@ class CompleteRAGPipeline:
             "avg_recall": 0
         }
         
-        print(f"✅ Pipeline ready with {len(self.documents)} documents")
+        print(f" Pipeline ready with {len(self.documents)} documents")
     
     def _load_documents(self):
         """Load documents from golden dataset"""
@@ -221,8 +221,8 @@ Answer:"""
         }
         
         if verbose:
-            print(f"✅ Answer generated in {total_latency:.0f}ms (${generation_result.cost_usd:.6f})")
-            print(f"📖 Answer: {generation_result.answer[:200]}...")
+            print(f" Answer generated in {total_latency:.0f}ms (${generation_result.cost_usd:.6f})")
+            print(f" Answer: {generation_result.answer[:200]}...")
         
         return result
     
@@ -248,13 +248,13 @@ if __name__ == "__main__":
     ]
     
     print("\n" + "="*60)
-    print("🧪 Testing Complete RAG Pipeline")
+    print(" Testing Complete RAG Pipeline")
     print("="*60)
     
     for query in test_queries:
         result = pipeline.query(query)
         
-    print("\n📊 Pipeline Metrics:")
+    print("\n Pipeline Metrics:")
     metrics = pipeline.get_metrics()
     for k, v in metrics.items():
         print(f"  {k}: {v}")
