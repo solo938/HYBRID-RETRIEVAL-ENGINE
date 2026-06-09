@@ -16,7 +16,7 @@ import numpy as np
 
 class DocumentIngestor:
     def __init__(self):
-        print("🚀 Initializing Document Ingestor...")
+        print(" Initializing Document Ingestor...")
         self.model = SentenceTransformer("BAAI/bge-small-en-v1.5")
         self.documents = []
         self.chunk_id = 0
@@ -26,7 +26,7 @@ class DocumentIngestor:
         from pypdf import PdfReader
         pdf_dir = Path(pdf_dir)
         if not pdf_dir.exists():
-            print(f"  ⚠️ PDF directory not found: {pdf_dir}")
+            print(f"  PDF directory not found: {pdf_dir}")
             return
         
         for pdf_file in pdf_dir.glob("*.pdf"):
@@ -44,16 +44,16 @@ class DocumentIngestor:
                         "type": "pdf",
                         "title": pdf_file.stem
                     })
-                    print(f"  ✅ Ingested: {pdf_file.name} ({len(text[:2000])} chars)")
+                    print(f"   Ingested: {pdf_file.name} ({len(text[:2000])} chars)")
             except Exception as e:
-                print(f"  ❌ Failed to ingest {pdf_file.name}: {e}")
+                print(f"   Failed to ingest {pdf_file.name}: {e}")
     
     def ingest_html(self, html_dir: str = "data/raw/html"):
         """Ingest HTML files"""
         from bs4 import BeautifulSoup
         html_dir = Path(html_dir)
         if not html_dir.exists():
-            print(f"  ⚠️ HTML directory not found: {html_dir}")
+            print(f"   HTML directory not found: {html_dir}")
             return
         
         for html_file in html_dir.glob("*.html"):
@@ -77,16 +77,16 @@ class DocumentIngestor:
                         "type": "html",
                         "title": html_file.stem
                     })
-                    print(f"  ✅ Ingested: {html_file.name} ({len(text[:2000])} chars)")
+                    print(f"   Ingested: {html_file.name} ({len(text[:2000])} chars)")
             except Exception as e:
-                print(f"  ❌ Failed to ingest {html_file.name}: {e}")
+                print(f"  Failed to ingest {html_file.name}: {e}")
     
     def ingest_excel(self, excel_dir: str = "data/raw/excel"):
         """Ingest Excel files"""
         import pandas as pd
         excel_dir = Path(excel_dir)
         if not excel_dir.exists():
-            print(f"  ⚠️ Excel directory not found: {excel_dir}")
+            print(f"   Excel directory not found: {excel_dir}")
             return
         
         for excel_file in excel_dir.glob("*.xlsx"):
@@ -101,15 +101,15 @@ class DocumentIngestor:
                     "title": excel_file.stem,
                     "metadata": {col: str(df[col].iloc[0]) if len(df) > 0 else "" for col in df.columns[:5]}
                 })
-                print(f"  ✅ Ingested: {excel_file.name} ({len(text[:2000])} chars)")
+                print(f"  Ingested: {excel_file.name} ({len(text[:2000])} chars)")
             except Exception as e:
-                print(f"  ❌ Failed to ingest {excel_file.name}: {e}")
+                print(f"   Failed to ingest {excel_file.name}: {e}")
     
     def ingest_json(self, json_dir: str = "data/raw/json"):
         """Ingest JSON files"""
         json_dir = Path(json_dir)
         if not json_dir.exists():
-            print(f"  ⚠️ JSON directory not found: {json_dir}")
+            print(f"   JSON directory not found: {json_dir}")
             return
         
         for json_file in json_dir.glob("*.json"):
@@ -137,15 +137,15 @@ class DocumentIngestor:
                         "type": "json",
                         "title": json_file.stem
                     })
-                print(f"  ✅ Ingested: {json_file.name}")
+                print(f"   Ingested: {json_file.name}")
             except Exception as e:
-                print(f"  ❌ Failed to ingest {json_file.name}: {e}")
+                print(f"   Failed to ingest {json_file.name}: {e}")
     
     def ingest_markdown(self, md_dir: str = "data/raw/markdown"):
         """Ingest Markdown files"""
         md_dir = Path(md_dir)
         if not md_dir.exists():
-            print(f"  ⚠️ Markdown directory not found: {md_dir}")
+            print(f"   Markdown directory not found: {md_dir}")
             return
         
         for md_file in md_dir.glob("*.md"):
@@ -160,9 +160,9 @@ class DocumentIngestor:
                     "type": "markdown",
                     "title": md_file.stem
                 })
-                print(f"  ✅ Ingested: {md_file.name} ({len(text[:2000])} chars)")
+                print(f"   Ingested: {md_file.name} ({len(text[:2000])} chars)")
             except Exception as e:
-                print(f"  ❌ Failed to ingest {md_file.name}: {e}")
+                print(f"   Failed to ingest {md_file.name}: {e}")
     
     def ingest_all(self):
         """Ingest all document types"""
@@ -173,7 +173,7 @@ class DocumentIngestor:
         self.ingest_json()
         self.ingest_markdown()
         
-        print(f"\n✅ Total documents ingested: {len(self.documents)}")
+        print(f"\n Total documents ingested: {len(self.documents)}")
         
         # Generate embeddings
         if self.documents:
@@ -190,7 +190,7 @@ class DocumentIngestor:
             with open("data/processed/all_documents_index.json", "w") as f:
                 json.dump(output, f, indent=2)
             
-            print(f"✅ Saved index with {len(self.documents)} documents")
+            print(f" Saved index with {len(self.documents)} documents")
         
         return self.documents
 
