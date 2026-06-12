@@ -11,7 +11,7 @@
 
 ## 🎬 Demo
 
-https://github.com/user-attachments/assets/586804ea-2619-495e-9b45-015cca385ef9
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge)](https://github.com/user-attachments/assets/586804ea-2619-495e-9b45-015cca385ef9)
 
 ---
 
@@ -250,10 +250,10 @@ cd HYBRID-RETRIEVAL-ENGINE
 pip install -r requirements.txt
 
 # Build golden evaluation dataset from SQuAD v2
-python app/evaluation/datasets/golden_dataset_builder.py
+python3 app/evaluation/datasets/golden_dataset_builder.py
 
 # Run CI quality gate locally
-python .github/scripts/eval_gate.py
+python3 .github/scripts/eval_gate.py
 
 # Start the API
 uvicorn app.api.main:app --reload
