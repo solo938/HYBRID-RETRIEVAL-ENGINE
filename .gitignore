@@ -1,1 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
 .env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Data files
+data/raw/**/*.pdf
+data/raw/**/*.xlsx
+data/raw/**/*.html
+data/processed/
+*.parquet
+
+# Cache
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+
+# Models cache
+~/.cache/huggingface/
+*.bin
+*.safetensors
+
+# Large files
+*.mp4
+*.mov
+*.tar.gz
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Local configs
+.env.local
