@@ -2,9 +2,9 @@ name: RAG Evaluation Quality Gate
 
 on:
   push:
-    branches: [main, master]
+    branches: [ main, master ]
   pull_request:
-    branches: [main, master]
+    branches: [ main, master ]
 
 jobs:
   eval-gate:
@@ -12,79 +12,30 @@ jobs:
     timeout-minutes: 20
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Cache pip packages
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
-
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
           pip install numpy sentence-transformers scikit-learn
 
-      - name: Create golden dataset for CI
+      - name: Create golden dataset
         run: |
-          python -c "
-import json
-from pathlib import Path
+          mkdir -p app/evaluation/datasets/goldens/eval_splits
+          echo '[{"id": "test_001", "text": "What is RAG?", "context": "RAG is Retrieval Augmented Generation."}]' > app/evaluation/datasets/goldens/questions.json
+          echo '[{"query_id": "test_001", "chunk_ids": ["test_001"]}]' > app/evaluation/datasets/goldens/relevant_docs.json
+          echo '[{"id": "test_001", "text": "What is RAG?"}]' > app/evaluation/datasets/goldens/eval_splits/retrieval_eval_dev.json
 
-# Create directories
-Path('app/evaluation/datasets/goldens/eval_splits').mkdir(parents=True, exist_ok=True)
-
-# Create questions.json
-questions = [
-    {
-        'id': 'test_001',
-        'text': 'What is Retrieval-Augmented Generation?',
-        'context': 'Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation to produce more accurate and grounded responses.',
-        'domain': 'test'
-    }
-]
-with open('app/evaluation/datasets/goldens/questions.json', 'w') as f:
-    json.dump(questions, f, indent=2)
-
-# Create relevant_docs.json
-relevant = [
-    {
-        'query_id': 'test_001',
-        'chunk_ids': ['test_001'],
-        'document_ids': ['test_001']
-    }
-]
-with open('app/evaluation/datasets/goldens/relevant_docs.json', 'w') as f:
-    json.dump(relevant, f, indent=2)
-
-# Create eval split
-eval_queries = [
-    {
-        'id': 'test_001',
-        'text': 'What is Retrieval-Augmented Generation?',
-        'domain': 'test'
-    }
-]
-with open('app/evaluation/datasets/goldens/eval_splits/retrieval_eval_dev.json', 'w') as f:
-    json.dump(eval_queries, f, indent=2)
-
-print('✅ Golden dataset created with 1 test query')
-"
-
-      - name: Run evaluation quality gate
+      - name: Run evaluation gate
         run: python .github/scripts/eval_gate.py
 
-      - name: Upload eval results
+      - name: Upload results
         uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: eval-results-${{ github.sha }}
+          name: eval-results
           path: app/evaluation/datasets/goldens/eval_results_ci.json
